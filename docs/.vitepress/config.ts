@@ -7,8 +7,8 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'zh-CN',
-      title: "志海融新の文稿",
-      description: "志海融新の文稿",
+      title: "Linux觅知园",
+      description: "Linux觅知园",
       themeConfig: {
         nav: [
           { text: '主页', link: 'https://zen-harmony.github.io/' },
@@ -58,8 +58,8 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       link: '/en/',
-      title: "Pzm9012's Site",
-      description: "A project to collect documents",
+      title: "Linux Knowledge Base",
+      description: "A project to collect Linux tutorial resources",
       themeConfig: {
         sidebar: [
           { text: 'Instructions', link: '/en/instructions' },
