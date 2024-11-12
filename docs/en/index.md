@@ -9,6 +9,9 @@ hero:
   actions:
     - theme: brand
       text: Let's Go!
+      link: /en/home
+    - theme: alt
+      text: Get involved
       link: /en/instructions
     - theme: alt
       text: Common Q&A
