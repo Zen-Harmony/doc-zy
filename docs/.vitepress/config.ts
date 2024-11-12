@@ -62,7 +62,8 @@ export default defineConfig({
       description: "A project to collect Linux tutorial resources",
       themeConfig: {
         sidebar: [
-          { text: 'Instructions', link: '/en/instructions' },
+          { text: 'Home', link: '/home' },
+          { text: 'Get involved', link: '/en/instructions' },
           {
             text: 'Deepin Common Q&A',
             items: [
