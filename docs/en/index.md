@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "Linux resource organisation"
-  tagline: 
+  name: "Linux Knowledge Base"
+  tagline: "A project to collect Linux tutorial resources"
   image: 
     src: /site-logo.png
   actions:
