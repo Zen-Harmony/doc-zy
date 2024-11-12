@@ -12,9 +12,9 @@ hero:
       text: 进入
       link: /home
     - theme: alt
-      text: 转到 deepin 常用资源整理
+      text: 转到 Linux 常用资源整理
       link: /Linux-src-col/main
     - theme: alt
-      text: 转到 deepin 高频问题解决方案整理
+      text: 转到 Linux 高频问题解决方案整理
       link: /Linux-solutions/frequently-asked
 ---
