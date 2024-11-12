@@ -13,7 +13,7 @@
 ### Windows 系统盘里的文件带有小锁图标，变成只读无法修改
 进入 Windows ，打开控制面板（Windows 11 请通过“Windows 工具”打开），进入“硬件和声音”>“电源选项”>“选择电源按钮的功能”，点击第3行“更改当前不可用的设置”（需要管理员），找到“关机设置”下的“启用快速启动”并取消勾选，点击“保存修改”。或者，每次先进入 Windows，再**重启**进入 deepin。
 
-### 电脑安装多系统，deepin 的时间比 Windows 的晚 8 个小时
+### 电脑安装多系统， Linux 的时间比 Windows 的晚 8 个小时
 Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = RTC），Linux 则是把电脑的硬件时间看成 UTC 时间（本地时间 = RTC+8 = UTC+8）。
 解决方法有让 Windows 使用 UTC 或让 deepin 按照 Windows 的方式管理时间。具体见[这里](/Linux-solutions/collect.html#linux-%E5%92%8C-windows-%E6%97%B6%E9%97%B4%E4%B8%8D%E5%90%8C%E6%AD%A5)。
 
