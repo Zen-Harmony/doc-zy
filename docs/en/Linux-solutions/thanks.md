@@ -1,7 +1,7 @@
 # Thanks
-Some contributors, in no particular order, are listed on this page. Please forgive any omissions and contact the author to add.
+Linux common resources have been collated and maintained to this day, and they are inseparable from the suggestions and contributions of enthusiastic people. This page lists the people who have contributed to this project, in no particular order. If there is any omission, please forgive me and contact us to add.
+Thank you for your efforts to make the resources more perfect.
 
-Thanks to the following persons for their collaboration/information/suggestions:
 - [Zen-Harmony](https://github.com/Zen-Harmony)
 - [PossibleVing](https://bbs.deepin.org/user/225373)
 - [pzm9012](https://github.com/pzm9012)
