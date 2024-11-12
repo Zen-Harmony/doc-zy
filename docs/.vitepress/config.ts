@@ -17,7 +17,7 @@ export default defineConfig({
         sidebar: {
           '/': [
             {
-              text: '文稿',
+              text: '',
               items: [
                 { text: '首页', link: '/home' },
                 {
