@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Linux Knowledge Base"
-  tagline: "A project to collect Linux tutorial resources"
+  tagline: "Organized Linux resources initiated by Zen-Harmony"
   image: 
     src: /site-logo.png
   actions:
