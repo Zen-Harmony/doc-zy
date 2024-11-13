@@ -35,18 +35,16 @@
 
 ### 1.2 知识汇总
 
-1. 助力UOS总站：[论坛页面](https://bbs.deepin.org/zh/post/221599)  [腾讯文档页面](https://docs.qq.com/mind/DWkJ4VlBXelRLWnVV)
-2. 深度易经：[https://github.com/bubifengyun/deepin-bible](https://github.com/bubifengyun/deepin-bible) （[作者](https://bbs.deepin.org/zh/user/16639)）  [金山文档转存链接](https://kdocs.cn/l/su4SlUCbOPtj)
-3. deepin折腾笔记：[https://bbs.deepin.org/zh/post/191781](https://bbs.deepin.org/zh/post/191781)  [金山文档转存链接(v6.6) ](https://kdocs.cn/l/shPDOoGspsbi)
-4. 我个人的linux学习笔记分享：[https://bbs.deepin.org/zh/post/242838](https://bbs.deepin.org/zh/post/242838)
-5. UOS/Deepin使用笔记：[https://bbs.deepin.org/post/243085](https://bbs.deepin.org/post/243085)
-6. V23 Alpha版本非官方Q&A （欢迎大家补充）：[https://bbs.deepin.org/post/245937](https://bbs.deepin.org/post/245937)
-7. linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
-8. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
-9. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
-10. 学习编程区资源整理（第一期·持续更新中）：[https://bbs.deepin.org/zh/post/255506](https://bbs.deepin.org/zh/post/255506)
-11. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
-12. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
+1. 深度易经：[https://github.com/bubifengyun/deepin-bible](https://github.com/bubifengyun/deepin-bible) （[作者](https://bbs.deepin.org/zh/user/16639)）  [金山文档转存链接](https://kdocs.cn/l/su4SlUCbOPtj)
+2. deepin折腾笔记：[https://bbs.deepin.org/zh/post/191781](https://bbs.deepin.org/zh/post/191781)  [金山文档转存链接(v6.6) ](https://kdocs.cn/l/shPDOoGspsbi)
+3. 我个人的linux学习笔记分享：[https://bbs.deepin.org/zh/post/242838](https://bbs.deepin.org/zh/post/242838)
+4. UOS/Deepin使用笔记：[https://bbs.deepin.org/post/243085](https://bbs.deepin.org/post/243085)
+5. V23 Alpha版本非官方Q&A （欢迎大家补充）：[https://bbs.deepin.org/post/245937](https://bbs.deepin.org/post/245937)
+6. linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
+7. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
+8. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
+9. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
+10. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
 
 ## 二、系统
 
