@@ -24,7 +24,7 @@
 
 ### 1.1 入门
 
-> 也可以看看其他用户使用 deepin 的[测评感受](/Linux-src-col/main.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
+> 也可以看看其他用户使用 Linux 的[测评感受](https://cloud.baidu.com/article/3249805)。
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)
 2. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755)
