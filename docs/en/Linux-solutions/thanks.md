@@ -12,6 +12,7 @@ Thanks to the following people for collaborating/providing resources/making sugg
 - [hanzn-zzx](https://github.com/hanzn-zzx)
 - [Linux-qitong](https://github.com/Linux-qitong) 
 - [Aninana](https://github.com/Aninana)
+- [Hydrangea-Offcial](https://github.com/Hydrangea-Offcial)
 - [xuqi](https://bbs.deepin.org/user/283437)
 - [nanming](https://bbs.deepin.org/user/239615)
 - [liwl](https://bbs.deepin.org/user/160805)
