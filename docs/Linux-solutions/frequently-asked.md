@@ -11,11 +11,11 @@
 输入密码时屏幕无回显，直接输入完按回车即可。
 
 ### Windows 系统盘里的文件带有小锁图标，变成只读无法修改
-进入 Windows ，打开控制面板（Windows 11 请通过“Windows 工具”打开），进入“硬件和声音”>“电源选项”>“选择电源按钮的功能”，点击第3行“更改当前不可用的设置”（需要管理员），找到“关机设置”下的“启用快速启动”并取消勾选，点击“保存修改”。或者，每次先进入 Windows，再**重启**进入 deepin。
+进入 Windows ，打开控制面板（Windows 11 请通过“Windows 工具”打开），进入“硬件和声音”>“电源选项”>“选择电源按钮的功能”，点击第3行“更改当前不可用的设置”（需要管理员），找到“关机设置”下的“启用快速启动”并取消勾选，点击“保存修改”。或者，每次先进入 Windows，再**重启**进入 Linux。
 
 ### 电脑安装多系统， Linux 的时间比 Windows 的晚 8 个小时
 Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = RTC），Linux 则是把电脑的硬件时间看成 UTC 时间（本地时间 = RTC+8 = UTC+8）。
-解决方法有让 Windows 使用 UTC 或让 deepin 按照 Windows 的方式管理时间。具体见[这里](/Linux-solutions/collect.html#linux-%E5%92%8C-windows-%E6%97%B6%E9%97%B4%E4%B8%8D%E5%90%8C%E6%AD%A5)。
+解决方法有让 Windows 使用 UTC 或让 Linux 按照 Windows 的方式管理时间。具体见[这里](/Linux-solutions/collect.html#linux-%E5%92%8C-windows-%E6%97%B6%E9%97%B4%E4%B8%8D%E5%90%8C%E6%AD%A5)。
 
 如出现快16个小时的情况，可能还需要调整时区为上海时区并调整时间偏移值。可以参考ArchWiki的[这篇文章](https://wiki.archlinuxcn.org/wiki/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4)
 
@@ -75,7 +75,7 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libt
 `.deepinwine`文件夹为隐藏项目，在文件管理器中按 Ctrl+H 可显示隐藏文件。以微信为例，删除`~/.deepinwine/Deepin-WeChat/`。
 
 ### Windows 应用内提示更新，点击更新后无反应
-此为正常现象，请从应用商店获取推送的更新。若自行更新，请手动下载最新版安装程序后在对应的目录中运行。
+此为正常现象，请从对应维护者那里获取推送更新。若自行更新，请手动下载最新版安装程序后在对应的目录中运行。
 
 ## 软件安装
 
@@ -92,4 +92,3 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libt
 
 ## 值得了解的事情
 - `sudo apt autoremove` 确认执行前一定要认真审阅将会移除的软件包列表，确定其中不含有系统组件，再进下一步操作，**务必不要随意执行**。
-- V23 目前的 Wayland 模式尚有较多问题，如锁屏界面可控制电脑、任务栏存在缺陷等，**不建议日常使用**。
