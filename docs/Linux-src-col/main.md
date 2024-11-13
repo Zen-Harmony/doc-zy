@@ -50,7 +50,7 @@
 
 1. **安装教程（官方）**：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)（建议使用ventoy制作启动盘）
 2. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
-3. 如何安装deepin-windows双系统：[https://bbs.deepin.org/zh/post/222739](https://bbs.deepin.org/zh/post/222739)
+3. 如何安装deepin-windows双系统：[https://bbs.deepin.org/zh/post/222739](https://bbs.deepin.org/zh/post/222739)**其他Linux可参考，换成要安装的镜像即可**
 4. 系统安装教程：[https://bbs.deepin.org/zh/post/226286](https://bbs.deepin.org/zh/post/226286)
 5. 双系统安装及手动分区方法：[https://bbs.deepin.org/zh/post/226463](https://bbs.deepin.org/zh/post/226463)
 6. 安装Windows和国产操作系统deepin双系统：[https://bbs.deepin.org/zh/post/256229](https://bbs.deepin.org/zh/post/256229)
