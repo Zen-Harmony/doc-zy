@@ -64,6 +64,7 @@ linux-headers-5.19.0-16                install
 linux-headers-5.19.0-16-generic        install
 linux-image-5.19.0-16-generic          install
 linux-modules-5.19.0-16-generic        install
+```
 
 清理多余的系统内核(复制需要卸载的内核名称，如下面示例)
 ```sh
