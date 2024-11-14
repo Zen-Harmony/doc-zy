@@ -59,7 +59,7 @@ dpkg --get-selections |grep linux
 
 以Ubuntu为例:当前系统中所有内核(精简了部分显示信息)
 ```sh
-root@linux:~# dpkg --get-selections |grep linux
+root@linux: dpkg --get-selections |grep linux
 linux-headers-5.19.0-16                install
 linux-headers-5.19.0-16-generic        install
 linux-image-5.19.0-16-generic          install
