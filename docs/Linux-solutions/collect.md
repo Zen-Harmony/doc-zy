@@ -45,18 +45,29 @@ timedatectl set-local-rtc 1
 timedatectl
 ```
 
-## 清理不需要的系统内核
-:::tip 出处
-见 [https://bbs.deepin.org/post/253636?postId=1438575](https://bbs.deepin.org/post/253636?postId=1438575) 2楼。
-:::
-查询当前系统的全部内核
+## 清理多余的系统内核
+
+查看当前的内核
 ```sh
-sudo dpkg -l | grep "linux-header|linux-image"
+uname -a
 ``` 
 
-清理不需要的内核
+查看当前系统中所有内核
 ```sh
-sudo apt purge xxxxx
+dpkg --get-selections |grep linux
+``` 
+
+以Ubuntu为例:当前系统中所有内核(精简了部分显示信息)
+```sh
+root@linux:~# dpkg --get-selections |grep linux
+linux-headers-5.19.0-16                install
+linux-headers-5.19.0-16-generic        install
+linux-image-5.19.0-16-generic          install
+linux-modules-5.19.0-16-generic        install
+
+清理多余的系统内核(复制需要卸载的内核名称，如下面示例)
+```sh
+sudo apt purge linux-headers-5.19.0-16 linux-headers-5.19.0-16-generic linux-image-5.19.0-16-generic linux-modules-5.19.0-16-generic 
 ```
 
 ## 自定义屏幕缩放
