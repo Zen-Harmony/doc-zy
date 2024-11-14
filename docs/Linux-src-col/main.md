@@ -1433,7 +1433,7 @@
 6. 【小知识】你的系统中有多少GNU：[https://bbs.deepin.org/zh/post/255440](https://bbs.deepin.org/zh/post/255440)
 7. 搭建hexo博客:[https://bbs.deepin.org/post/256318](https://bbs.deepin.org/post/256318)
 8. GitHub Actions自动部署hexo博客：[https://bbs.deepin.org/post/267452](https://bbs.deepin.org/post/267452)
-9. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254)[「走进大模型」篇](https://bbs.deepin.org/post/261256)
+9. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254) [「走进大模型」篇](https://bbs.deepin.org/post/261256)
 10. linux有关各文件系统的对比：[https://bbs.deepin.org/post/261617](https://bbs.deepin.org/post/261617)
 11. Docker下部署Bitwarden开源密码服务器：[https://bbs.deepin.org/post/263376](https://bbs.deepin.org/post/263376)
 12. Docker下的部署Plex媒体服务器：[https://bbs.deepin.org/post/263375](https://bbs.deepin.org/post/263375)
