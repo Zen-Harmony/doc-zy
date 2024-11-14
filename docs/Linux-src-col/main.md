@@ -704,85 +704,49 @@
 ##### 4.1.1.1 桌面部件及实用小工具
 
 1. 开源免费的utools 替代品--rubick2：[https://bbs.deepin.org/zh/post/241595](https://bbs.deepin.org/zh/post/241595)
-
 2. dde-dock 屏幕亮度插件[源码]：[https://bbs.deepin.org/post/265348](https://bbs.deepin.org/post/265348)
-
 3. 如何自己制作最好用的启动器？-为启动器添加常用应用程序：[https://bbs.deepin.org.cn/post/267026](https://bbs.deepin.org.cn/post/267026)
-
 4. dock实时网速：[https://bbs.deepin.org/post/267071](https://bbs.deepin.org/post/267071)
-
 5. 新版linux桌面小部件预览版欢迎体验：[https://bbs.deepin.org/post/253618](https://bbs.deepin.org/post/253618)
-
 6. deepin下的超级效率工具—超级标签栏：[https://bbs.deepin.org/zh/post/220860](https://bbs.deepin.org/zh/post/220860)  （提醒：该应用已有2年未更新）
-
 7. MPaste：剪贴板管理工具：[https://bbs.deepin.org/zh/post/220914](https://bbs.deepin.org/zh/post/220914)  （提醒：该应用已有2年未更新）
-
 8. screenkey：在屏幕上实时显示键盘操作：[https://bbs.deepin.org/zh/post/227849](https://bbs.deepin.org/zh/post/227849)
-
 9. Linux下的桌面便笺——xpad：[https://bbs.deepin.org/post/266656](https://bbs.deepin.org/post/266656)
-
 10. 桌面时钟：[https://bbs.deepin.org/post/264807](https://bbs.deepin.org/post/264807)
-
 11. 自动关闭PicGo自启动后的桌面小窗（一个小方框）：[https://bbs.deepin.org/post/264572](https://bbs.deepin.org/post/264572)
-
 12. Wine的Snipaste：[https://bbs.deepin.org/post/262966](https://bbs.deepin.org/post/262966)
-
 13. 推荐一个桌面小组件-Monit：[https://bbs.deepin.org/post/266399](https://bbs.deepin.org/post/266399)
-
 14. 通过双击桌面图标实现打开系统部分功能：[https://bbs.deepin.org/post/264052](https://bbs.deepin.org/post/264052)
-
 15. infomation-tips 系统状态提示器：[https://bbs.deepin.org/zh/post/230635](https://bbs.deepin.org/zh/post/230635)
-
 16. OCR屏幕取词插件「Goldendict 」：[https://bbs.deepin.org/post/241477](https://bbs.deepin.org/post/241477)
-
 17. Pensela：一款跨平台屏幕注释工具：[https://bbs.deepin.org/zh/post/227701](https://bbs.deepin.org/zh/post/227701)
-
 18. 深度取色器：[https://bbs.deepin.org/zh/post/237906](https://bbs.deepin.org/zh/post/237906)
-
 19. 船新的Dock插件，助你认识网瘾，欢迎尝鲜/捉虫：[https://bbs.deepin.org/zh/post/238791](https://bbs.deepin.org/zh/post/238791)
-
 20. conky体验：[https://bbs.deepin.org/zh/post/239050](https://bbs.deepin.org/zh/post/239050)
-
 21. conky，桌面监控功能工具，整理收藏：[https://bbs.deepin.org/post/255785](https://bbs.deepin.org/post/255785)
-
 22. Xpad 桌面便签：[https://bbs.deepin.org/zh/post/239288](https://bbs.deepin.org/zh/post/239288)
-
 23. 屏亮小灯 应用发布：[https://bbs.deepin.org/post/244531](https://bbs.deepin.org/post/244531)
-
 24. [deepin-desktop-helper]介绍：[https://bbs.deepin.org/zh/post/248840](https://bbs.deepin.org/zh/post/248840)
-
 25. 任务栏网速插件：回归：[https://bbs.deepin.org/post/272649](https://bbs.deepin.org/post/272649)
     
 ##### 4.1.1.2 跨端协同及远程控制
 
-26. 统信UOS助手移植分享：[https://bbs.deepin.org/zh/post/230801](https://bbs.deepin.org/zh/post/230801)
-
-27. 基于dtk和rdesktop的rdp远程桌面工具1.2.0-1发布：[https://bbs.deepin.org/zh/post/237866](https://bbs.deepin.org/zh/post/237866)
-
-28. Macast——一个跨平台的DLNA投屏接收器：[https://bbs.deepin.org/zh/post/225095](https://bbs.deepin.org/zh/post/225095)
-
-29. Deskreen投屏，Linux同wifi下投屏的解决方案：[https://bbs.deepin.org/zh/post/230214](https://bbs.deepin.org/zh/post/230214)
-
-30. vivo互传（wine）：[https://bbs.deepin.org/zh/post/221939](https://bbs.deepin.org/zh/post/221939)
-
-31. deepin下安装Citrix Receiver连接云桌面：[https://bbs.deepin.org/zh/post/232020](https://bbs.deepin.org/zh/post/232020)
-
-32. 跨平台共享使用鼠标和键盘【Barrier】安装记：[https://bbs.deepin.org/zh/post/239679](https://bbs.deepin.org/zh/post/239679)
-
-33. Linux版本的HandShaker，欢迎下载尝试并反馈：[https://bbs.deepin.org/post/240764](https://bbs.deepin.org/post/240764)
-
-34. 局域网文件互传工具《小路速传》：[https://bbs.deepin.org/post/267705](https://bbs.deepin.org/post/267705)
-
-35. deepinV23成功运行easyconnect：[https://bbs.deepin.org/post/267579](https://bbs.deepin.org/post/267579)
-
-36. LocalSend——或许是迄今最好用的跨端文件传输工具之一：[https://bbs.deepin.org/post/265838](https://bbs.deepin.org/post/265838)
-
-37. gwakeonlan中文版下载：[https://bbs.deepin.org/post/265157](https://bbs.deepin.org/post/265157)
-38. DeepinV23 beta2编译KDE connect：[https://bbs.deepin.org/post/262929](https://bbs.deepin.org/post/262929)
+1. 统信UOS助手移植分享：[https://bbs.deepin.org/zh/post/230801](https://bbs.deepin.org/zh/post/230801)
+2. 基于dtk和rdesktop的rdp远程桌面工具1.2.0-1发布：[https://bbs.deepin.org/zh/post/237866](https://bbs.deepin.org/zh/post/237866)
+3. Macast——一个跨平台的DLNA投屏接收器：[https://bbs.deepin.org/zh/post/225095](https://bbs.deepin.org/zh/post/225095)
+4. Deskreen投屏，Linux同wifi下投屏的解决方案：[https://bbs.deepin.org/zh/post/230214](https://bbs.deepin.org/zh/post/230214)
+5. vivo互传（wine）：[https://bbs.deepin.org/zh/post/221939](https://bbs.deepin.org/zh/post/221939)
+6. deepin下安装Citrix Receiver连接云桌面：[https://bbs.deepin.org/zh/post/232020](https://bbs.deepin.org/zh/post/232020)
+7. 跨平台共享使用鼠标和键盘【Barrier】安装记：[https://bbs.deepin.org/zh/post/239679](https://bbs.deepin.org/zh/post/239679)
+8. Linux版本的HandShaker，欢迎下载尝试并反馈：[https://bbs.deepin.org/post/240764](https://bbs.deepin.org/post/240764)
+9. 局域网文件互传工具《小路速传》：[https://bbs.deepin.org/post/267705](https://bbs.deepin.org/post/267705)
+10. deepinV23成功运行easyconnect：[https://bbs.deepin.org/post/267579](https://bbs.deepin.org/post/267579)
+11. LocalSend——或许是迄今最好用的跨端文件传输工具之一：[https://bbs.deepin.org/post/265838](https://bbs.deepin.org/post/265838)
+12. gwakeonlan中文版下载：[https://bbs.deepin.org/post/265157](https://bbs.deepin.org/post/265157)
+13. DeepinV23 beta2编译KDE connect：[https://bbs.deepin.org/post/262929](https://bbs.deepin.org/post/262929)
 > 在V23版本上安装kdeconnect的deb包：[https://bbs.deepin.org/post/263111](https://bbs.deepin.org/post/263111)
-39. 20.9可用的Moonlight：[https://bbs.deepin.org/post/264309](https://bbs.deepin.org/post/264309)
-40. 临时解决remmina无法连接服务器--更改安全协商、降版本都无效：[https://bbs.deepin.org/zh/post/255861](https://bbs.deepin.org/zh/post/255861)
-41. 安卓手机投屏视频到deepin电脑上播放Macast：[https://bbs.deepin.org.cn/post/274452](https://bbs.deepin.org.cn/post/274452)
+14. 临时解决remmina无法连接服务器--更改安全协商、降版本都无效：[https://bbs.deepin.org/zh/post/255861](https://bbs.deepin.org/zh/post/255861)
+15. 安卓手机投屏视频到deepin电脑上播放Macast：[https://bbs.deepin.org.cn/post/274452](https://bbs.deepin.org.cn/post/274452)
     
 ##### 4.1.1.3 软件包管理及应用商店
 
@@ -802,23 +766,21 @@
     
 ##### 4.1.1.4 系统管理及安全软件
 
-48. Bleachbit 免费开源跨平台无广告，功能强悍Linux系统清理优化工具：[https://bbs.deepin.org.cn/post/267235](https://bbs.deepin.org.cn/post/267235)
+1. Bleachbit 免费开源跨平台无广告，功能强悍Linux系统清理优化工具：[https://bbs.deepin.org.cn/post/267235](https://bbs.deepin.org.cn/post/267235)
 
-49. UOS 21.1提取软件包分享：深度安全中心&远程协助&系统诊断工具：[https://bbs.deepin.org/zh/post/228885](https://bbs.deepin.org/zh/post/228885)
+2. stacer 系统优化清理软件中文完全体：[https://bbs.deepin.org/post/264517](https://bbs.deepin.org/post/264517)
 
-50. stacer 系统优化清理软件中文完全体：[https://bbs.deepin.org/post/264517](https://bbs.deepin.org/post/264517)
+3. 开源的杀毒软件：[https://bbs.deepin.org/post/253710](https://bbs.deepin.org/post/253710)
 
-51. 开源的杀毒软件：[https://bbs.deepin.org/post/253710](https://bbs.deepin.org/post/253710)
+4. 跨平台的文件分享软件-速享【flutter开发】：[https://bbs.deepin.org/post/241839](https://bbs.deepin.org/post/241839)
 
-52. 跨平台的文件分享软件-速享【flutter开发】：[https://bbs.deepin.org/post/241839](https://bbs.deepin.org/post/241839)
+5. 局域网传输软件推荐：[https://bbs.deepin.org/zh/post/249194](https://bbs.deepin.org/zh/post/249194)
 
-53. 局域网传输软件推荐：[https://bbs.deepin.org/zh/post/249194](https://bbs.deepin.org/zh/post/249194)
+6. ToDesk最新版若启动不了，请下载旧版安装：[https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb](https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb)
 
-54. ToDesk最新版若启动不了，请下载旧版安装：[https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb](https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb)
+7. LanDrop：局域网跨平台传输神器：[https://bbs.deepin.org/post/253758](https://bbs.deepin.org/post/253758)
 
-55. LanDrop：局域网跨平台传输神器：[https://bbs.deepin.org/post/253758](https://bbs.deepin.org/post/253758)
-
-56. secret-diary (安全日记本)加密日记本，加密强度非常强：[https://bbs.deepin.org/post/268153](https://bbs.deepin.org/post/268153)
+8. secret-diary (安全日记本)加密日记本，加密强度非常强：[https://bbs.deepin.org/post/268153](https://bbs.deepin.org/post/268153)
     
 ##### 4.1.1.5 文件及磁盘管理
 
@@ -1004,35 +966,34 @@
 1. 一条命令让火狐浏览器可自动更新到最新版：[https://bbs.deepin.org/zh/post/224603](https://bbs.deepin.org/zh/post/224603)
 2. 如何让火狐国际版拥有中国版的功能：[https://bbs.deepin.org/zh/post/228249](https://bbs.deepin.org/zh/post/228249)
 3. 火狐浏览器国际版的简单设置：[https://bbs.deepin.org/zh/post/237756](https://bbs.deepin.org/zh/post/237756)
-4. deepin20.9 火狐不跟随系统放大  解决方案：[https://bbs.deepin.org/post/261479](https://bbs.deepin.org/post/261479)
-5. 分享一个我自己用到firefox主题css配置，适合宽屏用，节省空间：[https://bbs.deepin.org/post/265754](https://bbs.deepin.org/post/265754)
-6. 火狐浏览器如何升级到最新版：[https://bbs.deepin.org/post/266874](https://bbs.deepin.org/post/266874)
-7. firefox 自定义设置汇总：[https://bbs.deepin.org/post/267077](https://bbs.deepin.org/post/267077)
-8. edge不能登录：[https://bbs.deepin.org/zh/post/236343](https://bbs.deepin.org/zh/post/236343)
-9. Edge浏览器从116降级115后，保存的密码丢失的解决方案：[https://bbs.deepin.org/post/264023](https://bbs.deepin.org/post/264023)
-10. 去除最新版Edge浏览器右上角那个大大的B字：[https://bbs.deepin.org/zh/post/253828](https://bbs.deepin.org/zh/post/253828)
-11. 浏览器鼠标滑动太慢？ 一个插件解决所有问题——SmoothScroll：[https://bbs.deepin.org/post/242460](https://bbs.deepin.org/post/242460)
-12. 天翼云网盘（wine）下载及打包教程：[https://bbs.deepin.org/zh/post/221558](https://bbs.deepin.org/zh/post/221558)
-13. 关于阿里云盘小白羊的后续：[https://bbs.deepin.org/post/252972](https://bbs.deepin.org/post/252972)
-14. 阿里云盘的几种用法：[https://bbs.deepin.org/post/256790](https://bbs.deepin.org/post/256790)
-15. 阿里云盘的命令行应用，速度不错20m+：[https://bbs.deepin.org/post/258577](https://bbs.deepin.org/post/258577)
-16. birdtray——为ThunderBird邮箱客户端添加托盘区小图标：[https://bbs.deepin.org/post/251789](https://bbs.deepin.org/post/251789)
-17. 大家心心念的云盘备份软件-备份助手：[https://bbs.deepin.org/post/241930](https://bbs.deepin.org/post/241930)
-18. 推荐两个网站，替代photoshop 和 visio：[https://bbs.deepin.org/post/242042](https://bbs.deepin.org/post/242042)
-19. Remote Desktop Manager - Remmina 替代：[https://bbs.deepin.org/post/245566](https://bbs.deepin.org/post/245566)
-20. V23 安装向日葵远程控制：[https://bbs.deepin.org/zh/post/257022](https://bbs.deepin.org/zh/post/257022)
-21. ed2k 链接下载工具：[https://wiki.archlinux.org/title/AMule_(简体中文)](https://wiki.archlinux.org/title/AMule_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
-22. 推荐一个好看实用的浏览器-Sidekick：[https://bbs.deepin.org/post/249880](https://bbs.deepin.org/post/249880)
-23. 局域网传输软件推荐：[https://bbs.deepin.org/post/249194](https://bbs.deepin.org/post/249194)
-24. 开源跨平台局域网文件传送工具-alley/小路速传：[https://bbs.deepin.org.cn/post/267170](https://bbs.deepin.org.cn/post/267170)
-25. 解决megasync不能打开的问题：[https://bbs.deepin.org/zh/post/206774](https://bbs.deepin.org/zh/post/206774)
-26. 一个有意思的浏览器插件：merlin：[https://bbs.deepin.org/post/250895](https://bbs.deepin.org/post/250895)
-27. 分享一款远程桌面软件hoptodesk：[https://bbs.deepin.org/post/253399](https://bbs.deepin.org/post/253399)
-28. 千牛工作台wine版deb打包：[https://bbs.deepin.org/post/241282](https://bbs.deepin.org/post/241282)
-29. v23系统下百度翻译无法使用临时解决方案：[https://bbs.deepin.org/post/260086](https://bbs.deepin.org/post/260086)
-30. AnyConnect 连接问题解决：[https://bbs.deepin.org/post/264364](https://bbs.deepin.org/post/264364)
-31. 最近造了个新轮子，一个aria2下载客户端：[https://bbs.deepin.org.cn/post/267331](https://bbs.deepin.org.cn/post/267331)
-32. 用go写的github文件代理服务器：[https://bbs.deepin.org/post/263433](https://bbs.deepin.org/post/263433)
+4. 分享一个我自己用到firefox主题css配置，适合宽屏用，节省空间：[https://bbs.deepin.org/post/265754](https://bbs.deepin.org/post/265754)
+5. 火狐浏览器如何升级到最新版：[https://bbs.deepin.org/post/266874](https://bbs.deepin.org/post/266874)
+6. firefox 自定义设置汇总：[https://bbs.deepin.org/post/267077](https://bbs.deepin.org/post/267077)
+7. edge不能登录：[https://bbs.deepin.org/zh/post/236343](https://bbs.deepin.org/zh/post/236343)
+8. Edge浏览器从116降级115后，保存的密码丢失的解决方案：[https://bbs.deepin.org/post/264023](https://bbs.deepin.org/post/264023)
+9. 去除最新版Edge浏览器右上角那个大大的B字：[https://bbs.deepin.org/zh/post/253828](https://bbs.deepin.org/zh/post/253828)
+10. 浏览器鼠标滑动太慢？ 一个插件解决所有问题——SmoothScroll：[https://bbs.deepin.org/post/242460](https://bbs.deepin.org/post/242460)
+11. 天翼云网盘（wine）下载及打包教程：[https://bbs.deepin.org/zh/post/221558](https://bbs.deepin.org/zh/post/221558)
+12. 关于阿里云盘小白羊的后续：[https://bbs.deepin.org/post/252972](https://bbs.deepin.org/post/252972)
+13. 阿里云盘的几种用法：[https://bbs.deepin.org/post/256790](https://bbs.deepin.org/post/256790)
+14. 阿里云盘的命令行应用，速度不错20m+：[https://bbs.deepin.org/post/258577](https://bbs.deepin.org/post/258577)
+15. birdtray——为ThunderBird邮箱客户端添加托盘区小图标：[https://bbs.deepin.org/post/251789](https://bbs.deepin.org/post/251789)
+16. 大家心心念的云盘备份软件-备份助手：[https://bbs.deepin.org/post/241930](https://bbs.deepin.org/post/241930)
+17. 推荐两个网站，替代photoshop 和 visio：[https://bbs.deepin.org/post/242042](https://bbs.deepin.org/post/242042)
+18. Remote Desktop Manager - Remmina 替代：[https://bbs.deepin.org/post/245566](https://bbs.deepin.org/post/245566)
+19. V23 安装向日葵远程控制：[https://bbs.deepin.org/zh/post/257022](https://bbs.deepin.org/zh/post/257022)
+20. ed2k 链接下载工具：[https://wiki.archlinux.org/title/AMule_(简体中文)](https://wiki.archlinux.org/title/AMule_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+21. 推荐一个好看实用的浏览器-Sidekick：[https://bbs.deepin.org/post/249880](https://bbs.deepin.org/post/249880)
+22. 局域网传输软件推荐：[https://bbs.deepin.org/post/249194](https://bbs.deepin.org/post/249194)
+23. 开源跨平台局域网文件传送工具-alley/小路速传：[https://bbs.deepin.org.cn/post/267170](https://bbs.deepin.org.cn/post/267170)
+24. 解决megasync不能打开的问题：[https://bbs.deepin.org/zh/post/206774](https://bbs.deepin.org/zh/post/206774)
+25. 一个有意思的浏览器插件：merlin：[https://bbs.deepin.org/post/250895](https://bbs.deepin.org/post/250895)
+26. 分享一款远程桌面软件hoptodesk：[https://bbs.deepin.org/post/253399](https://bbs.deepin.org/post/253399)
+27. 千牛工作台wine版deb打包：[https://bbs.deepin.org/post/241282](https://bbs.deepin.org/post/241282)
+28. v23系统下百度翻译无法使用临时解决方案：[https://bbs.deepin.org/post/260086](https://bbs.deepin.org/post/260086)
+29. AnyConnect 连接问题解决：[https://bbs.deepin.org/post/264364](https://bbs.deepin.org/post/264364)
+30. 最近造了个新轮子，一个aria2下载客户端：[https://bbs.deepin.org.cn/post/267331](https://bbs.deepin.org.cn/post/267331)
+31. 用go写的github文件代理服务器：[https://bbs.deepin.org/post/263433](https://bbs.deepin.org/post/263433)
 
 #### 4.1.6 视频播放
 
@@ -1243,15 +1204,14 @@
 47. 在deepin上用云游戏玩英雄联盟：[https://bbs.deepin.org/post/264167](https://bbs.deepin.org/post/264167)
 48. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
 49. deepin玩英雄联盟方法[欧服、美服、韩服]：[https://bbs.deepin.org/post/266608](https://bbs.deepin.org/post/266608)
-50. Deepin20.9玩剑三：[https://bbs.deepin.org/post/266877](https://bbs.deepin.org/post/266877)
-51. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
-52. 发布并收集纯flash的休闲益智小游戏，希望大家补充添加：[https://bbs.deepin.org/post/266795](https://bbs.deepin.org/post/266795)
-53. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org/post/267196](https://bbs.deepin.org/post/267196)
-54. Beta3是个好东西，圆我帕鲁梦：[https://bbs.deepin.org/post/267932](https://bbs.deepin.org/post/267932)
-55. 没想到 P106-100 矿卡在 Linux 下玩游戏竟然如此简单：[https://bbs.deepin.org/post/268192](https://bbs.deepin.org/post/268192)
-56. 在deepin玩原神的最新方法：[https://bbs.deepin.org/post/268240](https://bbs.deepin.org/post/268240)
-57. Linux 下玩《原神》等游戏怎样查看实时帧率等信息：[https://bbs.deepin.org/post/268409](https://bbs.deepin.org/post/268409)
-58. Steam启动星穹列车的教程：[https://bbs.deepin.org/post/270616](https://bbs.deepin.org/post/270616)
+50. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
+51. 发布并收集纯flash的休闲益智小游戏，希望大家补充添加：[https://bbs.deepin.org/post/266795](https://bbs.deepin.org/post/266795)
+52. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org/post/267196](https://bbs.deepin.org/post/267196)
+53. Beta3是个好东西，圆我帕鲁梦：[https://bbs.deepin.org/post/267932](https://bbs.deepin.org/post/267932)
+54. 没想到 P106-100 矿卡在 Linux 下玩游戏竟然如此简单：[https://bbs.deepin.org/post/268192](https://bbs.deepin.org/post/268192)
+55. 在deepin玩原神的最新方法：[https://bbs.deepin.org/post/268240](https://bbs.deepin.org/post/268240)
+56. Linux 下玩《原神》等游戏怎样查看实时帧率等信息：[https://bbs.deepin.org/post/268409](https://bbs.deepin.org/post/268409)
+57. Steam启动星穹列车的教程：[https://bbs.deepin.org/post/270616](https://bbs.deepin.org/post/270616)
 
 ### 4.2 运行其他平台应用/虚拟机
 
@@ -1265,14 +1225,13 @@
 2. **Waydroid 运行器**：[论坛页面（1.1.0）](https://bbs.deepin.org/zh/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [GitHub](https://github.com/gfdgd-xi/waydroid-runner)
 3. uengine 使用总结：[https://uos.osystem.club/102.html](https://uos.osystem.club/102.html)
 4. 在 deepin 23 beta3 运行 UEngine 以及 UEngine 运行器：[https://bbs.deepin.org.cn/post/267892](https://bbs.deepin.org.cn/post/267892)
-5. Deepin20.2.2运行安卓和自行安装软件：[https://bbs.deepin.org/zh/post/222222](https://bbs.deepin.org/zh/post/222222)
-6. 成功Root Deepin的Android子系统（Uengine）：[https://bbs.deepin.org/zh/post/228520](https://bbs.deepin.org/zh/post/228520)
-7. uengine记住横屏竖屏：[https://bbs.deepin.org/post/232985](https://bbs.deepin.org/post/232985)
-8. 关于安装未知来源的apk，被禁止安装处理方法：[https://bbs.deepin.org/zh/post/237401](https://bbs.deepin.org/zh/post/237401)
-9. 关于uengine导致系统没声音的问题以及（临时）解决办法：[https://bbs.deepin.org/post/244795](https://bbs.deepin.org/post/244795)
-10. 在 deepin23 rc3 安装 UEngine（不推荐）：[https://bbs.deepin.org/post/272656](https://bbs.deepin.org/post/272656)
-11. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
-12. waydorid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
+5. 成功Root Deepin的Android子系统（Uengine）：[https://bbs.deepin.org/zh/post/228520](https://bbs.deepin.org/zh/post/228520)
+6. uengine记住横屏竖屏：[https://bbs.deepin.org/post/232985](https://bbs.deepin.org/post/232985)
+7. 关于安装未知来源的apk，被禁止安装处理方法：[https://bbs.deepin.org/zh/post/237401](https://bbs.deepin.org/zh/post/237401)
+8. 关于uengine导致系统没声音的问题以及（临时）解决办法：[https://bbs.deepin.org/post/244795](https://bbs.deepin.org/post/244795)
+9. 在 deepin23 rc3 安装 UEngine（不推荐）：[https://bbs.deepin.org/post/272656](https://bbs.deepin.org/post/272656)
+10. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
+11. waydorid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
 
 #### 4.2.2 Wine
 
@@ -1456,7 +1415,7 @@
 10. dde-nixos 现在可以在虚拟机中预览了：[https://bbs.deepin.org/post/246672](https://bbs.deepin.org/post/246672)
 11. Yoyo OS（基于Ubuntu，使用Cutefish DE）：[https://www.deepinos.org/t/yoyo-os](https://www.deepinos.org/t/yoyo-os)
 12. 【GTK小技巧】GTK远程显示：[https://bbs.deepin.org/post/244218](https://bbs.deepin.org/post/244218)
-13. Arch Linux中用于包管理的图形化应用：[https://bbs.deepin.org/post/244569](https://bbs.deepin.org/post/244569)（不知道官方为什么发这个……难道是因为里面有 dde-store？）
+13. Arch Linux中用于包管理的图形化应用：[https://bbs.deepin.org/post/244569](https://bbs.deepin.org/post/244569)
 14. 可安装 DDE 的 NixOS Calamares 安装器：[https://bbs.deepin.org/post/256810](https://bbs.deepin.org/post/256810)
 15. MX-Deepin：[https://bbs.deepin.org/post/262845](https://bbs.deepin.org/post/262845)
 16. 基于archlinux-arm制作dde桌面镜像--livecd完成：[https://bbs.deepin.org/zh/post/254592](https://bbs.deepin.org/zh/post/254592)
