@@ -44,7 +44,7 @@ export default defineConfig({
                 },
                 { text: '教程收集',
                   items: [
-                    { text: '教程', link: '/Linux-tutorial/Linux-tutorial' }
+                    { text: '教程', link: '/Linux-tutorial/tutorial' }
                   ]
                 }
               ]
