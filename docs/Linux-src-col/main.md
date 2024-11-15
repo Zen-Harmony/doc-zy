@@ -120,18 +120,17 @@
 ### 2.3 系统内核
 
 1. 操作系统的内核到底是什么：[https://bbs.deepin.org/zh/post/229142](https://bbs.deepin.org/zh/post/229142)
-3. 如何编译安装Linux内核：[https://www.cnblogs.com/harrypotterjackson/p/11846222.html](https://www.cnblogs.com/harrypotterjackson/p/11846222.html)
-4. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
-5. 编译打包deb内核：[https://bbs.deepin.org/zh/post/256149](https://bbs.deepin.org/phone/zh/post/256149)
-6. 卸载多余内核：[https://www.cnblogs.com/yangzhaon/p/12911716.html](https://www.cnblogs.com/yangzhaon/p/12911716.html)
-7. Ubuntu Linux HWE 内核科普 – Linux 小知识：[https://bbs.deepin.org/zh/post/254641](https://bbs.deepin.org/zh/post/254641)
-8. 关于源内可用内核的查看、安装与本地内核的卸载：[https://bbs.deepin.org/zh/post/254997](https://bbs.deepin.org/zh/post/254997)
-9. 【小知识】什么是固件（firmware）：[https://bbs.deepin.org/zh/post/255512](https://bbs.deepin.org/zh/post/255512)
-10. 内核管理器：[https://bbs.deepin.org/post/268108](https://bbs.deepin.org/post/268108)
-11. 编译deepin主线内核：[https://bbs.deepin.org/post/262451](https://bbs.deepin.org/post/262451)
-12. Linux 6.6内核的新特性介绍及其安装教程：[https://bbs.deepin.org/post/266282](https://bbs.deepin.org/post/266282)
-13. 怎样在 Ubuntu 下手工编译安装 6.* 最新内核：[https://bbs.deepin.org/post/267248](https://bbs.deepin.org/post/267248)
-14. GXDE 内核管理器：[https://bbs.deepin.org/post/272205](https://bbs.deepin.org/post/272205)
+2. 如何编译安装Linux内核：[https://www.cnblogs.com/harrypotterjackson/p/11846222.html](https://www.cnblogs.com/harrypotterjackson/p/11846222.html)
+3. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
+4. 编译打包deb内核：[https://bbs.deepin.org/zh/post/256149](https://bbs.deepin.org/phone/zh/post/256149)
+5. 卸载多余内核：[https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核](https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核)
+6. Ubuntu Linux HWE 内核科普 – Linux 小知识：[https://bbs.deepin.org/zh/post/254641](https://bbs.deepin.org/zh/post/254641)
+7. 关于源内可用内核的查看、安装与本地内核的卸载：[https://bbs.deepin.org/zh/post/254997](https://bbs.deepin.org/zh/post/254997)
+8. 【小知识】什么是固件（firmware）：[https://bbs.deepin.org/zh/post/255512](https://bbs.deepin.org/zh/post/255512)
+9. 编译deepin主线内核：[https://bbs.deepin.org/post/262451](https://bbs.deepin.org/post/262451)
+10. Linux 6.6内核的新特性介绍及其安装教程：[https://bbs.deepin.org/post/266282](https://bbs.deepin.org/post/266282)
+11. 怎样在 Ubuntu 下手工编译安装 6.* 最新内核：[https://bbs.deepin.org/post/267248](https://bbs.deepin.org/post/267248)
+12. GXDE 内核管理器：[https://bbs.deepin.org/post/272205](https://bbs.deepin.org/post/272205)
 
 #### 2.4 桌面环境
 
