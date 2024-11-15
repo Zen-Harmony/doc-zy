@@ -44,10 +44,7 @@ export default defineConfig({
                 },
                 { text: '教程收集',
                   items: [
-                    { text: '高频问题', link: '/Linux-solutions/frequently-asked' },
-                    { text: '常见问题', link: '/Linux-solutions/common' },
-                    { text: '解决方案收集', link: '/Linux-solutions/collect' },
-                    { text: '致谢', link: '/Linux-solutions/thanks' }  
+                    { text: '教程', link: '/Linux-tutorial/Linux-tutorial' }
                   ]
                 }
               ]
