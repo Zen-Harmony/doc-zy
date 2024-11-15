@@ -167,29 +167,3 @@ fi
 见 [https://bbs.deepin.org/post/241747?postId=1366668](https://bbs.deepin.org/post/241747?postId=1366668) 7楼。
 :::
 用这个在线版的手写识别系统：[https://teshuzi.com/zh/handwriting/](https://teshuzi.com/zh/handwriting/)    一个一个的手动复制手写识别的字（点击就可以复制），再粘贴到相应的需要输入的地方
-
-## deepin23缺少openssl-1.1.so
-:::tip 出处
-[https://bbs.deepin.org.cn/post/277536](https://bbs.deepin.org.cn/post/277536)，感谢[greenery](https://bbs.deepin.org.cn/user/296759)提供教程
-:::
-终端执行以下命令
-```sh
-wget https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1w/openssl-1.1.1w.tar.gz
-
-tar -xvf openssl-1.1.1w.tar.gz
-cd openssl-1.1.1w
-sudo mkdir /usr/local/lib/openssl-1.1
-./config --prefix=/usr/local/lib/openssl-1.1 --openssldir=/usr/local/lib/openssl-1.1 shared zlib
-sudo apt-get install zlib1g-dev
-make
-
-sudo cp libcrypto.so.1.1 libssl.so.1.1 /usr/local/lib/openssl-1.1
-sudo link /usr/local/lib/openssl-1.1/libcrypto.so.1.1 /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1
-sudo link /usr/local/lib/openssl-1.1/libssl.so.1.1 /usr/lib/x86_64-linux-gnu/libssl.so.1.1
-```
-注意一定不要使用make install安装
-
-当然也可以从星火商店源安装，安装星火商店后终端执行如下命令
-```sh
-sudo aptss isntall libssl1.1
-```
