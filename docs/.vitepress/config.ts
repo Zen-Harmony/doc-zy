@@ -41,6 +41,11 @@ export default defineConfig({
                     { text: '解决方案收集', link: '/Linux-solutions/collect' },
                     { text: '致谢', link: '/Linux-solutions/thanks' }
                   ]
+                },
+                { text: '教程收集',
+                  items: [
+                    { text: '教程', link: '/Linux-tutorial/tutorial' }
+                  ]
                 }
               ]
             }
