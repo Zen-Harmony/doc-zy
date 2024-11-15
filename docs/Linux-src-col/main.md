@@ -179,11 +179,9 @@
 
 ##### 2.4.1.1 用户
 
-1. 保留数据前提下，教你两步轻松修改自己的电脑用户名：[https://bbs.deepin.org/post/241610](https://bbs.deepin.org/post/241610)
-2. 助力轻松修改你的系统用户名：[https://bbs.deepin.org/zh/post/232575](https://bbs.deepin.org/zh/post/232575)
-3. （UOS）用户与组管理：[https://bbs.deepin.org/post/263988](https://bbs.deepin.org/post/263988)
-4. 使用xrdp实现多用户登陆方法：[https://bbs.deepin.org/post/266144](https://bbs.deepin.org/post/266144)
-5. v20.9 进入single模式的方法：[https://bbs.deepin.org/post/267586](https://bbs.deepin.org/post/267586)
+1. （UOS）用户与组管理：[https://bbs.deepin.org/post/263988](https://bbs.deepin.org/post/263988)
+2. 使用xrdp实现多用户登陆方法：[https://bbs.deepin.org/post/266144](https://bbs.deepin.org/post/266144)
+3. v20.9 进入single模式的方法：[https://bbs.deepin.org/post/267586](https://bbs.deepin.org/post/267586)
 
 ##### 2.4.1.2 快捷键
 
@@ -214,18 +212,17 @@
 
 1. 【小知识】debian的包管理系统：[https://bbs.deepin.org/post/255645](https://bbs.deepin.org/post/255645)
 2. GUI 软件包管理器：`sudo apt install synaptic` 或从星火应用商店获取 App Manager
-3. apt和apt-get的区别：[https://bbs.deepin.org/zh/post/208702](https://bbs.deepin.org/zh/post/208702)
-4. deepin如何寻找、安装非商店软件(Debian通用)：[https://bbs.deepin.org/post/157341](https://bbs.deepin.org/post/157341)
-5. 删除卸载残留的应用配置：[https://bbs.deepin.org/zh/post/227702](https://bbs.deepin.org/zh/post/227702)
-6. 使用UOS安装器安装deb包后直接启动界面程序：[https://bbs.deepin.org/zh/post/248400](https://bbs.deepin.org/zh/post/248400)
-7. deepinv20系列添加ubuntu ppa(新手向)：[https://bbs.deepin.org/post/253720](https://bbs.deepin.org/post/253720)**（注意：换源有风险，操作需谨慎）**
-8. deepin如何搭建本地软件源：[https://bbs.deepin.org/zh/post/239722](https://bbs.deepin.org/zh/post/239722)
-9. 打造一个属于自己的 APT 仓库：[https://bbs.deepin.org/zh/post/261702](https://bbs.deepin.org/zh/post/261702)
-10. deb软件包安装卸载失败修复教程：[https://bbs.deepin.org/zh/post/217421](https://bbs.deepin.org/zh/post/217421)
-11. 还在为没有公钥导致的无法更新而烦恼吗？这里有解决方案：[https://bbs.deepin.org/zh/post/237312](https://bbs.deepin.org/zh/post/237312)
-12. apt与dpkg安装包管理工具的区别：[https://bbs.deepin.org/post/266928](https://bbs.deepin.org/post/266928)
-13. 执行命令显示“无法获取dpkg前端锁”：[https://bbs.deepin.org/post/267557](https://bbs.deepin.org/post/267557)
-14. dpkg-deb: 错误: 粘贴 子进程被信号(断开的管道) 终止了：[https://bbs.deepin.org/post/267700](https://bbs.deepin.org/post/267700)
+3. deepin如何寻找、安装非商店软件(Debian通用)：[https://bbs.deepin.org/post/157341](https://bbs.deepin.org/post/157341)
+4. 删除卸载残留的应用配置：[https://bbs.deepin.org/zh/post/227702](https://bbs.deepin.org/zh/post/227702)
+5. 使用UOS安装器安装deb包后直接启动界面程序：[https://bbs.deepin.org/zh/post/248400](https://bbs.deepin.org/zh/post/248400)
+6. deepinv20系列添加ubuntu ppa(新手向)：[https://bbs.deepin.org/post/253720](https://bbs.deepin.org/post/253720)**（注意：换源有风险，操作需谨慎）**
+7. deepin如何搭建本地软件源：[https://bbs.deepin.org/zh/post/239722](https://bbs.deepin.org/zh/post/239722)
+8. 打造一个属于自己的 APT 仓库：[https://bbs.deepin.org/zh/post/261702](https://bbs.deepin.org/zh/post/261702)
+9. deb软件包安装卸载失败修复教程：[https://bbs.deepin.org/zh/post/217421](https://bbs.deepin.org/zh/post/217421)
+10. 还在为没有公钥导致的无法更新而烦恼吗？这里有解决方案：[https://bbs.deepin.org/zh/post/237312](https://bbs.deepin.org/zh/post/237312)
+11. apt与dpkg安装包管理工具的区别：[https://bbs.deepin.org/post/266928](https://bbs.deepin.org/post/266928)
+12. 执行命令显示“无法获取dpkg前端锁”：[https://bbs.deepin.org/post/267557](https://bbs.deepin.org/post/267557)
+13. dpkg-deb: 错误: 粘贴 子进程被信号(断开的管道) 终止了：[https://bbs.deepin.org/post/267700](https://bbs.deepin.org/post/267700)
 
 ##### 2.4.2.2 “玲珑”包管理工具集
 
