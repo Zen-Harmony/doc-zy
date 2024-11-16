@@ -276,31 +276,32 @@
 3. 手动编译fcitx5教程：[https://bbs.deepin.org/zh/post/208959](https://bbs.deepin.org/zh/post/208959)
 4. 安装fcitx5：[https://blog.csdn.net/mziing/article/details/124557091](https://blog.csdn.net/mziing/article/details/124557091) （如果非gnome桌面不需要安装gnome-tweaks，其他桌面环境添加开机启动方式不同）
 5. fcitx5输入法使用技巧&简约皮肤分享：[https://bbs.deepin.org/zh/post/223743](https://bbs.deepin.org/zh/post/223743)
-6. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
-7. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
-8. v23搜狗输入法NG版本：[https://bbs.deepin.org/post/265568](https://bbs.deepin.org/post/265568)
-9. V23搜狗输入法初具雏形--附安装方法：[https://bbs.deepin.org/post/272913](https://bbs.deepin.org/post/272913)
-10. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
-11. 修改fcitx5中的五笔词库：[https://bbs.deepin.org/post/253879](https://bbs.deepin.org/post/253879)
-12. fcitx5-rime实现拼音反查五笔编码：[https://bbs.deepin.org/post/254910](https://bbs.deepin.org/post/254910)
-13. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
-14. 23版本fcitx5输入法的设置优化，使输入法更好用：[https://bbs.deepin.org/post/256386](https://bbs.deepin.org/post/256386)
-15. 分享一个让 Fcitx5 更符合简中用户使用习惯的优化脚本：[https://bbs.deepin.org/post/262698](https://bbs.deepin.org/post/262698) （推荐）
-16. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
-17. 给 fcitx5 写了一套仿 macOS 的皮肤：[https://bbs.deepin.org/post/262841](https://bbs.deepin.org/post/262841)
-18. 输入法不跟随光标：[https://bbs.deepin.org/zh/post/231849](https://bbs.deepin.org/post/231849)
-19. 安装了fcitx5输入法就无法安装其它输入法 的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
-20. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
-21. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
-22. V23下使用fcitx输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
-23. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
-24. 个别符号（比如“属于”“不等式”）显示错误：星火商店下载  spk://store/tools/symbol-fonts
-25. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
-26. 【DeepinV23-Beta3已测可用】98五笔一键安装：[https://bbs.deepin.org.cn/post/268065](https://bbs.deepin.org.cn/post/268065)
-27. 中州韵98五笔助手适配wayland：[https://bbs.deepin.org/post/268343](https://bbs.deepin.org/post/268343)
-28. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
-29. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
-30. 一次五笔输入法的配置：[https://bbs.deepin.org/post/272370](https://bbs.deepin.org/post/272370)
+6. fcitx5 五笔输入法大字符集定制字库：[https://zhuanlan.zhihu.com/p/570629859](https://zhuanlan.zhihu.com/p/570629859)
+7. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
+8. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
+9. v23搜狗输入法NG版本：[https://bbs.deepin.org/post/265568](https://bbs.deepin.org/post/265568)
+10. V23搜狗输入法初具雏形--附安装方法：[https://bbs.deepin.org/post/272913](https://bbs.deepin.org/post/272913)
+11. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
+12. 修改fcitx5中的五笔词库：[https://bbs.deepin.org/post/253879](https://bbs.deepin.org/post/253879)
+13. fcitx5-rime实现拼音反查五笔编码：[https://bbs.deepin.org/post/254910](https://bbs.deepin.org/post/254910)
+14. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
+15. 23版本fcitx5输入法的设置优化，使输入法更好用：[https://bbs.deepin.org/post/256386](https://bbs.deepin.org/post/256386)
+16. 分享一个让 Fcitx5 更符合简中用户使用习惯的优化脚本：[https://bbs.deepin.org/post/262698](https://bbs.deepin.org/post/262698) （推荐）
+17. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
+18. 给 fcitx5 写了一套仿 macOS 的皮肤：[https://bbs.deepin.org/post/262841](https://bbs.deepin.org/post/262841)
+19. 输入法不跟随光标：[https://bbs.deepin.org/zh/post/231849](https://bbs.deepin.org/post/231849)
+20. 安装了fcitx5输入法就无法安装其它输入法 的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
+21. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
+22. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
+23. V23下使用fcitx输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
+24. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
+25. 个别符号（比如“属于”“不等式”）显示错误：星火商店下载  spk://store/tools/symbol-fonts
+26. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
+27. 【DeepinV23-Beta3已测可用】98五笔一键安装：[https://bbs.deepin.org.cn/post/268065](https://bbs.deepin.org.cn/post/268065)
+28. 中州韵98五笔助手适配wayland：[https://bbs.deepin.org/post/268343](https://bbs.deepin.org/post/268343)
+29. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
+30. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
+31. 一次五笔输入法的配置：[https://bbs.deepin.org/post/272370](https://bbs.deepin.org/post/272370)
 
 ##### 2.4.4.1 无法输入中文相关
 
@@ -474,19 +475,7 @@
 6. 一个方便修改GTK应用标题栏高度的脚本：[https://bbs.deepin.org/post/255272](https://bbs.deepin.org/post/255272)
 7. v23 gtk标题栏宽度修改位置：[https://bbs.deepin.org/zh/post/260549](https://bbs.deepin.org/zh/post/260549)
 
-#### 2.5.3 Dock/顶栏
-
-1. dde-top-panel 顶栏程序+全局菜单 (V20)：[https://bbs.deepin.org/zh/post/195128](https://bbs.deepin.org/zh/post/195128)  （此项目已停止更新）
-2. 定制的dde-dock分享：[https://bbs.deepin.org/zh/post/224228](https://bbs.deepin.org/zh/post/224228)
-3. Linux桌面最轻量的Dock之Plank：[https://bbs.deepin.org/zh/post/215170](https://bbs.deepin.org/zh/post/215170)
-4. Deepin 上的实时网速推荐 lfxNet（重构 lfxSpeed ）：[https://bbs.deepin.org/zh/post/213210](https://bbs.deepin.org/zh/post/213210)    （可能已无法使用）
-5. 个性化随机启动器图标：[https://bbs.deepin.org/post/242038](https://bbs.deepin.org/post/242038)
-6. 更改启动器图标为deepin的logo：[https://bbs.deepin.org/post/252819](https://bbs.deepin.org/post/252819)
-7. deepin 20.9 的 dde-dock 高效居中方案：[https://bbs.deepin.org/post/264070](https://bbs.deepin.org/post/264070)
-8. deepin v23 Beta2 的 dde-dock 高效居中方案：[https://bbs.deepin.org/post/264656](https://bbs.deepin.org/post/264656)
-9. 美化dock栏高效模式高亮效果：[https://bbs.deepin.org/post/266696](https://bbs.deepin.org/post/266696)
-
-#### 2.5.4 字体
+#### 2.5.3 字体
 
 1. 如何在deepinOS上加入方正字体：[https://bbs.deepin.org/zh/post/228540](https://bbs.deepin.org/zh/post/228540)
 2. 超1000款UOS字体包：链接: [https://cloud.189.cn/t/uyeuQjU3IBZz](https://cloud.189.cn/t/uyeuQjU3IBZz) 密码: dr0l
@@ -505,27 +494,27 @@
 15. [deb] 荆南波波黑：活泼可爱的简体/繁体中文 艺术黑体(可免费商用)：[https://bbs.deepin.org/post/265037](https://bbs.deepin.org/post/265037)
 16. 各种开源免费商用字体打包下载 猫啃网（[原帖](https://bbs.deepin.org/post/266693)）：[https://www.maoken.com/all-fonts](https://www.maoken.com/all-fonts)
 
-#### 2.5.5 图标主题
+#### 2.5.4 图标主题
 
 1. 图标主题的继承关系：[https://bbs.deepin.org/zh/post/203946](https://bbs.deepin.org/zh/post/203946)
 2. 图标主题分享：deepin icon 2022：[https://bbs.deepin.org/post/245970](https://bbs.deepin.org/post/245970)    （V23 已内置）
 3. Win11主题图标打包：[https://bbs.deepin.org/zh/post/240369](https://bbs.deepin.org/zh/post/240369)
 4. 自制主题（持续更新）：[https://bbs.deepin.org/post/273057](https://bbs.deepin.org/post/273057)
 
-#### 2.5.6 光标主题
+#### 2.5.5 光标主题
 
 1. 如何修改登录界面的鼠标指针主题：[https://bbs.deepin.org/post/255739](https://bbs.deepin.org/post/255739)
 2. 如何将Windows的鼠标光标移植到Linux上：[https://bbs.deepin.org/post/267402](https://bbs.deepin.org/post/267402)
 3. 左手鼠标光标主题：[https://bbs.deepin.org/zh/post/256137](https://bbs.deepin.org/zh/post/256137)
 4. 银狼主题光标分享：[https://bbs.deepin.org/post/264545](https://bbs.deepin.org/post/264545)
 
-#### 2.5.7 Grub
+#### 2.5.6 Grub
 
 1. 折腾了一款 GRUB 主题，分享给大家：[https://bbs.deepin.org/zh/post/256111](https://bbs.deepin.org/zh/post/256111)
 2. 如何让 grub 主题更好看：[https://bbs.deepin.org/post/265645](https://bbs.deepin.org/post/265645)
 3. GRUB主题折腾，踩坑及解决方案：[https://bbs.deepin.org/post/269063](https://bbs.deepin.org/post/269063)
 
-#### 2.5.8 其他
+#### 2.5.7 其他
 
 1. 【Mac布局美化】美化无止境，只要肯折腾：[https://bbs.deepin.org/zh/post/196796](https://bbs.deepin.org/zh/post/196796)
 2. deepin美化系列教程（五）：[https://bbs.deepin.org/zh/post/227803](https://bbs.deepin.org/zh/post/227803)
@@ -1254,7 +1243,7 @@
 20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
->
+
 #### 1.网页
 
 1. 搭建hexo博客和安装npm:[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63/)
