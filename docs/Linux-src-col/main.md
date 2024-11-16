@@ -1254,10 +1254,12 @@
 20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
+
 #### 1.网页
 1. 搭建hexo博客和安装npm:[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63/)
 2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b/](https://blog.linux-qitong.top/posts/fd2f879b/)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
+
 #### 2.杂项
 1. 使用网易邮箱大师注册Gmail邮箱账号：[https://bbs.deepin.org/post/240523](https://bbs.deepin.org/post/240523)
 2. 废旧 Android 设备打造 linux 服务器：[https://bbs.deepin.org/zh/post/233447](https://bbs.deepin.org/zh/post/233447)
