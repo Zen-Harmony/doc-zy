@@ -1248,14 +1248,14 @@
 >目前正在进行细分，争取更加规范。
 #### 1.网页
 
-1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63)
-2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b/](https://blog.linux-qitong.top/posts/fd2f879b)
+1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63](https://blog.linux-qitong.top/posts/1b32c63)
+2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b](https://blog.linux-qitong.top/posts/fd2f879b)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
 
 #### 2.移动设备
 1. 废旧 Android 设备打造 linux 服务器：[https://bbs.deepin.org/zh/post/233447](https://bbs.deepin.org/zh/post/233447)
 2. 安卓手机后台管理工具黑阈激活器(DTK版本)：[https://bbs.deepin.org/zh/post/208066](https://bbs.deepin.org/zh/post/208066)
-3. Uotan Toolbox(手机助手)：[https://toolbox.uotan.cn/](https://toolbox.uotan.cn)
+3. Uotan Toolbox(手机助手)：[https://toolbox.uotan.cn](https://toolbox.uotan.cn)
 
 #### 3.杂项
 
