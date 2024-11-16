@@ -1244,7 +1244,8 @@
 19. DragonOS（一个由rust从0开发的类Linux内核及用户态环境）：[https://dragonos.org.cn/](https://dragonos.org.cn/)
 20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
-### 6.2 其他&thinsp;
+### 6.2 其他
+>目前正在进行细分，争取更加规范
 #### 1.网页
 
 1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63/)
