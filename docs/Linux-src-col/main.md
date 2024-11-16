@@ -357,6 +357,7 @@
 10. 文件夹被锁的解决办法：[https://bbs.deepin.org/post/241364](https://bbs.deepin.org/post/241364)
 11. 单系统所有文件加锁：[https://bbs.deepin.org/post/266136](https://bbs.deepin.org/post/266136)
 12. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org.cn/post/267196](https://bbs.deepin.org.cn/post/267196)
+13. 关于btrfs子卷的用法：[https://bbs.deepin.org/post/277818](https://bbs.deepin.org/post/277818)
 
 #### 2.4.7 网络和共享
 
@@ -1254,6 +1255,7 @@
 17. CentOS 7 非 root 用户编译安装 Python 3.10：[https://bbs.deepin.org/post/260484](https://bbs.deepin.org/post/260484)
 18. Parallel Desktop中安装Deepin 鼠标到虚拟机中总提示数字键盘开启：[https://bbs.deepin.org/post/267436](https://bbs.deepin.org/post/267436)
 19. DragonOS（一个由rust从0开发的类Linux内核及用户态环境）：[https://dragonos.org.cn/](https://dragonos.org.cn/)
+20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
 
