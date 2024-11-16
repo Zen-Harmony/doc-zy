@@ -993,7 +993,7 @@
 13. 战网客户端（wine）打包更新：[https://bbs.deepin.org/zh/post/239518](https://bbs.deepin.org/zh/post/239518)
 14. 分享一下对于游戏“反恐精英”启动不了和切换中文问题的解决：[https://bbs.deepin.org/zh/post/239420](https://bbs.deepin.org/zh/post/239420)
 15. 星火饥荒解包可加 mod 版：[https://bbs.deepin.org/post/243277](https://bbs.deepin.org/post/243277)
-16. 分享刚打包的一款wine版游戏：Zombies Rush 戴夫：https://bbs.deepin.org/post/241015 （链接已失效）
+16. 红色警戒2-兵临城下4：[https://bbs.deepin.org/post/281345](https://bbs.deepin.org/post/281345)
 17. 在“盒子”里的win95--electron windows95：[https://bbs.deepin.org/post/242046](https://bbs.deepin.org/post/242046)
 18. deepin如何使用steam玩游戏：[https://bbs.deepin.org/post/239665](https://bbs.deepin.org/post/239665)
 19. Unciv 开源文明五：[https://bbs.deepin.org/post/246370](https://bbs.deepin.org/post/246370)
