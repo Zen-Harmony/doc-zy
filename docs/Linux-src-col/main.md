@@ -1243,10 +1243,10 @@
 20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
-&nbsp;
+&thinsp; 
 #### 1.网页
 
-1. 搭建hexo博客和安装npm:[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63/)
+1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63/](https://blog.linux-qitong.top/posts/1b32c63/)
 2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b/](https://blog.linux-qitong.top/posts/fd2f879b/)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
 
