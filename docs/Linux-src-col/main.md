@@ -1251,12 +1251,12 @@
 2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b/](https://blog.linux-qitong.top/posts/fd2f879b/)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
 
-#### 3.移动设备
+#### 2.移动设备
 1. 废旧 Android 设备打造 linux 服务器：[https://bbs.deepin.org/zh/post/233447](https://bbs.deepin.org/zh/post/233447)
 2. 安卓手机后台管理工具黑阈激活器(DTK版本)：[https://bbs.deepin.org/zh/post/208066](https://bbs.deepin.org/zh/post/208066)
 3. Uotan Toolbox(手机助手)：[https://toolbox.uotan.cn/](https://toolbox.uotan.cn/)
 
-#### 2.杂项
+#### 3.杂项
 
 1. 使用网易邮箱大师注册Gmail邮箱账号：[https://bbs.deepin.org/post/240523](https://bbs.deepin.org/post/240523)
 2. 有关 Linux 桌面的问题的分析及解决方案：[https://bbs.deepin.org/post/245503](https://bbs.deepin.org/post/245503)
