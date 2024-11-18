@@ -92,12 +92,6 @@ Super + -，缩小放大镜；
 
 Super + 0，关闭放大镜。
 
-## 清除文件管理器的地址栏历史
-:::tip 出处
-见 [https://bbs.deepin.org/post/254424?postId=1445509](https://bbs.deepin.org/post/254424?postId=1445509) 3楼。
-:::
-打开`~/.config/deepin/dde-file-manager/dde-file-manager.obtusely.json`，删除其中的`SearchHistory`项。
-
 ## 检查应用的开机启动情况
 :::tip 出处
 见 [https://bbs.deepin.org/post/253444](https://bbs.deepin.org/post/253444)。
@@ -114,7 +108,7 @@ service --status-all
 :::tip 出处
 见 [https://bbs.deepin.org/post/254318](https://bbs.deepin.org/post/254318) 回复。
 :::
-如果是输入的路径中含有空格等特殊字符，需在相应文件夹名称的两侧加上`'`，如`.../'deepin 常用资源整理'/...`。
+如果是输入的路径中含有空格等特殊字符，需在相应文件夹名称的两侧加上`'`，如`.../'Linux 觅知园'/...`。
 
 ## Markdown 编辑器`< >`符号未按原文显示
 :::tip 出处
