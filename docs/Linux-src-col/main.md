@@ -359,7 +359,7 @@
 
 #### 2.4.7 网络和共享
 
-> 网卡相关内容见“[3.2 网卡](/Linux-src-col/main.html#_3-2-%E7%BD%91%E5%8D%A1)”。
+> 网卡相关内容见“[3.2 网卡](/Linux-src-col)”。
 
 1. Windows ssh 客户端 PuTTY 正向与反向流量转发（转）：[https://bbs.deepin.org/zh/post/230148](https://bbs.deepin.org/zh/post/230148)
 2. deepin下ssh常用网络功能：[https://bbs.deepin.org/zh/post/231835](https://bbs.deepin.org/zh/post/231835)
@@ -402,7 +402,7 @@
 
 #### 2.4.9 命令与终端
 
-> 有些命令行应用在“[4.1 应用分享和使用技巧](/Linux-src-col/main.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
+> 有些命令行应用在“[4.1 应用分享和使用技巧](/Linux-src-col/)”。
 
 1. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 2. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
