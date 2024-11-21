@@ -1,7 +1,7 @@
 # Linux 常用资源整理
 
 ::: tip
-此资源整理非官方文档，由 [志海融新团队](https://github.com/Zen-Harmony/) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite/)的资源整理。
+此资源整理非官方文档，由 [志海融新团队](https://github.com/Zen-Harmony) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite)的资源整理。
 ::: 
 
 ![banner.jpg](./img/col-banner.jpg)
@@ -124,7 +124,7 @@
 2. 如何编译安装Linux内核：[https://www.cnblogs.com/harrypotterjackson/p/11846222.html](https://www.cnblogs.com/harrypotterjackson/p/11846222.html)
 3. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
 4. 编译打包deb内核：[https://bbs.deepin.org/zh/post/256149](https://bbs.deepin.org/phone/zh/post/256149)
-5. 卸载多余内核：[https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核](https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核)
+5. 卸载多余内核：[https://zen-harmony.github.io/doc-zy/Linux-solutions/collect/#清理多余的系统内核](https://zen-harmony.github.io/doc-zy/Linux-solutions/collect/#清理多余的系统内核)
 6. Ubuntu Linux HWE 内核科普 – Linux 小知识：[https://bbs.deepin.org/zh/post/254641](https://bbs.deepin.org/zh/post/254641)
 7. 关于源内可用内核的查看、安装与本地内核的卸载：[https://bbs.deepin.org/zh/post/254997](https://bbs.deepin.org/zh/post/254997)
 8. 【小知识】什么是固件（firmware）：[https://bbs.deepin.org/zh/post/255512](https://bbs.deepin.org/zh/post/255512)
@@ -193,7 +193,7 @@
 
 #### 2.4.2 应用及包管理
 
-> 另见 “[4.1.1.3 软件包管理及应用商店](/Linux-src-col/main.html#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/Linux-src-col/main/#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
@@ -227,7 +227,7 @@
 
 ##### 2.4.2.2 “玲珑”包管理工具集
 
-1. 玲珑官网：[https://linglong.dev/](https://linglong.dev/)
+1. 玲珑官网：[https://linglong.dev](https://linglong.dev)
 2. 揭秘deepin 23，从这里开始！：[https://bbs.deepin.org/post/241059](https://bbs.deepin.org/post/241059)
 3. 深入探索玲珑 01——玲珑方案的创造！：[https://bbs.deepin.org/post/241762](https://bbs.deepin.org/post/241762)
 4. 深入探究玲珑 02——玲珑组件&权限管理机制！：[https://bbs.deepin.org/post/242144](https://bbs.deepin.org/post/242144)
