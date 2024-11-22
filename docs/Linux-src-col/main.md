@@ -1,7 +1,7 @@
 # Linux 常用资源整理
 
 ::: tip
-此资源整理非官方文档，由 [志海融新团队](https://github.com/Zen-Harmony/) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite/)的资源整理。
+此资源整理非官方文档，由 [志海融新团队](https://github.com/Zen-Harmony) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite)的资源整理。
 ::: 
 
 ![banner.jpg](./img/col-banner.jpg)
@@ -124,7 +124,7 @@
 2. 如何编译安装Linux内核：[https://www.cnblogs.com/harrypotterjackson/p/11846222.html](https://www.cnblogs.com/harrypotterjackson/p/11846222.html)
 3. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
 4. 编译打包deb内核：[https://bbs.deepin.org/zh/post/256149](https://bbs.deepin.org/phone/zh/post/256149)
-5. 卸载多余内核：[https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核](https://zen-harmony.github.io/doc-zy/Linux-solutions/collect.html#清理多余的系统内核)
+5. 卸载多余内核：[/Linux-solutions/collect.html#清理多余的系统内核](/Linux-solutions/collect.html#清理多余的系统内核)
 6. Ubuntu Linux HWE 内核科普 – Linux 小知识：[https://bbs.deepin.org/zh/post/254641](https://bbs.deepin.org/zh/post/254641)
 7. 关于源内可用内核的查看、安装与本地内核的卸载：[https://bbs.deepin.org/zh/post/254997](https://bbs.deepin.org/zh/post/254997)
 8. 【小知识】什么是固件（firmware）：[https://bbs.deepin.org/zh/post/255512](https://bbs.deepin.org/zh/post/255512)
@@ -193,7 +193,7 @@
 
 #### 2.4.2 应用及包管理
 
-> 另见 “[4.1.1.3 软件包管理及应用商店](/Linux-src-col/main.html#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/Linux-src-col/main.html#_4-1-1-3-软件包管理及应用商店)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
@@ -359,7 +359,7 @@
 
 #### 2.4.7 网络和共享
 
-> 网卡相关内容见“[3.2 网卡](/Linux-src-col/main.html#_3-2-%E7%BD%91%E5%8D%A1)”。
+> 网卡相关内容见“[3.2 网卡](/Linux-src-col/main.html#_3-2-网卡)”。
 
 1. Windows ssh 客户端 PuTTY 正向与反向流量转发（转）：[https://bbs.deepin.org/zh/post/230148](https://bbs.deepin.org/zh/post/230148)
 2. deepin下ssh常用网络功能：[https://bbs.deepin.org/zh/post/231835](https://bbs.deepin.org/zh/post/231835)
@@ -402,7 +402,7 @@
 
 #### 2.4.9 命令与终端
 
-> 有些命令行应用在“[4.1 应用分享和使用技巧](/Linux-src-col/main.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
+> 有些命令行应用在“[4.1 应用分享和使用技巧](/Linux-src-col/main.html#_4-1-应用分享和使用技巧)”。
 
 1. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 2. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
