@@ -1,2 +1,2 @@
 # doc-zy
-[访问网站](https://zen-harmony.github.io/doc-zy/)
+[访问网站](http://doc.zen-harmony.top)
