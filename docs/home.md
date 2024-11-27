@@ -8,4 +8,4 @@
 
 后续可能更换托管平台。
 
-如无特殊说明，本站中的文档遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) 许可协议。
+如无特殊说明，本站中的文档遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) 许可协议。
