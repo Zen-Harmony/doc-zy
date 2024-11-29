@@ -34,14 +34,6 @@ export default defineConfig({
                     { text: '整理主体', link: '/Linux-src-col/main' },
                     { text: '关于项目', link: '/Linux-src-col/about' }
                   ]
-                },
-                { text: 'Linux常见问题解决方案整理',
-                  items: [
-                    { text: '高频问题', link: '/Linux-solutions/frequently-asked' },
-                    { text: '常见问题', link: '/Linux-solutions/common' },
-                    { text: '解决方案收集', link: '/Linux-solutions/collect' },
-                    { text: '致谢', link: '/Linux-solutions/thanks' }
-                  ]
                 }
               ]
             }
