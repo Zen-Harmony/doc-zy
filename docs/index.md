@@ -14,4 +14,7 @@ hero:
     - theme: alt
       text: 转到 Linux 常用资源整理
       link: /Linux-src-col/main
+    - theme: alt
+      text: 转到 Linux 教程站
+      link: https://tutorial.zen-harmony.top
 ---
