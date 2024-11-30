@@ -124,7 +124,7 @@
 2. 如何编译安装Linux内核：[https://www.cnblogs.com/harrypotterjackson/p/11846222.html](https://www.cnblogs.com/harrypotterjackson/p/11846222.html)
 3. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
 4. 编译打包deb内核：[https://bbs.deepin.org/zh/post/256149](https://bbs.deepin.org/phone/zh/post/256149)
-5. 卸载多余内核：[/Linux-solutions/collect.html#清理多余的系统内核](/Linux-solutions/collect.html#清理多余的系统内核)
+5. 卸载多余内核：[https://tutorial.zen-harmony.top/2024/11/30/linux-uninstall-kernel](https://tutorial.zen-harmony.top/2024/11/30/linux-uninstall-kernel)
 6. Ubuntu Linux HWE 内核科普 – Linux 小知识：[https://bbs.deepin.org/zh/post/254641](https://bbs.deepin.org/zh/post/254641)
 7. 关于源内可用内核的查看、安装与本地内核的卸载：[https://bbs.deepin.org/zh/post/254997](https://bbs.deepin.org/zh/post/254997)
 8. 【小知识】什么是固件（firmware）：[https://bbs.deepin.org/zh/post/255512](https://bbs.deepin.org/zh/post/255512)
