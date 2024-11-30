@@ -27,7 +27,7 @@ Linux 觅知园持续维护至今，离不开热心人士的建议和贡献。�
 感谢以下人员帮助推广，使此项目连带其中的资源被更多人看见：
 - [HualetWang](https://bbs.deepin.org/user/31012)
 - [xuqi](https://bbs.deepin.org/user/283437)
-- [yanjuner](https://bbs.deepin.org/user/298795)）
+- [yanjuner](https://bbs.deepin.org/user/298795)
 - [shenmo](https://blog.shenmo.tech)
 - [bxkdhao](http://bbs.chinauos.com/user/307736)
 - [gshun](https://bbs.deepin.org/user/207084)
