@@ -14,7 +14,4 @@ hero:
     - theme: alt
       text: 转到 Linux 常用资源整理
       link: /Linux-src-col/main
-    - theme: alt
-      text: 转到 Linux 高频问题解决方案整理
-      link: /Linux-solutions/frequently-asked
 ---
