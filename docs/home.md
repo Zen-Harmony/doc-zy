@@ -7,6 +7,11 @@
 ## 托管平台
 由于使用 GitHub Pages，文档中图片加载可能较慢，请耐心等待。
 
+## 版权说明
+1. 资源整理所引用的教程链接，其版权均归原作者所有。
+2. 除非另有特别说明，否则本站上的文档均遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed)许可协议。
+3. 我们尊重每一位创作者的劳动成果，希望广大用户也能共同维护这一份创作的尊严与美好。
+
 ## 免责声明
 
 本站严格遵守中华人民共和国相关法律法规，致力于为用户提供合法、安全、有价值的信息资源。
@@ -35,7 +40,12 @@
 
 如因从“Linux觅知园”跳转导致的任何损失，我们深表歉意，并建议用户及时联系团队成员，以便我们尽快协助处理。
 
-## 版权说明
-1. 资源整理所引用的教程链接，其版权均归原作者所有。
-2. 除非另有特别说明，否则本站上的文档均遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed)许可协议。
-3. 我们尊重每一位创作者的劳动成果，希望广大用户也能共同维护这一份创作的尊严与美好。
+## 联系方式
+
+青稚：[sweetcandymini@foxmail.com](mailto:sweetcandymini@foxmail.com)
+
+阿尼樱奈奈：[kamizotoayaka@163.com](mailto:kamizotoayaka@163.com)
+
+花雨落逝：[hylshi@126.com](mailto:hylshi@126.com)
+
+您可以在[文档仓库](https://github.com/Zen-Harmony/doc-zy/issues)提issue，选择您遇到的问题
