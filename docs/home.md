@@ -48,4 +48,4 @@
 
 花雨落逝：[hylshi@126.com](mailto:hylshi@126.com)
 
-您可以在[文档仓库](https://github.com/Zen-Harmony/doc-zy/issues)提issue，选择您遇到的问题
+您可以在[文档仓库](https://github.com/Zen-Harmony/doc-zy/issues)提issue，选择您遇到的问题。
