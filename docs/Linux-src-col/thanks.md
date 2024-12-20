@@ -13,7 +13,7 @@ Linux 觅知园持续维护至今，离不开热心人士的建议和贡献。�
 - [hanzn-zzx](https://github.com/hanzn-zzx)
 - [青稚](https://github.com/Linux-qitong)
 - [阿尼樱奈奈](https://github.com/Aninana)
-- [Hydrangea-Offcial](https://github.com/Hydrangea-Offcial)
+- [silvaire_qwq](https://github.com/silvaire-qwq)
 - [nanming](https://bbs.deepin.org/user/239615)
 - [liwl](https://bbs.deepin.org/user/160805)
 - [lv36](https://bbs.deepin.org/user/227371)
