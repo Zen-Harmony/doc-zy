@@ -32,7 +32,7 @@ export default defineConfig({
               text: '',
               items: [
                 { text: '关于项目', link: '/about' },
-                { text: '资源整理', link: '/main' },
+                { text: '资源整理', link: '/resources-collated' },
                 { text: '教程站', link: 'https://tutorial.zen-harmony.top' },
                 { text: '致谢', link: '/thanks' }
                   ]
