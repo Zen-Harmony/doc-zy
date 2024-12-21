@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    head: [
+  head: [
       // 添加图标
       ['link', { rel: 'icon', href: '/inbox-solid.svg' }]
     ],
