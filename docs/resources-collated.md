@@ -193,7 +193,7 @@
 
 #### 2.4.2 应用及包管理
 
-> 另见 “[4.1.1.3 软件包管理及应用商店](/Linux-src-col/main.html#_4-1-1-3-软件包管理及应用商店)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/main#_4-1-1-3-软件包管理及应用商店)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
@@ -359,7 +359,7 @@
 
 #### 2.4.7 网络和共享
 
-> 网卡相关内容见“[3.2 网卡](/Linux-src-col/main.html#_3-2-网卡)”。
+> 网卡相关内容见“[3.2 网卡](/resources-collated#_3-2-网卡)”。
 
 1. Windows ssh 客户端 PuTTY 正向与反向流量转发（转）：[https://bbs.deepin.org/zh/post/230148](https://bbs.deepin.org/zh/post/230148)
 2. deepin下ssh常用网络功能：[https://bbs.deepin.org/zh/post/231835](https://bbs.deepin.org/zh/post/231835)
@@ -402,7 +402,7 @@
 
 #### 2.4.9 命令与终端
 
-> 有些命令行应用在“[4.1 应用分享和使用技巧](/Linux-src-col/main.html#_4-1-应用分享和使用技巧)”。
+> 有些命令行应用在“[4.1 应用分享和使用技巧](/resources-collated#_4-1-应用分享和使用技巧)”。
 
 1. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 2. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
@@ -540,7 +540,7 @@
 
 ## 三、硬件和设备
 
-> 部分硬件相关的资源在“[2.4.3 性能和电源管理](/Linux-src-col/main.html#_2-4-3-性能和电源管理)”。
+> 部分硬件相关的资源在“[2.4.3 性能和电源管理](/resources-collated#_2-4-3-性能和电源管理)”。
 
 ### 3.1 显卡
 
