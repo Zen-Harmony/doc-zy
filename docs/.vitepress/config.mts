@@ -34,7 +34,7 @@ export default defineConfig({
                 { text: '关于项目', link: '/about' },
                 { text: '资源整理', link: '/main' },
                 { text: '教程站', link: 'https://tutorial.zen-harmony.top' },
-                { text: '感谢', link: '/thanks' }
+                { text: '致谢', link: '/thanks' }
                   ]
                 }
               ]
