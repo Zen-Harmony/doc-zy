@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 关于觅知园
-      link: /explain
+      link: /about
     - theme: alt
       text: 转到 Linux 常用资源整理
       link: /Linux-src-col/main
