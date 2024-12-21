@@ -9,8 +9,8 @@ hero:
     src: /site-logo.png
   actions:
     - theme: brand
-      text: 进入
-      link: /home
+      text: 关于觅知园
+      link: /explain
     - theme: alt
       text: 转到 Linux 常用资源整理
       link: /Linux-src-col/main
