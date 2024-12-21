@@ -29,12 +29,12 @@ export default defineConfig({
         sidebar: {
           '/': [
             {
-              text: 'Linux资源整理',
+              text: '',
               items: [
-                { text: '首页', link: '/home' },
-                { text: '整理主体', link: '/Linux-src-col/main' },
-                { text: '关于项目', link: '/Linux-src-col/about' },
-                { text: '感谢', link: '/Linux-src-col/thanks' }
+                { text: '关于项目', link: '/about' },
+                { text: '资源整理', link: '/main' },
+                { text: '教程站', link: 'https://tutorial.zen-harmony.top' },
+                { text: '感谢', link: '/thanks' }
                   ]
                 }
               ]
