@@ -528,7 +528,7 @@
 
 ### 2.6 Live 系统/环境
 
-1. 浅探 deepin Live 和修复 Linux 引导：[点击阅读](/deepin-live)
+1. 浅探 Linux Live 和修复 Linux 引导：正在准备撰写，敬请期待
 2. Deepin Community Live CD 2.0.0：[https://bbs.deepin.org/post/260096](https://bbs.deepin.org/post/260096)
 3. Deepin Community Live CD Install 1.7.0：[https://bbs.deepin.org/post/247643](https://bbs.deepin.org/post/247643)
 4. 用ventoy运行deepin不用安装到硬盘的方法：[https://bbs.deepin.org/zh/post/223203](https://bbs.deepin.org/zh/post/223203)
