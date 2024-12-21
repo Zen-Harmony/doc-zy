@@ -49,10 +49,12 @@
 
 ## 联系方式
 
+您可以发送e-mail（电子邮件）给以下任意一位团队成员：
+
 青稚：[sweetcandymini@foxmail.com](mailto:sweetcandymini@foxmail.com)
 
 阿尼樱奈奈：[kamizotoayaka@163.com](mailto:kamizotoayaka@163.com)
 
 花雨落逝：[hylshi@126.com](mailto:hylshi@126.com)
 
-您可以在[doc-zy仓库](https://github.com/Zen-Harmony/doc-zy/issues)提issue，选择您遇到的问题。
+您也可以在[doc-zy仓库](https://github.com/Zen-Harmony/doc-zy/issues)提issue，选择您遇到的问题。
