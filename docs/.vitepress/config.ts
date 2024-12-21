@@ -34,7 +34,6 @@ export default defineConfig({
                   ]
                 }
               ]
-            }
         },
         lastUpdatedText: '上次更新',
         editLink: {
