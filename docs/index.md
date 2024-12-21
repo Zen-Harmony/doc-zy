@@ -6,7 +6,7 @@ hero:
   text: "由志海融新发起的Linux资源整理"
   tagline: 
   image: 
-    src: /img/site-logo.png
+    src: /img/site-logo.webp
   actions:
     - theme: brand
       text: 关于觅知园
