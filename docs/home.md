@@ -5,12 +5,12 @@
 
 ## 版权说明
 
-### 资源整理
+### [Linux资源整理](https://doc.zen-harmony.top/Linux-src-col/main.html)
 
 1. 资源整理所引用的教程链接，其版权均归原作者所有。
 2. 除非另有特别说明，否则资源整理上的文档均遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)许可协议。
 
-### 教程站
+### [Linux教程站](https://tutorial.zen-harmony.top)
 
 1. 教程站所引用或改编的文章，其版权均归原作者所有。
 2. 除非另有特别说明，否则教程站上的文章均遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)许可协议。
