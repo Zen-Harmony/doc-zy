@@ -12,7 +12,7 @@ hero:
       text: 关于觅知园
       link: /about
     - theme: alt
-      text: 转到 Linux 常用资源整理
+      text: 转到 Linux 资源整理
       link: /resources-collated
     - theme: alt
       text: 转到 Linux 教程站
