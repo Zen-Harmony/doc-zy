@@ -24,13 +24,10 @@ export default defineConfig({
         ],
         sidebar: {
           '/': [
-            {
-              text: '',
-              items: [
-                { text: '首页', link: '/home' },
                 {
                   text: 'Linux常用资源整理',
                   items: [
+                    { text: '首页', link: '/home' },
                     { text: '整理主体', link: '/Linux-src-col/main' },
                     { text: '关于项目', link: '/Linux-src-col/about' },
                     { text: '感谢', link: '/Linux-src-col/thanks' }
