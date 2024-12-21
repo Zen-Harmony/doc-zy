@@ -4,7 +4,7 @@
 此资源整理由 [志海融新团队](https://github.com/Zen-Harmony) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite)的资源整理。
 ::: 
 
-![banner.jpg](./img/col-banner.jpg)
+![banner.jpg](/img/col-banner.jpg)
 在这里我们整理了一些有帮助的资源，帮助大家更快捷地找到需要的内容。
 感谢所有提供了资源的网友。若你知道更多对他人有用的资源，或觉得本文需要改进，欢迎在评论中补充或是参与协作。
 
