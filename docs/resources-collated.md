@@ -1,4 +1,4 @@
-# Linux 常用资源整理
+# Linux 资源整理
 
 ::: tip
 此资源整理由 [志海融新团队](https://github.com/Zen-Harmony) 发起，修改自[PZM](https://github.com/pzm9012/doc-vite)的资源整理。
