@@ -10,7 +10,7 @@
 
 ## 版权说明
 
-### [Linux资源整理](https://doc.zen-harmony.top/Linux-src-col/main.html)
+### [Linux资源整理](/main)
 
 1. 资源整理所引用的教程链接，其版权均归原作者所有。
 2. 除非另有特别说明，否则资源整理上的文档均遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)许可协议。
