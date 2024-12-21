@@ -3,7 +3,7 @@
 ## 交流
 
 扫描下方二维码加入团队的 QQ 交流群（985191565）。
-![志海融新](./img/qq-group-qrcode.jpg)
+![志海融新](/img/qq-group-qrcode.jpg)
 
 ## 托管平台
 由于使用 GitHub Pages，文档中图片加载可能较慢，请耐心等待。
