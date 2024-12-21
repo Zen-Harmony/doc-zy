@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     head: [
       // 添加图标
-      ['link', { rel: 'icon', href: '/favicon.ico' }]
+      ['link', { rel: 'icon', href: '/inbox-solid.svg' }]
     ],
  // cleanUrls: true,
   base: "/",
