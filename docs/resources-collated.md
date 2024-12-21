@@ -193,7 +193,7 @@
 
 #### 2.4.2 应用及包管理
 
-> 另见 “[4.1.1.3 软件包管理及应用商店](/main#_4-1-1-3-软件包管理及应用商店)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/resources-collated#_4-1-1-3-软件包管理及应用商店)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
