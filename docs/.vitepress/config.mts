@@ -6,7 +6,7 @@ export default defineConfig({
       // 添加图标
       ['link', { rel: 'icon', href: '/img/inbox-solid.svg' }]
     ],
- // cleanUrls: true,
+  cleanUrls: true,
   base: "/",
   markdown: {
     theme: {
