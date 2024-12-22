@@ -544,27 +544,40 @@
 
 ### 3.1 显卡
 
+#### 3.1.1 驱动安装
+
+##### 3.1.1.1 NVIDIA显卡
+
 1. 显卡笔记本安装N卡闭源驱动教程：[https://bbs.deepin.org/zh/post/215066](https://bbs.deepin.org/zh/post/215066)
-2. Deepin双显卡之bumblebee(大黄蜂)、Prime及手动切换方案：[https://bbs.deepin.org/zh/post/210053](https://bbs.deepin.org/zh/post/210053)
-3. NVIDIA独立显卡的安装方法：[https://bbs.deepin.org/zh/post/223856](https://bbs.deepin.org/zh/post/223856)
-4. 一键安装NVIDIA显卡驱动：[https://bbs.deepin.org/zh/post/227866](https://bbs.deepin.org/zh/post/227866)
-5. UOS/DEEPIN安装nvidia最新闭源驱动的教程：[https://bbs.deepin.org/zh/post/232923](https://bbs.deepin.org/zh/post/232923)
-6. deepin安装N卡驱动教程：[https://bbs.deepin.org/zh/post/238766](https://bbs.deepin.org/zh/post/238766)
-7. uos和deepin安装较新amd显卡驱动完整版：[https://bbs.deepin.org/zh/post/237734](https://bbs.deepin.org/zh/post/237734)
-8. 屏幕闪烁问题的解决办法：[https://bbs.deepin.org/zh/post/224687](https://bbs.deepin.org/zh/post/224687)
-9. 英伟达官方驱动安装记录：[https://bbs.deepin.org/post/244803](https://bbs.deepin.org/post/244803)
-10. 无法安装 nvidia 闭源驱动：[https://bbs.deepin.org/zh/post/255850](https://bbs.deepin.org/zh/post/255850)
-11. 终于安装NVIDIA RTX 750 显卡驱动成功了，留念：[https://bbs.deepin.org/zh/post/255284](https://bbs.deepin.org/zh/post/255284)
-12. deepin-prime-run:让使用A+N的双显卡的用户一键用N卡启动应用：[https://bbs.deepin.org/zh/post/256199](https://bbs.deepin.org/zh/post/256199)
-13. Deepin 20.9 系统，安装NVIDIA 340.108 闭源驱动： [https://bbs.deepin.org/post/261410](https://bbs.deepin.org/post/261410)
-14. AMD R7 6800H 官网显卡驱动安装，解决kwin-x11的cpu占用过高问题：[https://bbs.deepin.org/post/241607](https://bbs.deepin.org/post/241607)
-15. [转载] 老款双显卡笔记本UOS21.3或Deepin 20.7安装Nvidia闭源驱动：[https://bbs.deepin.org/post/264450](https://bbs.deepin.org/post/264450)
-16. 锐龙7 7840HS 显卡驱动和文件升级教程：[https://bbs.deepin.org/post/264987](https://bbs.deepin.org/post/264987)
-17. i+n卡如何驱动N卡（启用独显，屏蔽集显）：[https://bbs.deepin.org/post/265380](https://bbs.deepin.org/post/265380)
-18. Ubuntu 安装 Nvidia 显卡驱动及常见问题解决：[https://bbs.deepin.org/post/267544](https://bbs.deepin.org/post/267544)
-19. 记录一下在V23上安装amd显卡显示驱动：[https://bbs.deepin.org/post/268499](https://bbs.deepin.org/post/268499)
-20. 老显卡730驱动安装：[https://bbs.deepin.org/post/268273](https://bbs.deepin.org/post/268273)
-21. 解决780m核显休眠后唤醒屏幕白屏闪烁：[https://bbs.deepin.org/post/272618](https://bbs.deepin.org/post/272618)
+2. NVIDIA独立显卡的安装方法：[https://bbs.deepin.org/zh/post/223856](https://bbs.deepin.org/zh/post/223856)
+3. 一键安装NVIDIA显卡驱动：[https://bbs.deepin.org/zh/post/227866](https://bbs.deepin.org/zh/post/227866)
+4. UOS/DEEPIN安装nvidia最新闭源驱动的教程：[https://bbs.deepin.org/zh/post/232923](https://bbs.deepin.org/zh/post/232923)
+5. deepin安装N卡驱动教程：[https://bbs.deepin.org/zh/post/238766](https://bbs.deepin.org/zh/post/238766)
+6. 英伟达官方驱动安装记录：[https://bbs.deepin.org/post/244803](https://bbs.deepin.org/post/244803)
+7. 无法安装 nvidia 闭源驱动：[https://bbs.deepin.org/zh/post/255850](https://bbs.deepin.org/zh/post/255850)
+8. 终于安装NVIDIA RTX 750 显卡驱动成功了，留念：[https://bbs.deepin.org/zh/post/255284](https://bbs.deepin.org/zh/post/255284)
+9. Deepin 20.9 系统，安装NVIDIA 340.108 闭源驱动： [https://bbs.deepin.org/post/261410](https://bbs.deepin.org/post/261410)
+10. [转载] 老款双显卡笔记本UOS21.3或Deepin 20.7安装Nvidia闭源驱动：[https://bbs.deepin.org/post/264450](https://bbs.deepin.org/post/264450)
+11. i+n卡如何驱动N卡（启用独显，屏蔽集显）：[https://bbs.deepin.org/post/265380](https://bbs.deepin.org/post/265380)
+12. Ubuntu 安装 Nvidia 显卡驱动及常见问题解决：[https://bbs.deepin.org/post/267544](https://bbs.deepin.org/post/267544)
+13. 老显卡730驱动安装：[https://bbs.deepin.org/post/268273](https://bbs.deepin.org/post/268273)
+
+##### 3.1.1.2 AMD显卡
+
+1. uos和deepin安装较新amd显卡驱动完整版：[https://bbs.deepin.org/zh/post/237734](https://bbs.deepin.org/zh/post/237734)
+2. AMD R7 6800H 官网显卡驱动安装，解决kwin-x11的cpu占用过高问题：[https://bbs.deepin.org/post/241607](https://bbs.deepin.org/post/241607)
+3. 锐龙7 7840HS 显卡驱动和文件升级教程：[https://bbs.deepin.org/post/264987](https://bbs.deepin.org/post/264987)
+4. 记录一下在V23上安装amd显卡显示驱动：[https://bbs.deepin.org/post/268499](https://bbs.deepin.org/post/268499)
+
+### 3.1.2 双显卡切换
+
+1. Deepin双显卡之bumblebee(大黄蜂)、Prime及手动切换方案：[https://bbs.deepin.org/zh/post/210053](https://bbs.deepin.org/zh/post/210053)
+2. deepin-prime-run:让使用A+N的双显卡的用户一键用N卡启动应用：[https://bbs.deepin.org/zh/post/256199](https://bbs.deepin.org/zh/post/256199)
+
+### 3.1.3 问题解决方案
+
+1. 屏幕闪烁问题的解决办法：[https://bbs.deepin.org/zh/post/224687](https://bbs.deepin.org/zh/post/224687)
+2. 解决780m核显休眠后唤醒屏幕白屏闪烁：[https://bbs.deepin.org/post/272618](https://bbs.deepin.org/post/272618)
 
 ### 3.2 网卡
 
@@ -856,44 +869,65 @@
 
 #### 4.1.7 音乐电台
 
+##### 4.1.7.1 网易云音乐
+
+1. 网易云音乐调整缩放比例的方法：[https://bbs.deepin.org/zh/post/225377](https://bbs.deepin.org/zh/post/225377)
+2. 网易云音乐 基于ubuntu/debian无法打开和无法播放报解决办法：[https://bbs.deepin.org/post/265364](https://bbs.deepin.org/post/265364)
+3. 高颜值的第三方网易云音乐播放器（强烈推荐）：[https://github.com/qier222/YesPlayMusic/releases](https://github.com/qier222/YesPlayMusic/releases)
+4. Quiet：第三方网易云音乐：[https://bbs.deepin.org/post/263424](https://bbs.deepin.org/post/263424)
+
+##### 4.1.7.2 其他
+
 1. 咯咚电台--Bash 电台播放软件（持续更新）：[https://bbs.deepin.org/post/246580](https://bbs.deepin.org/post/246580)
-2. 网易云音乐调整缩放比例的方法：[https://bbs.deepin.org/zh/post/225377](https://bbs.deepin.org/zh/post/225377)
-3. 网易云音乐 基于ubuntu/debian无法打开和无法播放报解决办法：[https://bbs.deepin.org/post/265364](https://bbs.deepin.org/post/265364)
-4. 高颜值的第三方网易云音乐播放器（强烈推荐）：[https://github.com/qier222/YesPlayMusic/releases](https://github.com/qier222/YesPlayMusic/releases)
-5. music-island介绍：[最近更新](https://bbs.deepin.org/post/259310)
-6. You-get强大的视频下载程序图形软件：[https://bbs.deepin.org/post/250587](https://bbs.deepin.org/post/250587)
-7. [应用推荐]简洁美观好用的开源音乐软件：[https://bbs.deepin.org/post/252868](https://bbs.deepin.org/post/252868)
-8. 洛雪音乐不能用了吗？教你一招，轻松解决：[https://bbs.deepin.org/post/264065](https://bbs.deepin.org/post/264065)
-9. Quiet：第三方网易云音乐：[https://bbs.deepin.org/post/263424](https://bbs.deepin.org/post/263424)
-10. 向大家推荐一款好用的音乐播放器 QMMP：[https://bbs.deepin.org/post/264666](https://bbs.deepin.org/post/264666)
-12. QQ音乐CPU占用高的解决办法：[https://bbs.deepin.org/post/266798](https://bbs.deepin.org/post/266798)
+2. music-island介绍：[最近更新](https://bbs.deepin.org/post/259310)
+3. [应用推荐]简洁美观好用的开源音乐软件：[https://bbs.deepin.org/post/252868](https://bbs.deepin.org/post/252868)
+4. 洛雪音乐不能用了吗？教你一招，轻松解决：[https://bbs.deepin.org/post/264065](https://bbs.deepin.org/post/264065)
+5. 向大家推荐一款好用的音乐播放器 QMMP：[https://bbs.deepin.org/post/264666](https://bbs.deepin.org/post/264666)
+6. QQ音乐CPU占用高的解决办法：[https://bbs.deepin.org/post/266798](https://bbs.deepin.org/post/266798)
 
 #### 4.1.8 影音编辑
 
+##### 4.1.8.1 OBS
+
 1. OBS教程：3分钟学会直播推流与视频录制：[https://bbs.deepin.org/zh/post/224816](https://bbs.deepin.org/zh/post/224816)
-   
    > OBS录屏软件不能运行的解决方案：[https://bbs.deepin.org/post/247713](https://bbs.deepin.org/post/247713)
-2. extract-video-ppt:把视频转换成 PPT：[https://bbs.deepin.org/zh/post/253759](https://bbs.deepin.org/zh/post/253759)
-3. 使用Deepin深度系统制作音乐：[https://bbs.deepin.org/zh/post/223386](https://bbs.deepin.org/zh/post/223386)
-4. Kdenlive22.04.0-2修复Deb包，支持字幕自动生成功能：[https://bbs.deepin.org/zh/post/237153](https://bbs.deepin.org/zh/post/237153)
-5. Kdenlive flatpak 版本解决语音识别找不到 pip3：[https://bbs.deepin.org/zh/post/239779](https://bbs.deepin.org/zh/post/239779)
-6. Kdenlive解决无法输入中文和语音识别提示需安装srt、vosk的教程：[https://bbs.deepin.org/post/245782](https://bbs.deepin.org/post/245782)
-7. 安装kdenlive官网最新版解决中文输入和语音识别：[https://bbs.deepin.org/post/251790](https://bbs.deepin.org/post/251790)
-8. wine版剪映基本能用了，字幕和画面都出来了：[https://bbs.deepin.org/zh/post/238330](https://bbs.deepin.org/zh/post/238330)
-9. 打包剪映专业版（wine），并教你解决视频预览窗口显示黑屏的问题：[https://bbs.deepin.org/zh/post/238449](https://bbs.deepin.org/zh/post/238449)
-10. 分享一个使用deepin-wine打包的剪映：[https://bbs.deepin.org/zh/post/240190](https://bbs.deepin.org/zh/post/240190)
-11. 调整mp3音量编辑工具：[https://bbs.deepin.org/zh/post/254031](https://bbs.deepin.org/zh/post/254031)
-12. 解决linux版达芬奇 欢迎界面黑屏的方法：[https://bbs.deepin.org/post/259835](https://bbs.deepin.org/post/259835)
-13. 达芬奇中直接输入中文的方法：[https://bbs.deepin.org/zh/post/254137](https://bbs.deepin.org/zh/post/254137)
-14. 安装达芬奇(DaVinci Resolve)18.5让你编辑出电影级影视效果的视频：[https://bbs.deepin.org/post/260477](https://bbs.deepin.org/post/260477)
-15. v23系统下blender打不开解决方法：[https://bbs.deepin.org/post/258784](https://bbs.deepin.org/post/258784)
-16. blender字幕插件：[https://bbs.deepin.org/post/260410](https://bbs.deepin.org/post/260410)
-17. 推荐给用blender的网友，视频剪辑字幕插件的使用方法：[https://bbs.deepin.org/post/260440](https://bbs.deepin.org/post/260440)
-18. 终端部署openAI whisper用于提取音视频字幕：[https://bbs.deepin.org/post/258121](https://bbs.deepin.org/post/258121)
-19. 静态安装ffmpeg高版本：[https://bbs.deepin.org/post/259626](https://bbs.deepin.org/post/259626)
-20. QuickCut：[https://bbs.deepin.org/post/264681](https://bbs.deepin.org/post/264681)
-21. OBS Studio安装攻略 直播推流：[https://bbs.deepin.org/post/264262](https://bbs.deepin.org/post/264262)
-22. deepinV23-B3达芬奇安装使用总结：[https://bbs.deepin.org/post/268840](https://bbs.deepin.org/post/268840)
+2. OBS Studio安装攻略 直播推流：[https://bbs.deepin.org/post/264262](https://bbs.deepin.org/post/264262)
+
+##### 4.1.8.2 Kdenlive
+
+1. Kdenlive22.04.0-2修复Deb包，支持字幕自动生成功能：[https://bbs.deepin.org/zh/post/237153](https://bbs.deepin.org/zh/post/237153)
+2. Kdenlive flatpak 版本解决语音识别找不到 pip3：[https://bbs.deepin.org/zh/post/239779](https://bbs.deepin.org/zh/post/239779)
+3. Kdenlive解决无法输入中文和语音识别提示需安装srt、vosk的教程：[https://bbs.deepin.org/post/245782](https://bbs.deepin.org/post/245782)
+4. 安装kdenlive官网最新版解决中文输入和语音识别：[https://bbs.deepin.org/post/251790](https://bbs.deepin.org/post/251790)
+
+##### 4.1.8.3 达芬奇
+
+1. 解决linux版达芬奇 欢迎界面黑屏的方法：[https://bbs.deepin.org/post/259835](https://bbs.deepin.org/post/259835)
+2. 达芬奇中直接输入中文的方法：[https://bbs.deepin.org/zh/post/254137](https://bbs.deepin.org/zh/post/254137)
+3. 安装达芬奇(DaVinci Resolve)18.5让你编辑出电影级影视效果的视频：[https://bbs.deepin.org/post/260477](https://bbs.deepin.org/post/260477)
+4. deepinV23-B3达芬奇安装使用总结：[https://bbs.deepin.org/post/268840](https://bbs.deepin.org/post/268840)
+
+
+##### 4.1.8.4 blender
+
+1. v23系统下blender打不开解决方法：[https://bbs.deepin.org/post/258784](https://bbs.deepin.org/post/258784)
+2. blender字幕插件：[https://bbs.deepin.org/post/260410](https://bbs.deepin.org/post/260410)
+3. 推荐给用blender的网友，视频剪辑字幕插件的使用方法：[https://bbs.deepin.org/post/260440](https://bbs.deepin.org/post/260440)
+
+##### 4.1.8.5 wine版剪映
+
+1. wine版剪映基本能用了，字幕和画面都出来了：[https://bbs.deepin.org/zh/post/238330](https://bbs.deepin.org/zh/post/238330)
+2. 打包剪映专业版（wine），并教你解决视频预览窗口显示黑屏的问题：[https://bbs.deepin.org/zh/post/238449](https://bbs.deepin.org/zh/post/238449)
+3. 分享一个使用deepin-wine打包的剪映：[https://bbs.deepin.org/zh/post/240190](https://bbs.deepin.org/zh/post/240190)
+
+##### 4.1.8.6 其他
+
+1. extract-video-ppt:把视频转换成 PPT：[https://bbs.deepin.org/zh/post/253759](https://bbs.deepin.org/zh/post/253759)
+2. 使用Deepin深度系统制作音乐：[https://bbs.deepin.org/zh/post/223386](https://bbs.deepin.org/zh/post/223386)
+3. 调整mp3音量编辑工具：[https://bbs.deepin.org/zh/post/254031](https://bbs.deepin.org/zh/post/254031)
+4. 终端部署openAI whisper用于提取音视频字幕：[https://bbs.deepin.org/post/258121](https://bbs.deepin.org/post/258121)
+5. 静态安装ffmpeg高版本：[https://bbs.deepin.org/post/259626](https://bbs.deepin.org/post/259626)
+6. QuickCut：[https://bbs.deepin.org/post/264681](https://bbs.deepin.org/post/264681)
 
 #### 4.1.9 图形图像
 
