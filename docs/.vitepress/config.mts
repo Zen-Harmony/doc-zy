@@ -1,19 +1,17 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default {
-  sitemap: {
-    hostname: 'https://example.com',
-    lastmodDateOnly: false
-  }
-}
-
 export default defineConfig({
   head: [
       // 添加图标
       ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }]
     ],
   cleanUrls: true,
+  sitemap: {
+    hostname: 'https://doc.zen-harmony.top',
+    lastmodDateOnly: false
+  }
+},
   base: "/",
   markdown: {
     theme: {
