@@ -568,6 +568,7 @@
 2. AMD R7 6800H 官网显卡驱动安装，解决kwin-x11的cpu占用过高问题：[https://bbs.deepin.org/post/241607](https://bbs.deepin.org/post/241607)
 3. 锐龙7 7840HS 显卡驱动和文件升级教程：[https://bbs.deepin.org/post/264987](https://bbs.deepin.org/post/264987)
 4. 记录一下在V23上安装amd显卡显示驱动：[https://bbs.deepin.org/post/268499](https://bbs.deepin.org/post/268499)
+5. LACT Linux AMD GPU 控制应用程序：[https://bbs.deepin.org/post/272530](https://bbs.deepin.org/post/272530)
 
 ### 3.1.2 双显卡切换
 
@@ -1130,7 +1131,7 @@
 7. 【小知识】虚拟机（Virtual Machine）到底是什么：[https://bbs.deepin.org/zh/post/256348](https://bbs.deepin.org/zh/post/256348)
 8. 【小知识】上次的参考答案（虚拟机/VM）：[https://bbs.deepin.org/zh/post/256413](https://bbs.deepin.org/zh/post/256413)
 9. 应用探索 | 虚拟化管理软件Oracle VM VirtualBox使用教程：[https://bbs.deepin.org/post/260033](https://bbs.deepin.org/post/260033)
-10. 如何在v23上面安装vbox虚拟机：[https://bbs.deepin.org/zh/post/254728](https://bbs.deepin.org/zh/post/254728)
+10. Linux通过run法安装和使用VirtualBox：[https://tutorial.zen-harmony.top/posts/linux-install-virtualbox](https://tutorial.zen-harmony.top/posts/linux-install-virtualbox)
 11. virt-manager 最新虚拟机管理工具 V23 修正版下载：[https://bbs.deepin.org/post/264356](https://bbs.deepin.org/post/264356)
 12. 使用容器扩展生态（支持图形软件甚至桌面环境）：[https://bbs.deepin.org/post/248123](https://bbs.deepin.org/post/248123)
 13. Distrobox 在终端里使用您最熟悉喜爱的 Linux 发行版：[https://bbs.deepin.org/post/246566](https://bbs.deepin.org/post/246566)
@@ -1139,8 +1140,7 @@
 16. V23尝试使用distrobox运行软件：[https://bbs.deepin.org/zh/post/256901](https://bbs.deepin.org/zh/post/256901)
 17. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
 18. deepinV23系统下安装win10系统及移动硬盘/打印机连接：[https://bbs.deepin.org/post/261048](https://bbs.deepin.org/post/261048)
-19. deepin 23 Beta3 安装 VirutalBox：[https://bbs.deepin.org/post/267648](https://bbs.deepin.org/post/267648)
-20. QEMU 9.0及以上版本安装方法：[https://bbs.deepin.org/post/274211](https://bbs.deepin.org/post/274211)
+19. QEMU 9.0及以上版本安装方法：[https://bbs.deepin.org/post/274211](https://bbs.deepin.org/post/274211)
 
 ##### 4.2.3.1 ACE 琥珀兼容环境（原书虫兼容环境）
 
@@ -1331,6 +1331,5 @@
 38. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
 39. Stirling-PDF 离线DOCKER镜像：[https://bbs.deepin.org/post/270603](https://bbs.deepin.org/post/270603)
 40. 基于shell+dialog+zenity写的cp/scp/rsync工具的拷贝&同步脚本：[https://bbs.deepin.org/post/271323](https://bbs.deepin.org/post/271323)
-41. LACT Linux AMD GPU 控制应用程序：[https://bbs.deepin.org/post/272530](https://bbs.deepin.org/post/272530)
-42. 如何用R语言下载一本小说的简单示例：[https://bbs.deepin.org/post/272726](https://bbs.deepin.org/post/272726)
+41. 如何用R语言下载一本小说的简单示例：[https://bbs.deepin.org/post/272726](https://bbs.deepin.org/post/272726)
 
