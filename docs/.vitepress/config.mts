@@ -12,7 +12,6 @@ export default defineConfig({
     lastmodDateOnly: false
   }
 },
-  base: "/",
   markdown: {
     theme: {
       light: 'catppuccin-latte',
