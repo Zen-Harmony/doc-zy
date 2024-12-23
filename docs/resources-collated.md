@@ -1116,7 +1116,6 @@
 22. 使用Qemu User运行Wine（支持全架构）：[https://bbs.deepin.org/post/255873](https://bbs.deepin.org/post/255873)
 23. 修改系统商店内的wine微信字体样式：[https://bbs.deepin.org/post/261603](https://bbs.deepin.org/post/261603)
 24. 记录安装wine运行器以及虚拟机：[https://bbs.deepin.org/post/264976](https://bbs.deepin.org/post/264976)
-25. deepin v23B3直接安装exe软件以央视影音为例：[https://bbs.deepin.org.cn/post/267945](https://bbs.deepin.org.cn/post/267945)
 
 #### 4.2.3 虚拟机和容器
 
