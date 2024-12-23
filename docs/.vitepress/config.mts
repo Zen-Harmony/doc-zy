@@ -10,8 +10,8 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://doc.zen-harmony.top',
     lastmodDateOnly: false
-  }
-},
+  },
+  base: "/",
   markdown: {
     theme: {
       light: 'catppuccin-latte',
