@@ -857,16 +857,19 @@
 
 #### 4.1.6 视频播放
 
+##### 4.1.6.1 B站
+
+1. bilimini——跨平台的好用的 B 站“桌面端”：[https://bbs.deepin.org/zh/post/225784](https://bbs.deepin.org/zh/post/225784)
+2. b站辅助插件bilibili-evolved现已支持b站视频导出至mpv播放：[https://bbs.deepin.org/zh/post/232228](https://bbs.deepin.org/zh/post/232228)
+3. 一个新的原生c++编写的bilibili客户端，wiliwili：[https://bbs.deepin.org/post/246886](https://bbs.deepin.org/post/246886)
+
+##### 4.1.6.2 其他
+
 1. 功能完善、社区活跃的超级播放器——KODI：[https://bbs.deepin.org/zh/post/224939](https://bbs.deepin.org/zh/post/224939)
 2. You-get 强大的视频下载程序图形软件[持续更新]：[https://bbs.deepin.org/post/250587](https://bbs.deepin.org/post/250587)
-3. bilimini——跨平台的好用的 B 站“桌面端”：[https://bbs.deepin.org/zh/post/225784](https://bbs.deepin.org/zh/post/225784)
-4. b站辅助插件bilibili-evolved现已支持b站视频导出至mpv播放：[https://bbs.deepin.org/zh/post/232228](https://bbs.deepin.org/zh/post/232228)
-5. 推荐一款不用梯子看油管视频的开源安卓软件-LibreTube：[https://bbs.deepin.org/post/240769](https://bbs.deepin.org/post/240769)
-6. 一个新的原生c++编写的bilibili客户端，wiliwili：[https://bbs.deepin.org/post/246886](https://bbs.deepin.org/post/246886)
-7. 小苹果影视盒子(uengine) ：[https://bbs.deepin.org/post/251365](https://bbs.deepin.org/post/251365)
-8. VideoTogether 搭配使用Alist 和你的家人朋友一起在线看视频：[https://bbs.deepin.org/zh/post/255013](https://bbs.deepin.org/zh/post/255013)
-9. 多媒体架构FFmpeg和GStreamer简介（和一些最基础的命令） ：[https://bbs.deepin.org/zh/post/255849](https://bbs.deepin.org/zh/post/255849)
-10. vlc全屏时，有声音但黑屏或画面卡住的解决办法：[https://bbs.deepin.org/post/265883](https://bbs.deepin.org/post/265883)
+3. VideoTogether搭配使用Alist和你的家人朋友一起在线看视频：[https://bbs.deepin.org/zh/post/255013](https://bbs.deepin.org/zh/post/255013)
+4. 多媒体架构FFmpeg和GStreamer简介（和一些最基础的命令） ：[https://bbs.deepin.org/zh/post/255849](https://bbs.deepin.org/zh/post/255849)
+5. vlc全屏时，有声音但黑屏或画面卡住的解决办法：[https://bbs.deepin.org/post/265883](https://bbs.deepin.org/post/265883)
 
 #### 4.1.7 音乐电台
 
@@ -932,35 +935,52 @@
 
 #### 4.1.9 图形图像
 
+##### 4.1.9.1 Blender
+
+1. Blender更换主题及移动基本操作笔记：[https://bbs.deepin.org/post/268339](https://bbs.deepin.org/post/268339)
+2. Blender物体调整及调整显示效果笔记：[https://bbs.deepin.org/post/268347](https://bbs.deepin.org/post/268347)
+3. Blender部分删除物体、如何处理穿模、圆润边角：[https://bbs.deepin.org.cn/post/268386](https://bbs.deepin.org.cn/post/268386)
+4. linux blender中文输入 暂时解决方法：[https://bbs.deepin.org/zh/post/261609](https://bbs.deepin.org/zh/post/261609)
+
+##### 4.1.9.2 Stable Diffusion
+
+1. 安装Stable Diffusion 体验ai绘画：[https://bbs.deepin.org/post/255488](https://bbs.deepin.org/post/255488)
+2. 通过docker快速部署stable diffusion实现AI绘画：[https://bbs.deepin.org/zh/post/256219](https://bbs.deepin.org/zh/post/256219)
+3. 使用deepin V23 RC2 在本地搭建Stable Diffusion：[https://bbs.deepin.org.cn/post/274352](https://bbs.deepin.org.cn/post/274352)
+4. 给Stable Diffusion webui界面进行汉化：[https://bbs.deepin.org.cn/post/274625](https://bbs.deepin.org.cn/post/274625)
+
+##### 4.1.9.3 工业软件
+
+1. 浩辰CAD Linux版 2024：[https://bbs.deepin.org/post/262825](https://bbs.deepin.org/post/262825)
+2. 工业软件第一弹：wine版Catia V5R21 32位版：[https://bbs.deepin.org/post/263226](https://bbs.deepin.org/post/263226)
+3. 工业软件第二弹：wine版AutoCAD 2006 32位版：[https://bbs.deepin.org/post/263360](https://bbs.deepin.org/post/263360)
+4. 工业软件第三弹：wine版犀牛Rhino5 64位版：[https://bbs.deepin.org/post/263506](https://bbs.deepin.org/post/263506)
+5. Qucs-S电路仿真软件 中文版：[https://bbs.deepin.org.cn/post/267184](https://bbs.deepin.org.cn/post/267184)
+
+##### 4.1.9.4 图像处理应用
+
 1. 截屏+OCR+搜索+贴图+以图搜图 ----eSearch应用：[https://bbs.deepin.org/zh/post/238703](https://bbs.deepin.org/zh/post/238703)
 2. 推荐一款免费的linux原生图片压缩应用Curtail：[https://bbs.deepin.org/post/245531](https://bbs.deepin.org/post/245531)
 3. 图片管理软件Xnview有linux原生版本：[https://bbs.deepin.org/post/246466](https://bbs.deepin.org/post/246466)
 4. Lama Cleaner 没有分辨率限制的图片修复工具：[https://bbs.deepin.org/zh/post/253760](https://bbs.deepin.org/zh/post/253760)
 5. 图片吸收器 - 快来吸取你想顺手保存的图片吧：[https://bbs.deepin.org/post/244175](https://bbs.deepin.org/post/244175)
-6. 安装Stable Diffusion 体验ai绘画：[https://bbs.deepin.org/post/255488](https://bbs.deepin.org/post/255488)
-7. （开源）强大的图像处理软件，强烈推荐！！！：[https://bbs.deepin.org/post/243829](https://bbs.deepin.org/post/243829)
-8. 如何在deepin上扣头像：[https://bbs.deepin.org/zh/post/253564](https://bbs.deepin.org/zh/post/253564)
-9. 通过docker快速部署stable diffusion实现AI绘画：[https://bbs.deepin.org/zh/post/256219](https://bbs.deepin.org/zh/post/256219)
-10. 羽云 GIF 编辑器 正式上架应用商店：[https://bbs.deepin.org/post/245929](https://bbs.deepin.org/post/245929)
-11. 应用探索 | Shotwell：轻量级原生照片管理及编辑工具：[https://bbs.deepin.org/post/260626](https://bbs.deepin.org/post/260626)
-12. linux blender中文输入 暂时解决方法：[https://bbs.deepin.org/zh/post/261609](https://bbs.deepin.org/zh/post/261609)
-13. 图标编辑器：Greenfish Icon Editor Pro：[https://bbs.deepin.org/zh/post/261684](https://bbs.deepin.org/zh/post/261684)
-14. 浩辰CAD Linux版 2024：[https://bbs.deepin.org/post/262825](https://bbs.deepin.org/post/262825)
-15. 超好用的AI图片一键超分辨率工具：Upscayl：[https://bbs.deepin.org/post/263751](https://bbs.deepin.org/post/263751)
-16. Upscayl 最新中文版下载：[https://bbs.deepin.org/post/263881](https://bbs.deepin.org/post/263881)
-17. 工业软件第一弹：wine版Catia V5R21 32位版：[https://bbs.deepin.org/post/263226](https://bbs.deepin.org/post/263226)
-18. 工业软件第二弹：wine版AutoCAD 2006 32位版：[https://bbs.deepin.org/post/263360](https://bbs.deepin.org/post/263360)
-19. 工业软件第三弹：wine版犀牛Rhino5 64位版：[https://bbs.deepin.org/post/263506](https://bbs.deepin.org/post/263506)
-20. XnViewMP 中文版下载：[https://bbs.deepin.org/post/264155](https://bbs.deepin.org/post/264155)
-21. 海天鹰屏幕画笔、Pensela绘画的时候黑屏的解决办法：[https://bbs.deepin.org/post/266740](https://bbs.deepin.org/post/266740)
-22. Qucs-S电路仿真软件 中文版：[https://bbs.deepin.org.cn/post/267184](https://bbs.deepin.org.cn/post/267184)
-23. 跨平台图床管理器-up2b：[https://bbs.deepin.org/post/266756](https://bbs.deepin.org/post/266756)
-24. Blender更换主题及移动基本操作笔记：[https://bbs.deepin.org/post/268339](https://bbs.deepin.org/post/268339)
-25. Blender物体调整及调整显示效果笔记：[https://bbs.deepin.org/post/268347](https://bbs.deepin.org/post/268347)
-26. Blender部分删除物体、如何处理穿模、圆润边角：[https://bbs.deepin.org.cn/post/268386](https://bbs.deepin.org.cn/post/268386)
-27. 使用deepin V23 RC2 在本地搭建Stable Diffusion：[https://bbs.deepin.org.cn/post/274352](https://bbs.deepin.org.cn/post/274352)
-28. 给Stable Diffusion webui界面进行汉化：[https://bbs.deepin.org.cn/post/274625](https://bbs.deepin.org.cn/post/274625)
-29. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
+6. （开源）强大的图像处理软件，强烈推荐！！！：[https://bbs.deepin.org/post/243829](https://bbs.deepin.org/post/243829)
+7. 羽云 GIF 编辑器 正式上架应用商店：[https://bbs.deepin.org/post/245929](https://bbs.deepin.org/post/245929)
+8. 应用探索 | Shotwell：轻量级原生照片管理及编辑工具：[https://bbs.deepin.org/post/260626](https://bbs.deepin.org/post/260626)
+9. 图标编辑器：Greenfish Icon Editor Pro：[https://bbs.deepin.org/zh/post/261684](https://bbs.deepin.org/zh/post/261684)
+10. 超好用的AI图片一键超分辨率工具：Upscayl：[https://bbs.deepin.org/post/263751](https://bbs.deepin.org/post/263751)
+11. Upscayl 最新中文版下载：[https://bbs.deepin.org/post/263881](https://bbs.deepin.org/post/263881)
+12. XnViewMP 中文版下载：[https://bbs.deepin.org/post/264155](https://bbs.deepin.org/post/264155)
+13. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
+
+##### 4.1.9.5 教程及问题解决
+
+1. 如何在deepin上扣头像：[https://bbs.deepin.org/zh/post/253564](https://bbs.deepin.org/zh/post/253564)
+2. 海天鹰屏幕画笔、Pensela绘画的时候黑屏的解决办法：[https://bbs.deepin.org/post/266740](https://bbs.deepin.org/post/266740)
+
+##### 4.1.9.6 图床
+
+1. 跨平台图床管理器-up2b：[https://bbs.deepin.org/post/266756](https://bbs.deepin.org/post/266756)
 
 #### 4.1.10 解压刻录
 
@@ -988,26 +1008,25 @@
 
 #### 4.1.14 便捷生活
 
-1. Icalingua：第三方QQ客户端：[https://bbs.deepin.org/zh/post/226550](https://bbs.deepin.org/zh/post/226550)（原项目因不可抗因素已删除，建议使用分支版本 Icalingua++）
-2. 解决QQ(wine)因字体卡死&宋体发虚太难看的一种方法：[https://bbs.deepin.org/post/213530](https://bbs.deepin.org/post/213530)
-3. 解决微信打不开问题分享：[https://bbs.deepin.org/post/247361](https://bbs.deepin.org/post/247361)
-4. UOS在wayland模式下deepin-wine微信不能输入中文的解决办法：[https://bbs.deepin.org/post/247001](https://bbs.deepin.org/post/247001)
-5. 在Deepin上多开微信的方法：[https://bbs.deepin.org/zh/post/254645](https://bbs.deepin.org/zh/post/254645)
-6. 大幅降低 Wine 微信内存占用：[https://blog.kt286.com/post/reduce-wine-wechat-memory-usage/](https://blog.kt286.com/post/reduce-wine-wechat-memory-usage/)
-7. wine微信cpu占用过高解决方法(有副作用)：[https://bbs.deepin.org/post/256306](https://bbs.deepin.org/post/256306)
-8. wine版本微信的经典历史安装包的下载链接与重装、升降级注意事项：[https://bbs.deepin.org/zh/post/256559](https://bbs.deepin.org/zh/post/256559)
-9. wine微信打不开：[https://bbs.deepin.org/post/264394](https://bbs.deepin.org/post/264394)
-10. 解决wine微信打不开：[https://bbs.deepin.org/post/265143](https://bbs.deepin.org/post/265143)
-11. 将wine版微信更新至最新版本（版本号：3.9.9.27）的方法：[https://bbs.deepin.org/post/267498](https://bbs.deepin.org/post/267498)
-12. uengine 平板微信快速参数调整：[https://bbs.deepin.org/zh/post/256769](https://bbs.deepin.org/zh/post/256769)
-13. Uengine 安卓平板微信：[https://bbs.deepin.org/post/256880](https://bbs.deepin.org/post/256880)
-14. 原生版微信闪退的解决方法：[https://bbs.deepin.org/post/272482](https://bbs.deepin.org/post/272482)
-15. deepin foxmail通信录导入：[https://bbs.deepin.org/post/233037](https://bbs.deepin.org/post/233037)
-16. 如何打开 *.msg文件：[https://bbs.deepin.org/zh/post/239744](https://bbs.deepin.org/zh/post/239744)
-17. 模仿安卓APP的阅读软件写了一个阅读小说的electron程序：[https://bbs.deepin.org/zh/post/254519](https://bbs.deepin.org/zh/post/254519)
-18. （闹钟宝贝）已上架amd64架构uos/deepin全平台还有星火应用商店：[https://bbs.deepin.org/post/259889](https://bbs.deepin.org/post/259889)
-19. 默写或跟读器：[https://bbs.deepin.org/post/262952](https://bbs.deepin.org/post/262952)
-20. Telegram软件一键安装（代理需自行提前安装解决）：[https://bbs.deepin.org/post/264864](https://bbs.deepin.org/post/264864)
+##### 4.1.14.1 微信
+
+1. 解决微信打不开问题分享：[https://bbs.deepin.org/post/247361](https://bbs.deepin.org/post/247361)
+2. UOS在wayland模式下deepin-wine微信不能输入中文的解决办法：[https://bbs.deepin.org/post/247001](https://bbs.deepin.org/post/247001)
+3. 在Deepin上多开微信的方法：[https://bbs.deepin.org/zh/post/254645](https://bbs.deepin.org/zh/post/254645)
+4. 大幅降低 Wine 微信内存占用：[https://blog.kt286.com/post/reduce-wine-wechat-memory-usage/](https://blog.kt286.com/post/reduce-wine-wechat-memory-usage/)
+5. 将wine版微信更新至最新版本（版本号：3.9.9.27）的方法：[https://bbs.deepin.org/post/267498](https://bbs.deepin.org/post/267498)
+6. Linux下多开微信的方法分享：[https://bbs.deepin.org/zh/post/282536](https://bbs.deepin.org/zh/post/282536)
+
+##### 4.1.14.2 其他
+
+1. 解决QQ(wine)因字体卡死&宋体发虚太难看的一种方法：[https://bbs.deepin.org/post/213530](https://bbs.deepin.org/post/213530)
+2. deepin foxmail通信录导入：[https://bbs.deepin.org/post/233037](https://bbs.deepin.org/post/233037)
+3. 如何打开 *.msg文件：[https://bbs.deepin.org/zh/post/239744](https://bbs.deepin.org/zh/post/239744)
+4. 模仿安卓APP的阅读软件写了一个阅读小说的electron程序：[https://bbs.deepin.org/zh/post/254519](https://bbs.deepin.org/zh/post/254519)
+5. （闹钟宝贝）已上架amd64架构uos/deepin全平台还有星火应用商店：[https://bbs.deepin.org/post/259889](https://bbs.deepin.org/post/259889)
+6. 默写或跟读器：[https://bbs.deepin.org/post/262952](https://bbs.deepin.org/post/262952)
+7. Telegram软件一键安装（代理需自行提前安装解决）：[https://bbs.deepin.org/post/264864](https://bbs.deepin.org/post/264864)
+[https://bbs.deepin.org/post/264864](https://bbs.deepin.org/post/264864)
 
 #### 4.1.15 游戏娱乐
 
