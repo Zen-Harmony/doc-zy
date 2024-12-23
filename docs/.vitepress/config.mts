@@ -6,6 +6,12 @@ export default defineConfig({
       // 添加图标
       ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }]
     ],
+export default {
+  sitemap: {
+    hostname: 'https://example.com',
+    lastmodDateOnly: false
+  }
+}
   cleanUrls: true,
   base: "/",
   markdown: {
