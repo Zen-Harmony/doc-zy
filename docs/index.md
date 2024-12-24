@@ -9,7 +9,7 @@ hero:
     src: /img/site-logo.webp
   actions:
     - theme: brand
-      text: 关于觅知园
+      text: 关于项目
       link: /about
     - theme: alt
       text: 转到 Linux 资源整理
