@@ -11,9 +11,6 @@ Linux觅知园主要分为两大板块：资源整理和教程站。
 扫描下方二维码加入团队的 QQ 交流群（985191565）。
 ![志海融新](/img/qq-group-qrcode.webp)
 
-## 托管平台
-由于使用 GitHub Pages，文档中图片加载可能较慢，请耐心等待。
-
 ## 版权说明
 
 ### [Linux资源整理](/resources-collated)
