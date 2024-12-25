@@ -63,6 +63,8 @@ Linux觅知园主要分为两大板块：资源整理和教程站。
 
 您可以发送e-mail（电子邮件）给以下任意一位团队成员：
 
+志海融新：[zhihairongxin@163.com](mailto:zhihairongxin@163.com)
+
 青稚：[sweetcandymini@foxmail.com](mailto:sweetcandymini@foxmail.com)
 
 阿尼樱奈奈：[kamizotoayaka@163.com](mailto:kamizotoayaka@163.com)
