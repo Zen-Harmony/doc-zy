@@ -162,21 +162,9 @@
 25. 系统进入桌面后没有任务栏：[https://bbs.deepin.org/post/265540](https://bbs.deepin.org/post/265540)
 26. 系统安装后进入桌面只显示壁纸：[https://bbs.deepin.org/post/266993](https://bbs.deepin.org/post/266993)
 27. 解决系统无法使用快捷键，换键盘无效：[https://bbs.deepin.org/post/264015](https://bbs.deepin.org/post/264015)
+28. 桌面卡死如何处理：[https://bbs.deepin.org/post/266435](https://bbs.deepin.org/post/266435)
 
 #### 2.4.1 系统配置
-
-1. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
-2. 深度文件管理器改造小记：[https://bbs.deepin.org/zh/post/237345](https://bbs.deepin.org/zh/post/237345)
-3. 自定义文件添加图标以及右键打开功能，以onnx文件为例：[https://bbs.deepin.org/zh/post/254204](https://bbs.deepin.org/zh/post/254204)
-4. 如何删除文件管理器内多出来的百度网盘、抖音等图标：[https://bbs.deepin.org/post/245100](https://bbs.deepin.org/post/245100)
-5. 深度商店巨量垃圾图标缓存位置：[https://bbs.deepin.org/zh/post/244113](https://bbs.deepin.org/zh/post/244113)
-6. 根目录下有很多deepin-fix-init文件：[https://bbs.deepin.org/zh/post/263138](https://bbs.deepin.org/zh/post/263138)
-7. 如何设置锁屏时间为3min?：[https://bbs.deepin.org/zh/post/237606](https://bbs.deepin.org/zh/post/237606)
-8. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
-9. 如何关闭飞行模式：[https://bbs.deepin.org/post/234324](https://bbs.deepin.org/post/234324)
-10. 尝试自定义禁用鼠标中键：[https://bbs.deepin.org/post/241472](https://bbs.deepin.org/post/241472)
-11. 通过usb鼠标唤醒待机 ：[https://bbs.deepin.org/post/263865](https://bbs.deepin.org/post/263865)
-12. 取消鼠标滚轮按下带有的粘贴功能：[https://bbs.deepin.org/post/265518](https://bbs.deepin.org/post/265518)
 
 ##### 2.4.1.1 用户
 
@@ -190,6 +178,27 @@
 2. 怎么取消Alt+空格的快捷键：[https://bbs.deepin.org/post/248391](https://bbs.deepin.org/post/248391)
 3. dde-control-center的快捷键设置无法拉起deepin-screen-recorder：[https://bbs.deepin.org/zh/post/227910](https://bbs.deepin.org/zh/post/227910)
 4. 系统截图快捷键无法使用：[https://bbs.deepin.org/post/264805](https://bbs.deepin.org/post/264805)
+
+##### 2.4.1.3 文件管理器
+
+1. 深度文件管理器改造小记：[https://bbs.deepin.org/zh/post/237345](https://bbs.deepin.org/zh/post/237345)
+2. 自定义文件添加图标以及右键打开功能，以onnx文件为例：[https://bbs.deepin.org/zh/post/254204](https://bbs.deepin.org/zh/post/254204)
+3. 如何删除文件管理器内多出来的百度网盘、抖音等图标：[https://bbs.deepin.org/post/245100](https://bbs.deepin.org/post/245100)
+
+##### 2.4.1.4 鼠标功能
+
+10. 尝试自定义禁用鼠标中键：[https://bbs.deepin.org/post/241472](https://bbs.deepin.org/post/241472)
+11. 通过usb鼠标唤醒待机：[https://bbs.deepin.org/post/263865](https://bbs.deepin.org/post/263865)
+12. 取消鼠标滚轮按下带有的粘贴功能：[https://bbs.deepin.org/post/265518](https://bbs.deepin.org/post/265518)
+
+##### 2.4.1.5 其他
+
+1. 如何关闭飞行模式：[https://bbs.deepin.org/post/234324](https://bbs.deepin.org/post/234324)
+2. 如何设置锁屏时间为3min?：[https://bbs.deepin.org/zh/post/237606](https://bbs.deepin.org/zh/post/237606)
+3. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
+4. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
+5. 根目录下有很多deepin-fix-init文件：[https://bbs.deepin.org/zh/post/263138](https://bbs.deepin.org/zh/post/263138)
+
 
 #### 2.4.2 应用及包管理
 
@@ -244,76 +253,86 @@
 
 #### 2.4.3 性能和电源管理
 
-1. 交换空间：[https://wiki.archlinux.org/title/Swap_(简体中文)](https://wiki.archlinux.org/title/Swap_(简体中文)) （适用于deepin，安装系统后可按“交换文件”部分设置swap）
-2. 对小内存用户的使用建议 防卡设置：[https://bbs.deepin.org/zh/post/199563](https://bbs.deepin.org/zh/post/199563) （文件所在位置为/usr/lib/sysctl.d/deepin.conf ，要以管理员身份打开）
-3. 替 swap 辩护：常见的误解：[https://bbs.deepin.org/zh/post/242907](https://bbs.deepin.org/zh/post/242907)
-4. 用 ZRAM 替代 SWAP，榨干内存的每一分价值：[https://bbs.deepin.org/post/247916](https://bbs.deepin.org/post/247916)
-5. swapfile 创建与配置 - 视频 - 随手录：[https://bbs.deepin.org/post/263846](https://bbs.deepin.org/post/263846)
-6. 为什么空闲时CPU睿频起飞：[https://bbs.deepin.org/zh/post/222430](https://bbs.deepin.org/zh/post/222430)
-7. 解决Deepin下CPU不能自主降频问题：[https://bbs.deepin.org/zh/post/194744](https://bbs.deepin.org/zh/post/194744)
-8. 性能与功耗之间的权衡与调整第三版：[https://bbs.deepin.org/zh/post/223793](https://bbs.deepin.org/zh/post/223793)
-9. nvidia显卡firefox硬解在线视频：[https://bbs.deepin.org/zh/post/233052](https://bbs.deepin.org/zh/post/233052)
-10. 获取进程处理器及内存占用等信息：[https://bbs.deepin.org/post/247373](https://bbs.deepin.org/post/247373)
-11. 取消笔记本电脑关盖进入睡眠/挂起：[https://bbs.deepin.org/zh/post/256166](https://bbs.deepin.org/zh/post/256166)
-12. v23 环境下GPU显卡使用情况（AMD）：[https://bbs.deepin.org/post/263644](https://bbs.deepin.org/post/263644)
-13. 低电量提示脚本：[https://bbs.deepin.org/post/260504](https://bbs.deepin.org/post/260504)
-14. deepin桌面卡死处理：[https://bbs.deepin.org/zh/post/225151](https://bbs.deepin.org/zh/post/225151)
-15. 电脑死机问题排查：[https://bbs.deepin.org/post/263897](https://bbs.deepin.org/post/263897)
-16. 电脑发热问题排查：[https://bbs.deepin.org/zh/post/263947](https://bbs.deepin.org/zh/post/263947)
-17. deepin 电源优化--第二步TLP：[https://bbs.deepin.org/post/264669](https://bbs.deepin.org/post/264669)
-18. 续航不好？想通过软件进行优化？来看看《TLP配置参数应用》吧：[https://bbs.deepin.org/post/264529](https://bbs.deepin.org/post/264529)
-19. 桌面卡死如何处理：[https://bbs.deepin.org/post/266435](https://bbs.deepin.org/post/266435)
-20. 关于十二代U的问题解决：[https://bbs.deepin.org/post/245513](https://bbs.deepin.org/post/245513)
-21. 改善intel iris xe集显低压轻薄本的核显性能释放技巧：[https://bbs.deepin.org/post/246471](https://bbs.deepin.org/post/246471)
-22. 酷睿12代，13代游戏本提升续航：[https://bbs.deepin.org/zh/post/261985](https://bbs.deepin.org/zh/post/261985)
-23. 为联想电脑实验性启用联想电脑管家的功能：[https://bbs.deepin.org/post/260759](https://bbs.deepin.org/post/260759)
-24. 启用amd_pstate active 模式大大提高了我电脑的续航：[https://bbs.deepin.org/post/262289](https://bbs.deepin.org/post/262289)
+##### 2.4.3.1 swap相关
+
+1. 交换空间：[https://wiki.archlinux.org/title/Swap_(简体中文)](https://wiki.archlinux.org/title/Swap_(简体中文)) （同样适用于其他Linux发行版，安装系统后可按“交换文件”部分设置swap）
+2. 替 swap 辩护：常见的误解：[https://bbs.deepin.org/zh/post/242907](https://bbs.deepin.org/zh/post/242907)
+3. 用 ZRAM 替代 SWAP，榨干内存的每一分价值：[https://bbs.deepin.org/post/247916](https://bbs.deepin.org/post/247916)
+4. swapfile 创建与配置 - 视频 - 随手录：[https://bbs.deepin.org/post/263846](https://bbs.deepin.org/post/263846)
+
+##### 2.4.3.2 性能
+
+1. 为什么空闲时CPU睿频起飞：[https://bbs.deepin.org/zh/post/222430](https://bbs.deepin.org/zh/post/222430)
+2. 解决Deepin下CPU不能自主降频问题：[https://bbs.deepin.org/zh/post/194744](https://bbs.deepin.org/zh/post/194744)
+3. 性能与功耗之间的权衡与调整第三版：[https://bbs.deepin.org/zh/post/223793](https://bbs.deepin.org/zh/post/223793)
+4. nvidia显卡firefox硬解在线视频：[https://bbs.deepin.org/zh/post/233052](https://bbs.deepin.org/zh/post/233052)
+5. 获取进程处理器及内存占用等信息：[https://bbs.deepin.org/post/247373](https://bbs.deepin.org/post/247373)
+6. v23 环境下GPU显卡使用情况（AMD）：[https://bbs.deepin.org/post/263644](https://bbs.deepin.org/post/263644)
+7. 电脑死机问题排查：[https://bbs.deepin.org/post/263897](https://bbs.deepin.org/post/263897)
+8. 电脑发热问题排查：[https://bbs.deepin.org/zh/post/263947](https://bbs.deepin.org/zh/post/263947)
+9. 关于十二代U的问题解决：[https://bbs.deepin.org/post/245513](https://bbs.deepin.org/post/245513)
+10. 改善intel iris xe集显低压轻薄本的核显性能释放技巧：[https://bbs.deepin.org/post/246471](https://bbs.deepin.org/post/246471)
+11. 酷睿12代，13代游戏本提升续航：[https://bbs.deepin.org/zh/post/261985](https://bbs.deepin.org/zh/post/261985)
+22. 为联想电脑实验性启用联想电脑管家的功能：[https://bbs.deepin.org/post/260759](https://bbs.deepin.org/post/260759)
+23. 启用amd_pstate active 模式大大提高了我电脑的续航：[https://bbs.deepin.org/post/262289](https://bbs.deepin.org/post/262289)
+
+##### 2.4.3.3 电源管理
+
+1. 取消笔记本电脑关盖进入睡眠/挂起：[https://bbs.deepin.org/zh/post/256166](https://bbs.deepin.org/zh/post/256166)
+2. 低电量提示脚本：[https://bbs.deepin.org/post/260504](https://bbs.deepin.org/post/260504)
+3. deepin 电源优化--第二步TLP：[https://bbs.deepin.org/post/264669](https://bbs.deepin.org/post/264669)
+4. 续航不好？想通过软件进行优化？来看看《TLP配置参数应用》吧：[https://bbs.deepin.org/post/264529](https://bbs.deepin.org/post/264529)
 
 #### 2.4.4 输入法
 
+##### 2.4.4.1 Fcitx5
+
+1. 手动编译fcitx5教程：[https://bbs.deepin.org/zh/post/208959](https://bbs.deepin.org/zh/post/208959)
+2. 安装fcitx5：[https://blog.csdn.net/mziing/article/details/124557091](https://blog.csdn.net/mziing/article/details/124557091) （如果非gnome桌面不需要安装gnome-tweaks，其他桌面环境添加开机启动方式不同）
+3. fcitx5输入法使用技巧&简约皮肤分享：[https://bbs.deepin.org/zh/post/223743](https://bbs.deepin.org/zh/post/223743)
+4. 23版本fcitx5输入法的设置优化，使输入法更好用：[https://bbs.deepin.org/post/256386](https://bbs.deepin.org/post/256386)
+5. 分享一个让 Fcitx5 更符合简中用户使用习惯的优化脚本：[https://bbs.deepin.org/post/262698](https://bbs.deepin.org/post/262698) （推荐）
+6. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
+7. 给 fcitx5 写了一套仿 macOS 的皮肤：[https://bbs.deepin.org/post/262841](https://bbs.deepin.org/post/262841)
+10. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
+11. 输入法用shift切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
+12. V23下使用fcitx5输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
+13. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
+14. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
+15. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
+
+##### 2.4.4.2 Fcitx
+
 1. 创作自己的输入法皮肤(**适用于旧版fcitx**)：[https://bbs.deepin.org/zh/post/210018](https://bbs.deepin.org/zh/post/210018)
 2. 安装及使用Rime输入法--中州韵输入法：[https://bbs.deepin.org/zh/post/207410](https://bbs.deepin.org/zh/post/207410)
-3. 手动编译fcitx5教程：[https://bbs.deepin.org/zh/post/208959](https://bbs.deepin.org/zh/post/208959)
-4. 安装fcitx5：[https://blog.csdn.net/mziing/article/details/124557091](https://blog.csdn.net/mziing/article/details/124557091) （如果非gnome桌面不需要安装gnome-tweaks，其他桌面环境添加开机启动方式不同）
-5. fcitx5输入法使用技巧&简约皮肤分享：[https://bbs.deepin.org/zh/post/223743](https://bbs.deepin.org/zh/post/223743)
-6. fcitx5 五笔输入法大字符集定制字库：[https://zhuanlan.zhihu.com/p/570629859](https://zhuanlan.zhihu.com/p/570629859)
-7. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
-8. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
-9. v23搜狗输入法NG版本：[https://bbs.deepin.org/post/265568](https://bbs.deepin.org/post/265568)
-10. V23搜狗输入法初具雏形--附安装方法：[https://bbs.deepin.org/post/272913](https://bbs.deepin.org/post/272913)
-11. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
-12. 98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
+9. 安装了fcitx5输入法就无法安装其它输入法的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
+3. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
+4. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
+5. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
+
+##### 2.4.4.3 五笔
+
+4. fcitx5 五笔输入法大字符集定制字库：[https://zhuanlan.zhihu.com/p/570629859](https://zhuanlan.zhihu.com/p/570629859)
+5. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
 13. 修改fcitx5中的五笔词库：[https://bbs.deepin.org/post/253879](https://bbs.deepin.org/post/253879)
 14. fcitx5-rime实现拼音反查五笔编码：[https://bbs.deepin.org/post/254910](https://bbs.deepin.org/post/254910)
-15. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
-16. 23版本fcitx5输入法的设置优化，使输入法更好用：[https://bbs.deepin.org/post/256386](https://bbs.deepin.org/post/256386)
-17. 分享一个让 Fcitx5 更符合简中用户使用习惯的优化脚本：[https://bbs.deepin.org/post/262698](https://bbs.deepin.org/post/262698) （推荐）
-18. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
-19. 给 fcitx5 写了一套仿 macOS 的皮肤：[https://bbs.deepin.org/post/262841](https://bbs.deepin.org/post/262841)
-20. 输入法不跟随光标：[https://bbs.deepin.org/zh/post/231849](https://bbs.deepin.org/post/231849)
-21. 安装了fcitx5输入法就无法安装其它输入法 的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
-22. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
-23. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
-24. V23下使用fcitx输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
-25. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
-26. 个别符号（比如“属于”“不等式”）显示错误：星火商店下载  spk://store/tools/symbol-fonts
-27. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
+9. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
+12. 98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
 28. 【DeepinV23-Beta3已测可用】98五笔一键安装：[https://bbs.deepin.org.cn/post/268065](https://bbs.deepin.org.cn/post/268065)
 29. 中州韵98五笔助手适配wayland：[https://bbs.deepin.org/post/268343](https://bbs.deepin.org/post/268343)
-30. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
-31. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
 32. 一次五笔输入法的配置：[https://bbs.deepin.org/post/272370](https://bbs.deepin.org/post/272370)
 
-##### 2.4.4.1 无法输入中文相关
+##### 2.4.4.4 输入法问题
 
-1. 安装Qt5.12.0无法输入中文：[https://bbs.deepin.org/zh/post/255863](https://bbs.deepin.org/zh/post/255863)
-2. Qt6 无法输入中文：[https://bbs.deepin.org/zh/post/254932](https://bbs.deepin.org/zh/post/254932)
-3. QtCreator 10.x 11.x 中 fcitx 输入法解决方案：[https://bbs.deepin.org/post/263148](https://bbs.deepin.org/post/263148)
-4. 让jdk支持搜狗输入法：[https://bbs.deepin.org/post/263252](https://bbs.deepin.org/post/263252)
-5. Inkscape1.3.2直接输入中文的方法：[https://bbs.deepin.org/post/265550](https://bbs.deepin.org/post/265550)
-6. 在AppImage GTK3应用中加载Fcitx的小tip —— 以InkScape为栗：[https://bbs.deepin.org/post/265542](https://bbs.deepin.org/post/265542)
-7. 为大部分无法使用输入法的Qt based应用添加Fcitx插件支持：[https://bbs.deepin.org/post/266148](https://bbs.deepin.org/post/266148)
-8. 解决shotcut无法输入中文：[https://www.bilibili.com/read/cv9524524/](https://www.bilibili.com/read/cv9524524/)
+1. 输入法不跟随光标：[https://bbs.deepin.org/zh/post/231849](https://bbs.deepin.org/post/231849)
+2. 安装Qt5.12.0无法输入中文：[https://bbs.deepin.org/zh/post/255863](https://bbs.deepin.org/zh/post/255863)
+3. Qt6 无法输入中文：[https://bbs.deepin.org/zh/post/254932](https://bbs.deepin.org/zh/post/254932)
+4. QtCreator 10.x 11.x 中 fcitx 输入法解决方案：[https://bbs.deepin.org/post/263148](https://bbs.deepin.org/post/263148)
+5. 让jdk支持搜狗输入法：[https://bbs.deepin.org/post/263252](https://bbs.deepin.org/post/263252)
+6. Inkscape1.3.2直接输入中文的方法：[https://bbs.deepin.org/post/265550](https://bbs.deepin.org/post/265550)
+7. 在AppImage GTK3应用中加载Fcitx的小tip —— 以InkScape为栗：[https://bbs.deepin.org/post/265542](https://bbs.deepin.org/post/265542)
+8. 为大部分无法使用输入法的Qt based应用添加Fcitx插件支持：[https://bbs.deepin.org/post/266148](https://bbs.deepin.org/post/266148)
+9. 解决shotcut无法输入中文：[https://www.bilibili.com/read/cv9524524/](https://www.bilibili.com/read/cv9524524/)
 
 #### 2.4.5 硬盘分区和 U 盘
 
@@ -570,12 +589,12 @@
 4. 记录一下在V23上安装amd显卡显示驱动：[https://bbs.deepin.org/post/268499](https://bbs.deepin.org/post/268499)
 5. LACT Linux AMD GPU 控制应用程序：[https://bbs.deepin.org/post/272530](https://bbs.deepin.org/post/272530)
 
-### 3.1.2 双显卡切换
+#### 3.1.2 双显卡切换
 
 1. Deepin双显卡之bumblebee(大黄蜂)、Prime及手动切换方案：[https://bbs.deepin.org/zh/post/210053](https://bbs.deepin.org/zh/post/210053)
 2. deepin-prime-run:让使用A+N的双显卡的用户一键用N卡启动应用：[https://bbs.deepin.org/zh/post/256199](https://bbs.deepin.org/zh/post/256199)
 
-### 3.1.3 问题解决方案
+#### 3.1.3 问题解决方案
 
 1. 屏幕闪烁问题的解决办法：[https://bbs.deepin.org/zh/post/224687](https://bbs.deepin.org/zh/post/224687)
 2. 解决780m核显休眠后唤醒屏幕白屏闪烁：[https://bbs.deepin.org/post/272618](https://bbs.deepin.org/post/272618)
