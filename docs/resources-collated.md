@@ -205,18 +205,19 @@
 > 另见 “[4.1.1.3 软件包管理及应用商店](/resources-collated#_4-1-1-3-软件包管理及应用商店)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
-2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
-3. 希望能有一个更好用得软件包及依赖下载工具：[https://bbs.deepin.org/post/248422?postId=1415401](https://bbs.deepin.org/post/248422?postId=1415401) （见19楼）
-4. 如何在不更改系统语言的情况下修改应用语言：[https://bbs.deepin.org/post/259728](https://bbs.deepin.org/post/259728)
-5. 【小？技巧】为外部应用解决动态库问题：[https://bbs.deepin.org/zh/post/256081](https://bbs.deepin.org/zh/post/256081)
-6. 又做了个解决glibc版本问题的小工具：[https://bbs.deepin.org/post/256555](https://bbs.deepin.org/post/256555)
-7. v23 可能可以用到的 libc6:i386包分享：[https://bbs.deepin.org/zh/post/256773](https://bbs.deepin.org/zh/post/256773)
-8. AppImage类软件的手动安装：[https://bbs.deepin.org/zh/post/260218](https://bbs.deepin.org/zh/post/260218)
-9. 【不知有什么用的】AppImage缩减工具：[https://bbs.deepin.org/zh/post/260123](https://bbs.deepin.org/zh/post/260123)
-10. flatpak一些常用命令：[https://bbs.deepin.org/post/259498](https://bbs.deepin.org/post/259498)
-11. 安装flatpak：[https://t.bilibili.com/825208387472982032](https://t.bilibili.com/825208387472982032)
-12. UOS安装软件后报“段错误”：[https://bbs.deepin.org/post/266101](https://bbs.deepin.org/post/266101)
-13. Deepin V23 去玲珑计划：[https://bbs.deepin.org/post/266564](https://bbs.deepin.org/post/266564)
+2. 将源代码打包成deb教程：[https://bbs.deepin.org/post/282902](https://bbs.deepin.org/post/282902)
+3. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
+4. 希望能有一个更好用得软件包及依赖下载工具：[https://bbs.deepin.org/post/248422?postId=1415401](https://bbs.deepin.org/post/248422?postId=1415401) （见19楼）
+5. 如何在不更改系统语言的情况下修改应用语言：[https://bbs.deepin.org/post/259728](https://bbs.deepin.org/post/259728)
+6. 【小？技巧】为外部应用解决动态库问题：[https://bbs.deepin.org/zh/post/256081](https://bbs.deepin.org/zh/post/256081)
+7. 又做了个解决glibc版本问题的小工具：[https://bbs.deepin.org/post/256555](https://bbs.deepin.org/post/256555)
+8. v23 可能可以用到的 libc6:i386包分享：[https://bbs.deepin.org/zh/post/256773](https://bbs.deepin.org/zh/post/256773)
+9. AppImage类软件的手动安装：[https://bbs.deepin.org/zh/post/260218](https://bbs.deepin.org/zh/post/260218)
+10. 【不知有什么用的】AppImage缩减工具：[https://bbs.deepin.org/zh/post/260123](https://bbs.deepin.org/zh/post/260123)
+11. flatpak一些常用命令：[https://bbs.deepin.org/post/259498](https://bbs.deepin.org/post/259498)
+12. 安装flatpak：[https://t.bilibili.com/825208387472982032](https://t.bilibili.com/825208387472982032)
+13. UOS安装软件后报“段错误”：[https://bbs.deepin.org/post/266101](https://bbs.deepin.org/post/266101)
+14. Deepin V23 去玲珑计划：[https://bbs.deepin.org/post/266564](https://bbs.deepin.org/post/266564)
 
 ##### 2.4.2.1 apt 和 dpkg
 
