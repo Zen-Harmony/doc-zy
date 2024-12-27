@@ -187,9 +187,9 @@
 
 ##### 2.4.1.4 鼠标功能
 
-10. 尝试自定义禁用鼠标中键：[https://bbs.deepin.org/post/241472](https://bbs.deepin.org/post/241472)
-11. 通过usb鼠标唤醒待机：[https://bbs.deepin.org/post/263865](https://bbs.deepin.org/post/263865)
-12. 取消鼠标滚轮按下带有的粘贴功能：[https://bbs.deepin.org/post/265518](https://bbs.deepin.org/post/265518)
+1. 尝试自定义禁用鼠标中键：[https://bbs.deepin.org/post/241472](https://bbs.deepin.org/post/241472)
+2. 通过usb鼠标唤醒待机：[https://bbs.deepin.org/post/263865](https://bbs.deepin.org/post/263865)
+3. 取消鼠标滚轮按下带有的粘贴功能：[https://bbs.deepin.org/post/265518](https://bbs.deepin.org/post/265518)
 
 ##### 2.4.1.5 其他
 
@@ -273,8 +273,8 @@
 9. 关于十二代U的问题解决：[https://bbs.deepin.org/post/245513](https://bbs.deepin.org/post/245513)
 10. 改善intel iris xe集显低压轻薄本的核显性能释放技巧：[https://bbs.deepin.org/post/246471](https://bbs.deepin.org/post/246471)
 11. 酷睿12代，13代游戏本提升续航：[https://bbs.deepin.org/zh/post/261985](https://bbs.deepin.org/zh/post/261985)
-22. 为联想电脑实验性启用联想电脑管家的功能：[https://bbs.deepin.org/post/260759](https://bbs.deepin.org/post/260759)
-23. 启用amd_pstate active 模式大大提高了我电脑的续航：[https://bbs.deepin.org/post/262289](https://bbs.deepin.org/post/262289)
+12. 为联想电脑实验性启用联想电脑管家的功能：[https://bbs.deepin.org/post/260759](https://bbs.deepin.org/post/260759)
+13. 启用amd_pstate active 模式大大提高了我电脑的续航：[https://bbs.deepin.org/post/262289](https://bbs.deepin.org/post/262289)
 
 ##### 2.4.3.3 电源管理
 
@@ -294,33 +294,33 @@
 5. 分享一个让 Fcitx5 更符合简中用户使用习惯的优化脚本：[https://bbs.deepin.org/post/262698](https://bbs.deepin.org/post/262698) （推荐）
 6. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
 7. 给 fcitx5 写了一套仿 macOS 的皮肤：[https://bbs.deepin.org/post/262841](https://bbs.deepin.org/post/262841)
-10. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
-11. 输入法用shift切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
-12. V23下使用fcitx5输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
-13. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
-14. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
-15. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
+8. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
+9. 输入法用shift切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
+10. V23下使用fcitx5输入繁体中文：[https://bbs.deepin.org/post/262812](https://bbs.deepin.org/post/262812)
+11. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
+12. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
+13. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
 
 ##### 2.4.4.2 Fcitx
 
 1. 创作自己的输入法皮肤(**适用于旧版fcitx**)：[https://bbs.deepin.org/zh/post/210018](https://bbs.deepin.org/zh/post/210018)
 2. 安装及使用Rime输入法--中州韵输入法：[https://bbs.deepin.org/zh/post/207410](https://bbs.deepin.org/zh/post/207410)
-9. 安装了fcitx5输入法就无法安装其它输入法的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
-3. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
-4. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
-5. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
+3. 安装了fcitx5输入法就无法安装其它输入法的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
+4. deepin V23 Alpha 2(Unstable)搜狗输入法下载解决方法：[https://bbs.deepin.org/post/253733](https://bbs.deepin.org/post/253733)
+5. 极点五笔输入法Linux版【V1.1.0版】下载链接和常见使用问题：[https://bbs.deepin.org/zh/post/254743](https://bbs.deepin.org/zh/post/254743)
+6. 修正fcitx启动时字体大小不正确问题：[https://bbs.deepin.org/post/263977](https://bbs.deepin.org/post/263977)
 
 ##### 2.4.4.3 五笔
 
-4. fcitx5 五笔输入法大字符集定制字库：[https://zhuanlan.zhihu.com/p/570629859](https://zhuanlan.zhihu.com/p/570629859)
-5. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
-13. 修改fcitx5中的五笔词库：[https://bbs.deepin.org/post/253879](https://bbs.deepin.org/post/253879)
-14. fcitx5-rime实现拼音反查五笔编码：[https://bbs.deepin.org/post/254910](https://bbs.deepin.org/post/254910)
-9. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
-12. 98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
-28. 【DeepinV23-Beta3已测可用】98五笔一键安装：[https://bbs.deepin.org.cn/post/268065](https://bbs.deepin.org.cn/post/268065)
-29. 中州韵98五笔助手适配wayland：[https://bbs.deepin.org/post/268343](https://bbs.deepin.org/post/268343)
-32. 一次五笔输入法的配置：[https://bbs.deepin.org/post/272370](https://bbs.deepin.org/post/272370)
+1. fcitx5 五笔输入法大字符集定制字库：[https://zhuanlan.zhihu.com/p/570629859](https://zhuanlan.zhihu.com/p/570629859)
+2. 安装fcitx5-rime加五笔输入法 ：[https://bbs.deepin.org/zh/post/254842](https://bbs.deepin.org/zh/post/254842)
+3. 修改fcitx5中的五笔词库：[https://bbs.deepin.org/post/253879](https://bbs.deepin.org/post/253879)
+4. fcitx5-rime实现拼音反查五笔编码：[https://bbs.deepin.org/post/254910](https://bbs.deepin.org/post/254910)
+5. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
+6. 98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
+7. 【DeepinV23-Beta3已测可用】98五笔一键安装：[https://bbs.deepin.org.cn/post/268065](https://bbs.deepin.org.cn/post/268065)
+8. 中州韵98五笔助手适配wayland：[https://bbs.deepin.org/post/268343](https://bbs.deepin.org/post/268343)
+9. 一次五笔输入法的配置：[https://bbs.deepin.org/post/272370](https://bbs.deepin.org/post/272370)
 
 ##### 2.4.4.4 输入法问题
 
