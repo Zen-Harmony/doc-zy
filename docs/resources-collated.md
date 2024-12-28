@@ -46,16 +46,16 @@
 
 > 以deepin为例，其他的Debian系类似。
 
+deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)（其他Linux安装可参考，建议使用ventoy制作启动盘）
+
 #### 2.1.1 双系统安装
 
-1. deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)（其他Linux安装可参考，建议使用ventoy制作启动盘）
-2. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
-3. 如何安装deepin-windows双系统：[https://bbs.deepin.org/zh/post/222739](https://bbs.deepin.org/zh/post/222739)（其他Linux可参考，换成要安装的镜像即可）
-4. 系统安装教程：[https://bbs.deepin.org/zh/post/226286](https://bbs.deepin.org/zh/post/226286)
-5. 双系统安装及手动分区方法：[https://bbs.deepin.org/zh/post/226463](https://bbs.deepin.org/zh/post/226463)
-6. 安装Windows和国产操作系统deepin双系统：[https://bbs.deepin.org/zh/post/256229](https://bbs.deepin.org/zh/post/256229)
-7. 双系统安装时为什么要先安装Windows再安装Linux：[https://bbs.deepin.org/post/252461](https://bbs.deepin.org/post/252461)
-8. 无需命令行，双系统加密安装deepin的解决方案：[https://bbs.deepin.org/zh/post/215392](https://bbs.deepin.org/zh/post/215392)
+1. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
+2. 如何安装deepin-windows双系统：[https://bbs.deepin.org/zh/post/222739](https://bbs.deepin.org/zh/post/222739) **（其他Linux可参考，换成要安装的镜像即可）**
+3. 双系统安装及手动分区方法：[https://bbs.deepin.org/zh/post/226463](https://bbs.deepin.org/zh/post/226463)
+4. 安装Windows和国产操作系统deepin双系统：[https://bbs.deepin.org/zh/post/256229](https://bbs.deepin.org/zh/post/256229)
+5. 双系统安装时为什么要先安装Windows再安装Linux：[https://bbs.deepin.org/post/252461](https://bbs.deepin.org/post/252461)
+6. 无需命令行，双系统加密安装deepin的解决方案：[https://bbs.deepin.org/zh/post/215392](https://bbs.deepin.org/zh/post/215392)
 
 #### 2.1.2 Btrfs 安装方案
 
