@@ -46,6 +46,8 @@
 
 > 以deepin为例，其他的Debian系类似。
 
+#### 2.1.1 双系统安装
+
 1. deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)（其他Linux安装可参考，建议使用ventoy制作启动盘）
 2. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
 3. 如何安装deepin-windows双系统：[https://bbs.deepin.org/zh/post/222739](https://bbs.deepin.org/zh/post/222739)（其他Linux可参考，换成要安装的镜像即可）
@@ -53,32 +55,28 @@
 5. 双系统安装及手动分区方法：[https://bbs.deepin.org/zh/post/226463](https://bbs.deepin.org/zh/post/226463)
 6. 安装Windows和国产操作系统deepin双系统：[https://bbs.deepin.org/zh/post/256229](https://bbs.deepin.org/zh/post/256229)
 7. 双系统安装时为什么要先安装Windows再安装Linux：[https://bbs.deepin.org/post/252461](https://bbs.deepin.org/post/252461)
-8. 关于safe graphics安装选项，我想讲个故事：[https://bbs.deepin.org/post/247618](https://bbs.deepin.org/post/247618)
-9. 不知道怎么分区的看过来：[https://bbs.deepin.org/zh/post/194267](https://bbs.deepin.org/zh/post/194267)
-10. 关于装系统出现代码花屏解决方法，grub引导：[https://bbs.deepin.org/zh/post/196084](https://bbs.deepin.org/zh/post/196084)
-11. 判断BIOS的启动模式和磁盘分区格式：[https://bbs.deepin.org/zh/post/225766](https://bbs.deepin.org/zh/post/225766)
-12. 自定义安装后如何给分区分配卷标/盘符：[https://bbs.deepin.org/zh/post/207279](https://bbs.deepin.org/zh/post/207279)
-13. 无需命令行，双系统加密安装deepin的解决方案：[https://bbs.deepin.org/zh/post/215392](https://bbs.deepin.org/zh/post/215392)
-14. 使用AES进行全盘加密的安装方法：[https://bbs.deepin.org/post/262223](https://bbs.deepin.org/post/262223)
-15. 我的Deepin初始化脚本（deepin-superuser）：[https://bbs.deepin.org/post/228930](https://bbs.deepin.org/post/228930)
-16. 我的Deepin装机初始化脚本（ThinkYoung）：[https://bbs.deepin.org/post/241194](https://bbs.deepin.org/post/241194)
-17. 使用 btrfs 全盘安装 deepin：[https://bbs.deepin.org/post/266849](https://bbs.deepin.org/post/266849)
-18. 在 VMware Workstation 虚拟机中安装：需要把“增强型键盘”设为“必需”（启用）。未安装增强型键盘驱动的需要运行VMware安装程序来安装它。
-19. VirtualBox 选5.18内核安装失败：[https://bbs.deepin.org/zh/post/248459](https://bbs.deepin.org/zh/post/248459)
-20. hyper-v安装deepin：[https://bbs.deepin.org.cn/post/266689](https://bbs.deepin.org.cn/post/266689)
-21. [Ventoy]基于vtoyboot插件实现[Linux to Go]：[https://bbs.deepin.org/post/245517](https://bbs.deepin.org/post/245517)
-22. Linux逻辑卷管理（LVM）系统折腾者的利器-分分钟再加一个Linux：[https://bbs.deepin.org/zh/post/227941](https://bbs.deepin.org/zh/post/227941)
-23. 把 Deepin Linux 安装到“带区卷软阵列+逻辑卷（RAID0+LVM）”上：[https://bbs.deepin.org/zh/post/227880](https://bbs.deepin.org/zh/post/227880)
-24. 通过PXE批量部署安装Deepin V20【视频教程】：[https://bbs.deepin.org/zh/post/207368](https://bbs.deepin.org/zh/post/207368)
-25. 11代Intel新硬件安装深度：[https://bbs.deepin.org/zh/post/220443](https://bbs.deepin.org/zh/post/220443)
-26. 【建议】使用Btrfs分区方案：[https://bbs.deepin.org/zh/post/238188](https://bbs.deepin.org/zh/post/238188)
-27. 保留home分区安装v23的方法：[https://bbs.deepin.org/post/251174](https://bbs.deepin.org/post/251174)
-28. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
-29. 芜湖~手机上安装deepin教程来啦！：[https://b23.tv/IMmMSR4](https://b23.tv/IMmMSR4)
-30. [btrfs正当时] 如何将系统正确安装到btrfs子卷并捏一个恢复环境：[https://bbs.deepin.org/post/269851](https://bbs.deepin.org/post/269851)
-31. 在M2芯片的MacBook Pro 上原生安装 Ubuntu 24.04 ARM 版：[https://bbs.deepin.org.cn/post/274413](https://bbs.deepin.org.cn/post/274413)
+8. 无需命令行，双系统加密安装deepin的解决方案：[https://bbs.deepin.org/zh/post/215392](https://bbs.deepin.org/zh/post/215392)
 
-#### 2.1.1 在 U 盘上安装 deepin
+#### 2.1.2 Btrfs 安装方案
+
+1. 使用 btrfs 全盘安装 deepin：[https://bbs.deepin.org/post/266849](https://bbs.deepin.org/post/266849)
+2. 【建议】使用Btrfs分区方案：[https://bbs.deepin.org/zh/post/238188](https://bbs.deepin.org/zh/post/238188)
+3. [btrfs正当时] 如何将系统正确安装到btrfs子卷并捏一个恢复环境：[https://bbs.deepin.org/post/269851](https://bbs.deepin.org/post/269851)
+
+#### 2.1.3 分区相关
+
+1. 不知道怎么分区的看过来：[https://bbs.deepin.org/zh/post/194267](https://bbs.deepin.org/zh/post/194267)
+2. 判断BIOS的启动模式和磁盘分区格式：[https://bbs.deepin.org/zh/post/225766](https://bbs.deepin.org/zh/post/225766)
+3. 自定义安装后如何给分区分配卷标/盘符：[https://bbs.deepin.org/zh/post/207279](https://bbs.deepin.org/zh/post/207279)
+4. 保留home分区安装v23的方法：[https://bbs.deepin.org/post/251174](https://bbs.deepin.org/post/251174)
+
+#### 2.1.4 虚拟机安装 Linux
+
+1. 在 VMware Workstation 虚拟机中安装：需要把“增强型键盘”设为“必需”（启用）。未安装增强型键盘驱动的需要运行VMware安装程序来安装它。
+2. VirtualBox 选5.18内核安装失败：[https://bbs.deepin.org/zh/post/248459](https://bbs.deepin.org/zh/post/248459)
+3. hyper-v安装deepin：[https://bbs.deepin.org.cn/post/266689](https://bbs.deepin.org.cn/post/266689)
+
+#### 2.1.5 U 盘安装 Linux
 
 > 建议在 USB 3.0 或以上的 U 盘中安装 Linux，启动时使用电脑的 USB 3.0 接口，否则会出现卡顿情况。U 盘存储空间至少为 20GB。
 
@@ -86,17 +84,34 @@
 2. 关于 Linux/Deepin to go 的一些心得：[https://bbs.deepin.org/zh/post/224084](https://bbs.deepin.org/zh/post/224084)
 3. 简单6步，把deepin装进口袋：[https://bbs.deepin.org/zh/post/224438](https://bbs.deepin.org/zh/post/224438)
 4. Deepin装在 vhd/vdi 中使用：[https://bbs.deepin.org/zh/post/209674](https://bbs.deepin.org/zh/post/209674)
-5. 即插即用的deepin系统【 Linux to Go 】 deepin V23：[https://bbs.deepin.org/post/245547](https://bbs.deepin.org/post/245547)
-6. 实现linux系统在VHD、Vdi虚拟磁盘中运行在实体机里：[https://bbs.deepin.org/zh/post/254673](https://bbs.deepin.org/zh/post/254673)
-7. 把Deepin塞进U盘，即插即用，小白都懂的Linux To Go教程：[https://www.bilibili.com/video/BV1AT411M79x/](https://www.bilibili.com/video/BV1AT411M79x/)
+5. [Ventoy]基于vtoyboot插件实现[Linux to Go]：[https://bbs.deepin.org/post/245517](https://bbs.deepin.org/post/245517)
+6. 即插即用的deepin系统【 Linux to Go 】 deepin V23：[https://bbs.deepin.org/post/245547](https://bbs.deepin.org/post/245547)
+7. 实现linux系统在VHD、Vdi虚拟磁盘中运行在实体机里：[https://bbs.deepin.org/zh/post/254673](https://bbs.deepin.org/zh/post/254673)
+8. 把Deepin塞进U盘，即插即用，小白都懂的Linux To Go教程：[https://www.bilibili.com/video/BV1AT411M79x/](https://www.bilibili.com/video/BV1AT411M79x/)
 
-#### 2.1.2 在 WSL 中安装 Linux
+#### 2.1.6 WSL 安装 Linux
 
 > Ubuntu WSL等 现可从 Microsoft Store 获取，以deepin WSL为例，Ubuntu WSL方法一致。
 
 1. deepin-rootfs：[https://github.com/deepin-community/deepin-rootfs](https://github.com/deepin-community/deepin-rootfs)
 2. wsl2安装deepinV23 preview：[https://bbs.deepin.org/zh/post/241212](https://bbs.deepin.org/zh/post/241212)
 3. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
+
+#### 2.1.7 其他安装方式
+
+1. Linux逻辑卷管理（LVM）系统折腾者的利器-分分钟再加一个Linux：[https://bbs.deepin.org/zh/post/227941](https://bbs.deepin.org/zh/post/227941)
+2. 把 Deepin Linux 安装到“带区卷软阵列+逻辑卷（RAID0+LVM）”上：[https://bbs.deepin.org/zh/post/227880](https://bbs.deepin.org/zh/post/227880)
+3. 通过PXE批量部署安装Deepin V20【视频教程】：[https://bbs.deepin.org/zh/post/207368](https://bbs.deepin.org/zh/post/207368)
+4. 11代Intel新硬件安装深度：[https://bbs.deepin.org/zh/post/220443](https://bbs.deepin.org/zh/post/220443)
+5. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
+6. 使用AES进行全盘加密的安装方法：[https://bbs.deepin.org/post/262223](https://bbs.deepin.org/post/262223)
+7. 芜湖~手机上安装deepin教程来啦！：[https://b23.tv/IMmMSR4](https://b23.tv/IMmMSR4)
+8. 在M2芯片的MacBook Pro 上原生安装 Ubuntu 24.04 ARM 版：[https://bbs.deepin.org.cn/post/274413](https://bbs.deepin.org.cn/post/274413)
+
+#### 2.1.8 解决方案
+
+1. 关于装系统出现代码花屏解决方法，grub引导：[https://bbs.deepin.org/zh/post/196084](https://bbs.deepin.org/zh/post/196084)
+2. 关于safe graphics安装选项，我想讲个故事：[https://bbs.deepin.org/post/247618](https://bbs.deepin.org/post/247618)
 
 ### 2.2 系统引导和启动
 
@@ -653,7 +668,7 @@
 2. linux下外设辅助软件推荐：[https://bbs.deepin.org/zh/post/226246](https://bbs.deepin.org/zh/post/226246)
 3. 关于AMD R7 6800H 键盘 WIFI 蓝牙问题解决方案的梳理：[https://bbs.deepin.org/zh/post/239542](https://bbs.deepin.org/zh/post/239542)
 4. Linux 不能识别新硬件的解决思路分享：[https://bbs.deepin.org/post/245493](https://bbs.deepin.org/post/245493)
-5. Installation and Setup · linux-surface： [https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup](https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup)    （Surface 设备建议使用此内核）
+5. Installation and Setup · linux-surface： [https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup](https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup) **（Surface 设备建议使用此内核）**
 6. 您正在发愁苹果 Superdrive 在 Linux 下不可用吗：[https://bbs.deepin.org/post/247908](https://bbs.deepin.org/post/247908)
 7. CLEVON-NL5xCU 关于机械师笔记本键盘背光驱动：[https://bbs.deepin.org/post/249534](https://bbs.deepin.org/post/249534)
 8. 关于部分机器无法正常使用deepin：[https://bbs.deepin.org/zh/post/253194](https://bbs.deepin.org/zh/post/253194)
@@ -1167,6 +1182,7 @@
 3. Beta3是个好东西，圆我帕鲁梦：[https://bbs.deepin.org/post/267932](https://bbs.deepin.org/post/267932)
 4. 没想到 P106-100 矿卡在 Linux 下玩游戏竟然如此简单：[https://bbs.deepin.org/post/268192](https://bbs.deepin.org/post/268192)
 5. Linux 下玩《原神》等游戏怎样查看实时帧率等信息：[https://bbs.deepin.org/post/268409](https://bbs.deepin.org/post/268409)
+6. 在Linux系统上玩Epic游戏的全攻略：[https://bbs.deepin.org/post/282930](https://bbs.deepin.org/post/282930)
 
 ##### 4.1.15.8 其他
 
