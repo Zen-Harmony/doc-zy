@@ -13,9 +13,6 @@ const RSS: RSSOptions = {
 
 // VitePress site configuration
 export default defineConfig({
-  vite: {
-    plugins: [RssPlugin(RSS)] // Add RSS plugin to Vite
-  },
   head: [
     ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }] // Add favicon
   ],
@@ -104,8 +101,10 @@ export default defineConfig({
     outline: [2, 6], // Outline levels
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Zen-Harmony' }, // GitHub link
-      { icon: 'rss', link: `${baseUrl}/rss.xml` } // RSS link
     ],
+  vite: {
+    plugins: [RssPlugin(RSS)] // Add RSS plugin to Vite
+  },
     search: {
       provider: 'local' // Local search provider
     }
