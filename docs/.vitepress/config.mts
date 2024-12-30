@@ -8,6 +8,7 @@ const baseUrl = 'https://doc.zen-harmony.top'
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
   baseUrl,
+  icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
 }
 
