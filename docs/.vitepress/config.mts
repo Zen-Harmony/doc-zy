@@ -6,108 +6,108 @@ const baseUrl = 'https://doc.zen-harmony.top'
 
 // RSS feed configuration
 const RSS: RSSOptions = {
-  title: 'Linux Knowledge Base', // Title of the RSS feed
-  baseUrl, // Base URL for the feed
-  copyright: 'Copyright (c) 2024-present, Linux Knowledge Base', // Copyright information
+  title: 'Linux Knowledge Base',
+  baseUrl,
+  copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
 }
 
 // VitePress site configuration
 export default defineConfig({
   // vite: {
-    // plugins: [RssPlugin(RSS)] // Add RSS plugin to Vite
+    // plugins: [RssPlugin(RSS)]
   // },
   head: [
-    ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }] // Add favicon
+    ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }]
   ],
-  cleanUrls: true, // Enable clean URLs
+  cleanUrls: true,
   sitemap: {
-    hostname: 'https://doc.zen-harmony.top', // Sitemap hostname
-    lastmodDateOnly: false // Include full date for last modification
+    hostname: 'https://doc.zen-harmony.top',
+    lastmodDateOnly: false
   },
-  base: "/", // Base URL for the site
+  base: "/",
   markdown: {
     theme: {
-      light: 'catppuccin-latte', // Light theme
-      dark: 'catppuccin-mocha', // Dark theme
+      light: 'catppuccin-latte',
+      dark: 'catppuccin-mocha',
     },
   },
   locales: {
     root: {
-      label: '简体中文', // Label for Simplified Chinese locale
-      lang: 'zh-CN', // Language code for Simplified Chinese
-      title: "Linux觅知园", // Site title for Simplified Chinese
-      description: "Linux觅知园", // Site description for Simplified Chinese
+      label: '简体中文',
+      lang: 'zh-CN',
+      title: "Linux觅知园",
+      description: "Linux觅知园",
       themeConfig: {
         nav: [
-          { text: '主页', link: '/' }, // Home link
-          { text: '官网', link: 'https://www.zen-harmony.top' }, // Official website link
-          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' } // QQ group link
+          { text: '主页', link: '/' },
+          { text: '官网', link: 'https://www.zen-harmony.top' },
+          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
         ],
         sidebar: {
           '/': [
             {
               text: '',
               items: [
-                { text: '关于项目', link: '/about' }, // About the project
-                { text: 'Linux 资源整理', link: '/resources-collated' }, // Linux resources
-                { text: 'Linux 教程站', link: 'https://tutorial.zen-harmony.top' }, // Linux tutorial site
-                { text: '致谢', link: '/thanks' } // Thanks page
+                { text: '关于项目', link: '/about' },
+                { text: 'Linux 资源整理', link: '/resources-collated' },
+                { text: 'Linux 教程站', link: 'https://tutorial.zen-harmony.top' },
+                { text: '致谢', link: '/thanks' }
               ]
             }
           ]
         },
-        lastUpdatedText: '上次更新', // Last updated text
+        lastUpdatedText: '上次更新',
         editLink: {
-          pattern: 'https://github.com/zen-harmony/doc-zy/edit/main/docs/:path', // Edit link pattern
-          text: '在 GitHub 上编辑此页' // Edit link text
+          pattern: 'https://github.com/zen-harmony/doc-zy/edit/main/docs/:path',
+          text: '在 GitHub 上编辑此页'
         },
         docFooter: {
-          prev: '上一页', // Previous page text
-          next: '下一页' // Next page text
+          prev: '上一页',
+          next: '下一页'
         },
-        darkModeSwitchLabel: '外观', // Dark mode switch label
-        outlineTitle: '在此页上', // Outline title
-        sidebarMenuLabel: '目录', // Sidebar menu label
-        returnToTopLabel: '返回顶部', // Return to top label
+        darkModeSwitchLabel: '外观',
+        outlineTitle: '在此页上',
+        sidebarMenuLabel: '目录',
+        returnToTopLabel: '返回顶部',
       }
     },
     en: {
-      label: 'English', // Label for English locale
-      lang: 'en', // Language code for English
-      link: '/en/', // Link for English locale
-      title: "Linux Knowledge Base", // Site title for English
-      description: "A project to collect Linux tutorial resources", // Site description for English
+      label: 'English',
+      lang: 'en',
+      link: '/en/',
+      title: "Linux Knowledge Base",
+      description: "A project to collect Linux tutorial resources",
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/' }, // Home link
-          { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' }, // Zen Harmony link
-          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' } // QQ group link
+          { text: 'Home', link: '/' },
+          { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' },
+          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
         ],
         sidebar: [
-          { text: 'Home', link: '/home' }, // Sidebar home link
-          { text: 'Get involved', link: '/en/instructions' }, // Get involved link
+          { text: 'Home', link: '/home' },
+          { text: 'Get involved', link: '/en/instructions' },
           {
             text: 'Deepin Common Q&A',
             items: [
-              { text: 'Frequently Asked', link: '/en/Linux-solutions/frequently-asked' }, // Frequently asked questions
-              { text: 'Common Problems', link: '/en/Linux-solutions/common' }, // Common problems
-              { text: 'Collections', link: '/en/Linux-solutions/collect' }, // Collections
-              { text: 'Thanks', link: '/en/Linux-solutions/thanks' } // Thanks page
+              { text: 'Frequently Asked', link: '/en/Linux-solutions/frequently-asked' },
+              { text: 'Common Problems', link: '/en/Linux-solutions/common' },
+              { text: 'Collections', link: '/en/Linux-solutions/collect' },
+              { text: 'Thanks', link: '/en/Linux-solutions/thanks' }
             ]
           }
         ],
-        sidebarMenuLabel: 'Contents' // Sidebar menu label
+        sidebarMenuLabel: 'Contents'
       },
     }
   },
   themeConfig: {
-    outline: [2, 6], // Outline levels
+    outline: [2, 6],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Zen-Harmony' }, // GitHub link
-      { icon: 'rss', link: `${baseUrl}/feed.rss` } // RSS link
+      { icon: 'github', link: 'https://github.com/Zen-Harmony' },
+      { icon: 'rss', link: `${baseUrl}/feed.rss` }
     ],
     search: {
-      provider: 'local' // Local search provider
+      provider: 'local'
     }
   }
 })
