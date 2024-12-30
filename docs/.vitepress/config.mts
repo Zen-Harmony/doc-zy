@@ -6,9 +6,9 @@ const baseUrl = 'https://doc.zen-harmony.top'
 
 // RSS feed configuration
 const RSS: RSSOptions = {
-  title: 'Linux觅知园', // Title of the RSS feed
+  title: 'Linux Knowledge Base', // Title of the RSS feed
   baseUrl, // Base URL for the feed
-  copyright: 'Copyright (c) 2018-present, Linux觅知园', // Copyright information
+  copyright: 'Copyright (c) 2024-present, Linux Knowledge Base', // Copyright information
 }
 
 // VitePress site configuration
