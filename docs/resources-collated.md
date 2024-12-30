@@ -33,12 +33,11 @@
 2. deepin折腾笔记：[https://bbs.deepin.org/zh/post/191781](https://bbs.deepin.org/zh/post/191781)  [金山文档转存链接(v6.6) ](https://kdocs.cn/l/shPDOoGspsbi)
 3. 我个人的linux学习笔记分享：[https://bbs.deepin.org/zh/post/242838](https://bbs.deepin.org/zh/post/242838)
 4. UOS/Deepin使用笔记：[https://bbs.deepin.org/post/243085](https://bbs.deepin.org/post/243085)
-5. V23 Alpha版本非官方Q&A （欢迎大家补充）：[https://bbs.deepin.org/post/245937](https://bbs.deepin.org/post/245937)
-6. linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
-7. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
-8. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
-9. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
-10. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
+5. linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
+6. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
+7. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
+8. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
+9. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
 
 ## 二、系统
 
