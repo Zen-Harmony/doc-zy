@@ -4,8 +4,18 @@ import { defineConfig } from 'vitepress'
 // Base URL for the site
 const baseUrl = 'https://doc.zen-harmony.top'
 
+// RSS feed configuration
+const RSS: RSSOptions = {
+  title: 'Linux Knowledge Base', // Title of the RSS feed
+  baseUrl, // Base URL for the feed
+  copyright: 'Copyright (c) 2024-present, Linux Knowledge Base', // Copyright information
+}
+
 // VitePress site configuration
 export default defineConfig({
+  // vite: {
+    // plugins: [RssPlugin(RSS)] // Add RSS plugin to Vite
+  // },
   head: [
     ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }] // Add favicon
   ],
@@ -94,18 +104,8 @@ export default defineConfig({
     outline: [2, 6], // Outline levels
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Zen-Harmony' }, // GitHub link
+      { icon: 'rss', link: `${baseUrl}/feed.rss` } // RSS link
     ],
-
-// RSS feed configuration
-const RSS: RSSOptions = {
-  title: 'Linux Knowledge Base', // Title of the RSS feed
-  baseUrl, // Base URL for the feed
-  copyright: 'Copyright (c) 2024-present, Linux Knowledge Base', // Copyright information
-}
-  vite: {
-    plugins: [RssPlugin(RSS)] // Add RSS plugin to Vite
-  },
-
     search: {
       provider: 'local' // Local search provider
     }
