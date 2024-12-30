@@ -103,7 +103,8 @@ export default defineConfig({
   themeConfig: {
     outline: [2, 6], // Outline levels
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Zen-Harmony' } // GitHub link
+      { icon: 'github', link: 'https://github.com/Zen-Harmony' }, // GitHub link
+      { icon: 'rss', link: `${baseUrl}/rss.xml` } // RSS link
     ],
     search: {
       provider: 'local' // Local search provider
