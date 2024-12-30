@@ -14,7 +14,7 @@ const RSS: RSSOptions = {
 // VitePress site configuration
 export default defineConfig({
   vite: {
-    // plugins: [RssPlugin(RSS)]
+    plugins: [RssPlugin(RSS)]
   },
   head: [
     ['link', { rel: 'icon', href: '/img/inbox-solid.webp' }]
