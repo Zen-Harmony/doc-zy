@@ -1,4 +1,4 @@
-# 觅知园
+# Linux 觅知园
 
 [访问网站](https://doc.zen-harmony.top)
 
