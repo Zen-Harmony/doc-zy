@@ -210,10 +210,8 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 8. v23 可能可以用到的 libc6:i386包分享：[https://bbs.deepin.org/zh/post/256773](https://bbs.deepin.org/zh/post/256773)
 9. AppImage类软件的手动安装：[https://bbs.deepin.org/zh/post/260218](https://bbs.deepin.org/zh/post/260218)
 10. 【不知有什么用的】AppImage缩减工具：[https://bbs.deepin.org/zh/post/260123](https://bbs.deepin.org/zh/post/260123)
-11. flatpak一些常用命令：[https://bbs.deepin.org/post/259498](https://bbs.deepin.org/post/259498)
-12. 安装flatpak：[https://t.bilibili.com/825208387472982032](https://t.bilibili.com/825208387472982032)
-13. UOS安装软件后报“段错误”：[https://bbs.deepin.org/post/266101](https://bbs.deepin.org/post/266101)
-14. Deepin V23 去玲珑计划：[https://bbs.deepin.org/post/266564](https://bbs.deepin.org/post/266564)
+11. UOS安装软件后报“段错误”：[https://bbs.deepin.org/post/266101](https://bbs.deepin.org/post/266101)
+12. Deepin V23 去玲珑计划：[https://bbs.deepin.org/post/266564](https://bbs.deepin.org/post/266564)
 
 ##### 2.4.2.1 apt 和 dpkg
 
@@ -231,22 +229,26 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 12. 执行命令显示“无法获取dpkg前端锁”：[https://bbs.deepin.org/post/267557](https://bbs.deepin.org/post/267557)
 13. dpkg-deb: 错误: 粘贴 子进程被信号(断开的管道) 终止了：[https://bbs.deepin.org/post/267700](https://bbs.deepin.org/post/267700)
 
-##### 2.4.2.2 “玲珑”包管理工具集
+##### 2.4.2.2 flatpak
+
+1. flatpak的安装：[https://flathub.org/setup](https://flathub.org/setup)
+2. flatpak一些常用命令：[https://bbs.deepin.org/post/259498](https://bbs.deepin.org/post/259498)
+
+
+##### 2.4.2.3 “玲珑”包管理工具集
 
 1. 玲珑官网：[https://linglong.dev/](https://linglong.dev/)
 2. 揭秘deepin 23，从这里开始！：[https://bbs.deepin.org/post/241059](https://bbs.deepin.org/post/241059)
 3. 深入探索玲珑 01——玲珑方案的创造！：[https://bbs.deepin.org/post/241762](https://bbs.deepin.org/post/241762)
 4. 深入探究玲珑 02——玲珑组件&权限管理机制！：[https://bbs.deepin.org/post/242144](https://bbs.deepin.org/post/242144)
-5. 开源的玲珑 deepin20编译版本 先享版本：[https://bbs.deepin.org/post/246491](https://bbs.deepin.org/post/246491)
-6. 玲珑和 Nix 的比较：[https://bbs.deepin.org/post/241769](https://bbs.deepin.org/post/241769)
-7. 随便聊一下玲珑包存放机制：[https://bbs.deepin.org/post/242825](https://bbs.deepin.org/post/242825)
-8. 玲珑详细介绍：[https://bbs.deepin.org/zh/post/260916](https://bbs.deepin.org/zh/post/260916)
-9. 开源的玲珑 deepin20编译版本 先享版本：[https://bbs.deepin.org/post/246491](https://bbs.deepin.org/post/246491)
-10. 一条命令更新所有玲珑应用：[https://bbs.deepin.org/post/265314](https://bbs.deepin.org/post/265314)
-11. 水谈Linglong(玲珑)的仓库可视化：[https://bbs.deepin.org.cn/post/267819](https://bbs.deepin.org.cn/post/267819)
-12. 简单构建一个玲珑应用实例-Demo-htop：[https://bbs.deepin.org/post/273004](https://bbs.deepin.org/post/273004)
-13. 玲珑入门教程：使用迁移脚本将商店在架应用转制为玲珑格式应用：[https://bbs.deepin.org/post/272882](https://bbs.deepin.org/post/272882)
-14. 玲珑打包报 start.sh:行2: ./xxx: No such file or directory 解决方案：[https://bbs.deepin.org/post/273117](https://bbs.deepin.org/post/273117)
+5. 玲珑和 Nix 的比较：[https://bbs.deepin.org/post/241769](https://bbs.deepin.org/post/241769)
+6. 随便聊一下玲珑包存放机制：[https://bbs.deepin.org/post/242825](https://bbs.deepin.org/post/242825)
+7. 玲珑详细介绍：[https://bbs.deepin.org/zh/post/260916](https://bbs.deepin.org/zh/post/260916)
+8. 一条命令更新所有玲珑应用：[https://bbs.deepin.org/post/265314](https://bbs.deepin.org/post/265314)
+9. 水谈Linglong(玲珑)的仓库可视化：[https://bbs.deepin.org.cn/post/267819](https://bbs.deepin.org.cn/post/267819)
+10. 简单构建一个玲珑应用实例-Demo-htop：[https://bbs.deepin.org/post/273004](https://bbs.deepin.org/post/273004)
+11. 玲珑入门教程：使用迁移脚本将商店在架应用转制为玲珑格式应用：[https://bbs.deepin.org/post/272882](https://bbs.deepin.org/post/272882)
+12. 玲珑打包报 start.sh:行2: ./xxx: No such file or directory 解决方案：[https://bbs.deepin.org/post/273117](https://bbs.deepin.org/post/273117)
 
 #### 2.4.3 性能和电源管理
 
@@ -958,8 +960,8 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.1.8.1 OBS
 
+ > OBS Studio：[https://obsproject.com/zh-cn/download](https://obsproject.com/zh-cn/download)
 1. OBS教程：3分钟学会直播推流与视频录制：[https://bbs.deepin.org/zh/post/224816](https://bbs.deepin.org/zh/post/224816)
-   > OBS录屏软件不能运行的解决方案：[https://bbs.deepin.org/post/247713](https://bbs.deepin.org/post/247713)
 2. OBS Studio安装攻略 直播推流：[https://bbs.deepin.org/post/264262](https://bbs.deepin.org/post/264262)
 
 ##### 4.1.8.2 Kdenlive
