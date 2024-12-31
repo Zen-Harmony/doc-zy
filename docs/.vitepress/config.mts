@@ -12,8 +12,8 @@ const RSS: RSSOptions = {
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
-    // The logic for generating an article abstract, such as returning the first 100 characters
-    const excerpt = fileContent.substring(0, 100) + '...';
+    // The logic for generating an article abstract, such as returning the first 20 characters
+    const excerpt = fileContent.substring(0, 20) + '...';
     return excerpt;
   }
 }
