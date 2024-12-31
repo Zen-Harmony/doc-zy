@@ -6,6 +6,8 @@
 
 文章参数
 
-rss不收录文章:publish: false
+rss不收录文章:
+
+publish: false
 
 
