@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Description
 
 Here are some of the resources and articles that are collated. Start reading from the table of contents on the left! (On mobile, open the menu in the upper left corner)
