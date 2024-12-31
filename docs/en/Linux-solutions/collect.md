@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Collection of the solutions
 :::tip
 This page collects a small selection of solutions to frequently asked questions from the posts in deepin forum. Some of the solutions provided in this page are a solution to the corresponding problem. They are not the only one and for reference only.
