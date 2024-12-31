@@ -9,7 +9,7 @@ const RSS: RSSOptions = {
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
-    // 生成文章摘要的逻辑，例如返回前 100 个字符
+    // The logic for generating an article abstract, such as returning the first 100 characters
     const excerpt = fileContent.substring(0, 100) + '...';
     return excerpt;
   }
