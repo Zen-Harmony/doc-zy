@@ -1,5 +1,6 @@
 ---
 layout: home
+publish: false
 
 hero:
   name: "Linux Knowledge Base"
