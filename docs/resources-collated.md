@@ -1377,58 +1377,62 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
->目前正在进行细分，争取更加规范。
-#### 1.网页
+
+> 目前正在进行细分，争取更加规范。
+
+#### 6.2.1 网页
 
 1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63](https://blog.linux-qitong.top/posts/1b32c63)
 2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b](https://blog.linux-qitong.top/posts/fd2f879b)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
+4. Docker下搭建轻量化私密导航站Flare：[https://bbs.deepin.org/post/270383](https://bbs.deepin.org/post/270383)
 
-#### 2.移动设备
+#### 6.2.2 移动设备
+
 1. 废旧 Android 设备打造 linux 服务器：[https://bbs.deepin.org/zh/post/233447](https://bbs.deepin.org/zh/post/233447)
 2. 安卓手机后台管理工具黑阈激活器(DTK版本)：[https://bbs.deepin.org/zh/post/208066](https://bbs.deepin.org/zh/post/208066)
 3. Uotan Toolbox(手机助手)：[https://toolbox.uotan.cn](https://toolbox.uotan.cn)
 
-#### 3.杂项
+#### 6.2.3 AI大模型
+
+1. 分享三种使用ChatGPT的办法：[https://bbs.deepin.org/post/259359](https://bbs.deepin.org/post/259359
+2. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254) [「走进大模型」篇](https://bbs.deepin.org/post/261256)
+3. 4行命令部署清华大学GLM，自然语言方面效果媲美GPT4（CPU）：[https://bbs.deepin.org/post/267143](https://bbs.deepin.org/post/267143)
+4. 分享一下使用OpenAI api的方法（不是免费的）：[https://bbs.deepin.org/post/267797](https://bbs.deepin.org/post/267797)
+
+#### 6.2.4 杂项
 
 1. linux使用git远程上传：[https://blog.linux-qitong.top/posts/c06a1f35](https://blog.linux-qitong.top/posts/c06a1f35)
 2. 使用网易邮箱大师注册Gmail邮箱账号：[https://bbs.deepin.org/post/240523](https://bbs.deepin.org/post/240523)
 3. 有关 Linux 桌面的问题的分析及解决方案：[https://bbs.deepin.org/post/245503](https://bbs.deepin.org/post/245503)
 4. 用标签构建各种文件系统结构：目录、圆形、鱼刺 。。。：[https://bbs.deepin.org/post/254947](https://bbs.deepin.org/post/254947)
-5. 分享三种使用ChatGPT的办法：[https://bbs.deepin.org/post/259359](https://bbs.deepin.org/post/259359)
-6. 【小知识】你的系统中有多少GNU：[https://bbs.deepin.org/zh/post/255440](https://bbs.deepin.org/zh/post/255440)
-7. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254) [「走进大模型」篇](https://bbs.deepin.org/post/261256)
-8. linux有关各文件系统的对比：[https://bbs.deepin.org/post/261617](https://bbs.deepin.org/post/261617)
-9. Docker下搭建轻量化私密导航站Flare：[https://bbs.deepin.org/post/270383](https://bbs.deepin.org/post/270383)
-10. 一个简单的图片反向搜索教程：[https://bbs.deepin.org.cn/post/266680](https://bbs.deepin.org.cn/post/266680)
-11. 4行命令部署清华大学GLM，自然语言方面效果媲美GPT4（CPU）：[https://bbs.deepin.org/post/267143](https://bbs.deepin.org/post/267143)
-12. 往日荣耀信息面板：[https://bbs.deepin.org/post/267657](https://bbs.deepin.org/post/267657)
-13. 用魔法·缔造普通人与 github 之间的桥梁：[https://bbs.deepin.org/post/267715](https://bbs.deepin.org/post/267715)
-14. 分享一下使用OpenAI api的方法（不是免费的）：[https://bbs.deepin.org/post/267797](https://bbs.deepin.org/post/267797)
-15. adguardhome规则分享：[https://bbs.deepin.org/post/264997](https://bbs.deepin.org/post/264997)
-16. 一款类似 Windows 资源管理器的系统监控软件 Mission Center：[https://bbs.deepin.org/post/263029](https://bbs.deepin.org/post/263029)
-17. R计算器手动打包：[https://bbs.deepin.org/zh/post/191341](https://bbs.deepin.org/zh/post/191341)
-18. desktop 图标文件生成器：[https://bbs.deepin.org/zh/post/231528](https://bbs.deepin.org/zh/post/231528)
-19. 一个类似uTools的快速启动器Albert：[https://bbs.deepin.org/post/142027](https://bbs.deepin.org/post/142027)
-20. 开发了一款自定义触摸板手势的管理工具，有需要的朋友可以试试：[https://bbs.deepin.org/zh/post/232824](https://bbs.deepin.org/zh/post/232824)
-21. Steam++ 加速你的github 和 steam游戏商店：[https://bbs.deepin.org/zh/post/233231](https://bbs.deepin.org/zh/post/233231)
-22. 用DTK写的定时器：[https://bbs.deepin.org/zh/post/223465](https://bbs.deepin.org/zh/post/223465)
-23. recoll 全文搜索最新中文版下载（V23下打包测试）：[https://bbs.deepin.org/post/264375](https://bbs.deepin.org/post/264375)
-24. gocron定时任务：[https://bbs.deepin.org/zh/post/239475](https://bbs.deepin.org/zh/post/239475)
-25. 羽云工具箱 v1.0.0 正式发布：[https://bbs.deepin.org/post/244465](https://bbs.deepin.org/post/244465)
-26. 分享linux utools的搜索文件的插件：[https://bbs.deepin.org/zh/post/253544](https://bbs.deepin.org/zh/post/253544)
-27. 用惯了mac，不习惯现有的键盘布局，想要将键盘布局改成mac的：[https://bbs.deepin.org/zh/post/253418](https://bbs.deepin.org/zh/post/253418)
-28. 讲讲在深度Linux上奋战emacs的几个经过：[https://bbs.deepin.org/zh/post/254028](https://bbs.deepin.org/zh/post/254028)
-29. 用命令快速分享到文叔叔等平台--transfer（GO语言）：[https://bbs.deepin.org/post/241623](https://bbs.deepin.org/post/241623)
-30. 彩色的表情符号：[https://bbs.deepin.org/post/241125](https://bbs.deepin.org/post/241125)
-31. Catfish遇上FSearch：谁是真正的本地搜索王者？：[https://bbs.deepin.org/zh/post/254521](https://bbs.deepin.org/zh/post/254521)
-32. COMTool 优雅 好用带图形界面的跨平台网络调试助手：[https://bbs.deepin.org/zh/post/255006](https://bbs.deepin.org/zh/post/255006)
-33. 解决utools无法在V23beta打开：[https://bbs.deepin.org/post/256633](https://bbs.deepin.org/post/256633)
-34. deepin UOS 编译安装 Redis：[https://bbs.deepin.org/post/260553](https://bbs.deepin.org/post/260553)
-35. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
-36. 附加基础库additional-base-lib之第五版：[https://bbs.deepin.org/post/258570](https://bbs.deepin.org/post/258570)
-37. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
-38. Stirling-PDF 离线DOCKER镜像：[https://bbs.deepin.org/post/270603](https://bbs.deepin.org/post/270603)
-39. 基于shell+dialog+zenity写的cp/scp/rsync工具的拷贝&同步脚本：[https://bbs.deepin.org/post/271323](https://bbs.deepin.org/post/271323)
-40. 如何用R语言下载一本小说的简单示例：[https://bbs.deepin.org/post/272726](https://bbs.deepin.org/post/272726)
-
+5. 【小知识】你的系统中有多少GNU：[https://bbs.deepin.org/zh/post/255440](https://bbs.deepin.org/zh/post/255440)
+6. linux有关各文件系统的对比：[https://bbs.deepin.org/post/261617](https://bbs.deepin.org/post/261617)
+7. 一个简单的图片反向搜索教程：[https://bbs.deepin.org.cn/post/266680](https://bbs.deepin.org.cn/post/266680)
+8. 用魔法·缔造普通人与 github 之间的桥梁：[https://bbs.deepin.org/post/267715](https://bbs.deepin.org/post/267715)
+9. adguardhome规则分享：[https://bbs.deepin.org/post/264997](https://bbs.deepin.org/post/264997)
+10. 一款类似 Windows 资源管理器的系统监控软件 Mission Center：[https://bbs.deepin.org/post/263029](https://bbs.deepin.org/post/263029)
+11. R计算器手动打包：[https://bbs.deepin.org/zh/post/191341](https://bbs.deepin.org/zh/post/191341)
+12. desktop 图标文件生成器：[https://bbs.deepin.org/zh/post/231528](https://bbs.deepin.org/zh/post/231528)
+13. 一个类似uTools的快速启动器Albert：[https://bbs.deepin.org/post/142027](https://bbs.deepin.org/post/142027)
+14. 开发了一款自定义触摸板手势的管理工具，有需要的朋友可以试试：[https://bbs.deepin.org/zh/post/232824](https://bbs.deepin.org/zh/post/232824)
+15. Steam++ 加速你的github 和 steam游戏商店：[https://bbs.deepin.org/zh/post/233231](https://bbs.deepin.org/zh/post/233231)
+16. 用DTK写的定时器：[https://bbs.deepin.org/zh/post/223465](https://bbs.deepin.org/zh/post/223465)
+17. recoll 全文搜索最新中文版下载（V23下打包测试）：[https://bbs.deepin.org/post/264375](https://bbs.deepin.org/post/264375)
+18. gocron定时任务：[https://bbs.deepin.org/zh/post/239475](https://bbs.deepin.org/zh/post/239475)
+19. 羽云工具箱 v1.0.0 正式发布：[https://bbs.deepin.org/post/244465](https://bbs.deepin.org/post/244465)
+20. 分享linux utools的搜索文件的插件：[https://bbs.deepin.org/zh/post/253544](https://bbs.deepin.org/zh/post/253544)
+21. 用惯了mac，不习惯现有的键盘布局，想要将键盘布局改成mac的：[https://bbs.deepin.org/zh/post/253418](https://bbs.deepin.org/zh/post/253418)
+22. 讲讲在深度Linux上奋战emacs的几个经过：[https://bbs.deepin.org/zh/post/254028](https://bbs.deepin.org/zh/post/254028)
+23. 用命令快速分享到文叔叔等平台--transfer（GO语言）：[https://bbs.deepin.org/post/241623](https://bbs.deepin.org/post/241623)
+24. 彩色的表情符号：[https://bbs.deepin.org/post/241125](https://bbs.deepin.org/post/241125)
+25. Catfish遇上FSearch：谁是真正的本地搜索王者？：[https://bbs.deepin.org/zh/post/254521](https://bbs.deepin.org/zh/post/254521)
+26. COMTool 优雅 好用带图形界面的跨平台网络调试助手：[https://bbs.deepin.org/zh/post/255006](https://bbs.deepin.org/zh/post/255006)
+27. 解决utools无法在V23beta打开：[https://bbs.deepin.org/post/256633](https://bbs.deepin.org/post/256633)
+28. deepin UOS 编译安装 Redis：[https://bbs.deepin.org/post/260553](https://bbs.deepin.org/post/260553)
+29. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
+30. 附加基础库additional-base-lib之第五版：[https://bbs.deepin.org/post/258570](https://bbs.deepin.org/post/258570)
+31. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
+32. Stirling-PDF 离线DOCKER镜像：[https://bbs.deepin.org/post/270603](https://bbs.deepin.org/post/270603)
+33. 基于shell+dialog+zenity写的cp/scp/rsync工具的拷贝&同步脚本：[https://bbs.deepin.org/post/271323](https://bbs.deepin.org/post/271323)
+34. 如何用R语言下载一本小说的简单示例：[https://bbs.deepin.org/post/272726](https://bbs.deepin.org/post/272726)
