@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Something to Know about Posting & Questioning 
 
 ## Search before questioning.
