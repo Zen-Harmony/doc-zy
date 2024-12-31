@@ -1,15 +1,18 @@
-import { RssPlugin, RSSOptions } from 'vitepress-plugin-rss'
-import { defineConfig } from 'vitepress'
-
-// Base URL for the site
-const baseUrl = 'https://doc.zen-harmony.top'
+import { defineConfig } from 'vitepress';
+import { RssPlugin } from 'vitepress-plugin-rss';
+import type { RSSOptions } from 'path-to-rss-options'; // 请确保正确导入 RSSOptions 类型
 
 // RSS feed configuration
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
-  baseUrl,
+  baseUrl: 'https://example.com', // 请确保 baseUrl 已定义
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
+  renderExpect: (fileContent, frontmatter) => {
+    // 生成文章摘要的逻辑，例如返回前 100 个字符
+    const excerpt = fileContent.substring(0, 100) + '...';
+    return excerpt;
+  }
 }
 
 // VitePress site configuration
