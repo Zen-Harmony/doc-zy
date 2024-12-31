@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress';
 import { RssPlugin } from 'vitepress-plugin-rss';
-import type { RSSOptions } from 'path-to-rss-options'; // 请确保正确导入 RSSOptions 类型
+import type { RSSOptions } from 'path-to-rss-options';
 
 // RSS feed configuration
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
-  baseUrl: 'https://example.com', // 请确保 baseUrl 已定义
+  baseUrl,
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
