@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { RssPlugin } from 'vitepress-plugin-rss';
-import type { RSSOptions } from 'path-to-rss-options';
+import type { RSSOptions } from 'vitepress-plugin-rss';
 
 // Define baseURL
 const baseUrl = 'https://doc.zen-harmony.top';
@@ -12,10 +12,12 @@ const RSS: RSSOptions = {
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
-    // The logic for generating an article abstract, such as returning the first 20 characters
-    const excerpt = fileContent.substring(0, 20) + '...';
+    // The logic for generating an article abstract, such as returning the first 140 characters
+    const excerpt = fileContent.substring(0, 140) + '...';
     return excerpt;
-  }
+  },
+  // Limit the number of articles included in the output file
+  limit: 20 
 }
 
 // VitePress site configuration
@@ -76,6 +78,7 @@ export default defineConfig({
         outlineTitle: '在此页上',
         sidebarMenuLabel: '目录',
         returnToTopLabel: '返回顶部',
+        lastUpdated: true
       }
     },
     en: {
@@ -103,7 +106,8 @@ export default defineConfig({
             ]
           }
         ],
-        sidebarMenuLabel: 'Contents'
+        sidebarMenuLabel: 'Contents',
+        lastUpdated: true
       },
     }
   },
@@ -115,6 +119,7 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
-    }
+    },
+    lastUpdated: true
   }
 })
