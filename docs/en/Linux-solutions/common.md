@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Common Problems
 ::: tip
 This page collects a small selection of frequently asked questions and solutions to them from deepin forum. For excerpting from individual posts, the feasibility of solutions is not guaranteed.
