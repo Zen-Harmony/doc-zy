@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Thanks
 Linux common resources have been collated and maintained to this day, and they are inseparable from the suggestions and contributions of enthusiastic people. This page lists the people who have contributed to this project, in no particular order. If there is any omission, please forgive me and contact us to add.
 
