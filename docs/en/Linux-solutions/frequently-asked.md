@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Frequently-asked Questions
 :::tip
 The solutions we mentioned are not the only way to solve the problems. It is for reference only.
