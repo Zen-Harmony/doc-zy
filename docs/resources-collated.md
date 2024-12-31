@@ -216,7 +216,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 ##### 2.4.2.1 apt 和 dpkg
 
 1. 【小知识】debian的包管理系统：[https://bbs.deepin.org/post/255645](https://bbs.deepin.org/post/255645)
-2. GUI 软件包管理器：`sudo apt install synaptic` 或从星火应用商店获取 App Manager
+2. GUI 软件包管理器：`sudo apt install synaptic` 
 3. deepin如何寻找、安装非商店软件(Debian通用)：[https://bbs.deepin.org/post/157341](https://bbs.deepin.org/post/157341)
 4. 删除卸载残留的应用配置：[https://bbs.deepin.org/zh/post/227702](https://bbs.deepin.org/zh/post/227702)
 5. 使用UOS安装器安装deb包后直接启动界面程序：[https://bbs.deepin.org/zh/post/248400](https://bbs.deepin.org/zh/post/248400)
