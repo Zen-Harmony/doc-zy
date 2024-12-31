@@ -9,7 +9,7 @@ const baseUrl = 'https://doc.zen-harmony.top';
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
   baseUrl: baseUrl,
-  icon: 'icon.png',
+  icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
     // The logic for generating an article abstract, such as returning the first 140 characters
