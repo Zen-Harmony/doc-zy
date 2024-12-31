@@ -150,33 +150,18 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 ### 2.4 桌面环境
 
 1. 在Linux中创建应用图标：[https://bbs.deepin.org/zh/post/225323](https://bbs.deepin.org/zh/post/225323)
-2. 通过外部应用实现的热区：omd-requ：[https://bbs.deepin.org/zh/post/226623](https://bbs.deepin.org/zh/post/226623)
-3. 想问下应用商店是怎么只获取用户安装的应用的：[https://bbs.deepin.org/zh/post/227355](https://bbs.deepin.org/zh/post/227355)
-4. better-dde: 让 DDE 更美好：[https://bbs.deepin.org/zh/post/237746](https://bbs.deepin.org/zh/post/237746)
-5. 在dde File Manager的较上端加入菜单项（类似深度压缩）：[https://bbs.deepin.org/zh/post/229467](https://bbs.deepin.org/zh/post/229467)
-6. Deepin设置分辨率为1920x1080：[https://www.jianshu.com/p/89a1bf1905d8](https://www.jianshu.com/p/89a1bf1905d8)
-7. 分享让用户可以自己强制指定系统缩放的方法：[https://bbs.deepin.org/post/255588](https://bbs.deepin.org/post/255588)
-8. 在登陆界面默认关闭数字小键盘：[https://bbs.deepin.org/post/266996](https://bbs.deepin.org/post/266996)
-9. 登录/锁屏界面允许输入用户名登录：[https://bbs.deepin.org/post/266918](https://bbs.deepin.org/post/266918)
-10. 隐藏启动器中的图标：[https://bbs.deepin.org/post/267512](https://bbs.deepin.org/post/267512)
-11. 自定义控制中心的关于本机：[https://bbs.deepin.org/zh/post/237500](https://bbs.deepin.org/zh/post/237500)
-12. 控制中心网关只能输入 IP 地址很反人类？试试这个：[https://bbs.deepin.org/zh/post/238342](https://bbs.deepin.org/zh/post/238342)
-13. 控制中心卡死问题如何解决：[https://bbs.deepin.org/post/267016](https://bbs.deepin.org/post/267016)
-14. 分享让用户可以自己强制指定系统缩放的方法：[https://bbs.deepin.org/post/255588](https://bbs.deepin.org/post/255588)
-15. 解决 Linux 桌面问题思路分享：[https://bbs.deepin.org/post/253963](https://bbs.deepin.org/post/253963)
-16. Ubuntu、Debian、Deepin 怎样删除多安装的桌面环境？- Linux 小妙招：[https://bbs.deepin.org/zh/post/254209](https://bbs.deepin.org/zh/post/254209)
-17. 命令行方式修改 UOS Deepin 分辨率（X11）： [https://bbs.deepin.org/post/259711](https://bbs.deepin.org/post/259711)
-18. 在 deepin23 (NVIDIA) 上启用 Wayland：[https://bbs.deepin.org/post/266024](https://bbs.deepin.org/post/266024)
-19. 如何自己制作最好用的启动器？-为启动器添加常用应用程序（适用于deepin V20.9）：[https://bbs.deepin.org/post/267026](https://bbs.deepin.org/post/267026)
-20. 强迫症专用 launchpad（V23）：[https://bbs.deepin.org/post/265834](https://bbs.deepin.org/post/265834)
-21. 禁止kwin的自动关闭3D窗管的方法：[https://bbs.deepin.org/zh/post/232810](https://bbs.deepin.org/zh/post/232810)
-22. 最小化，最大化，关闭的按钮不见了：[https://bbs.deepin.org/post/236787](https://bbs.deepin.org/post/236787)
-23. 开机以后任务栏正下方的图标会以一定概率全部消失：[https://bbs.deepin.org/zh/post/244330](https://bbs.deepin.org/zh/post/244330)
-24. 解决QQ等应用的托盘图标的bug：[https://bbs.deepin.org/post/253891](https://bbs.deepin.org/post/253891)
-25. 系统进入桌面后没有任务栏：[https://bbs.deepin.org/post/265540](https://bbs.deepin.org/post/265540)
-26. 系统安装后进入桌面只显示壁纸：[https://bbs.deepin.org/post/266993](https://bbs.deepin.org/post/266993)
-27. 解决系统无法使用快捷键，换键盘无效：[https://bbs.deepin.org/post/264015](https://bbs.deepin.org/post/264015)
-28. 桌面卡死如何处理：[https://bbs.deepin.org/post/266435](https://bbs.deepin.org/post/266435)
+2. 想问下应用商店是怎么只获取用户安装的应用的：[https://bbs.deepin.org/zh/post/227355](https://bbs.deepin.org/zh/post/227355)
+3. 隐藏启动器中的图标：[https://bbs.deepin.org/post/267512](https://bbs.deepin.org/post/267512)
+4. 解决 Linux 桌面问题思路分享：[https://bbs.deepin.org/post/253963](https://bbs.deepin.org/post/253963)
+5. Ubuntu、Debian、Deepin 怎样删除多安装的桌面环境？- Linux 小妙招：[https://bbs.deepin.org/zh/post/254209](https://bbs.deepin.org/zh/post/254209)
+6. 在 deepin23 (NVIDIA) 上启用 Wayland：[https://bbs.deepin.org/post/266024](https://bbs.deepin.org/post/266024)
+7. 禁止kwin的自动关闭3D窗管的方法：[https://bbs.deepin.org/zh/post/232810](https://bbs.deepin.org/zh/post/232810)
+8. 最小化，最大化，关闭的按钮不见了：[https://bbs.deepin.org/post/236787](https://bbs.deepin.org/post/236787)
+9. 开机以后任务栏正下方的图标会以一定概率全部消失：[https://bbs.deepin.org/zh/post/244330](https://bbs.deepin.org/zh/post/244330)
+10. 解决QQ等应用的托盘图标的bug：[https://bbs.deepin.org/post/253891](https://bbs.deepin.org/post/253891)
+11. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
+12. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
+13. 系统安装后进入桌面只显示壁纸：[https://bbs.deepin.org/post/266993](https://bbs.deepin.org/post/266993)
 
 #### 2.4.1 系统配置
 
@@ -205,14 +190,11 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 2. 通过usb鼠标唤醒待机：[https://bbs.deepin.org/post/263865](https://bbs.deepin.org/post/263865)
 3. 取消鼠标滚轮按下带有的粘贴功能：[https://bbs.deepin.org/post/265518](https://bbs.deepin.org/post/265518)
 
-##### 2.4.1.5 其他
+##### 2.4.1.5 分辨率和缩放
 
-1. 如何关闭飞行模式：[https://bbs.deepin.org/post/234324](https://bbs.deepin.org/post/234324)
-2. 如何设置锁屏时间为3min?：[https://bbs.deepin.org/zh/post/237606](https://bbs.deepin.org/zh/post/237606)
-3. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
-4. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
-5. 根目录下有很多deepin-fix-init文件：[https://bbs.deepin.org/zh/post/263138](https://bbs.deepin.org/zh/post/263138)
-
+1. Deepin设置分辨率为1920x1080：[https://www.jianshu.com/p/89a1bf1905d8](https://www.jianshu.com/p/89a1bf1905d8)
+2. 分享让用户可以自己强制指定系统缩放的方法：[https://bbs.deepin.org/post/255588](https://bbs.deepin.org/post/255588)
+3. 命令行方式修改 UOS Deepin 分辨率（X11）： [https://bbs.deepin.org/post/259711](https://bbs.deepin.org/post/259711)
 
 #### 2.4.2 应用及包管理
 
