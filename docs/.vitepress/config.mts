@@ -2,10 +2,13 @@ import { defineConfig } from 'vitepress';
 import { RssPlugin } from 'vitepress-plugin-rss';
 import type { RSSOptions } from 'path-to-rss-options';
 
+// Define baseURL
+const baseUrl = 'https://doc.zen-harmony.top';
+
 // RSS feed configuration
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
-  baseUrl,
+  baseUrl: baseUrl,
   icon: false,
   copyright: 'Copyright (c) 2024-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
@@ -25,7 +28,7 @@ export default defineConfig({
   ],
   cleanUrls: true,
   sitemap: {
-    hostname: 'https://doc.zen-harmony.top',
+    hostname: baseUrl,
     lastmodDateOnly: false
   },
   base: "/",
