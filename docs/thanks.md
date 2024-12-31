@@ -22,6 +22,7 @@ Linux 觅知园持续维护至今，离不开热心人士的建议和贡献。�
 - [青菜芋子](https://loafing.cn/)
 - [gfdgd xi](http://www.gfdgdxi.top/)
 - cc
+
 感谢以下人员帮助推广，使此项目连带其中的资源被更多人看见：
 - [HualetWang](https://bbs.deepin.org/user/31012)
 - [xuqi](https://bbs.deepin.org/user/283437)
