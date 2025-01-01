@@ -1198,23 +1198,13 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ### 4.2 运行其他平台应用/虚拟机
 
-#### 4.2.1 UEngine 和 Waydroid
+#### 4.2.1 Waydroid 和 Xdroid
 
-> UEngine 用来在 deepin/UOS 上运行安卓应用，应用商店中的手机应用就使用了 UEngine 引擎。
-> 由于 UEngine 的上游 Anbox 停止更新，UEngine 的底层目前还停滞在 Android7，对新应用和游戏兼容相对较差。现在有[Waydroid](https://waydro.id/)（底层 Android11）来替代，它的兼容性较好，但门槛较高。
-> 同类应用还有 [Anbox](https://anbox.io/)（已停止维护）、[xDroid](https://www.linzhuotech.com/Product/xDroid) 等。
+> [Waydroid](https://waydro.id/) （底层 Android 11）用来在 Linux 系统上运行安卓应用。它的兼容性较好，但门槛较高。同类应用还有 [xDroid](https://www.linzhuotech.com/Product/xDroid) 。
 
-1. **UEngine 运行器**：[论坛页面（2.2.0）](https://bbs.deepin.org/post/267695)  [Gitee](https://gitee.com/gfdgd-xi/uengine-runner)
-2. **Waydroid 运行器**：[论坛页面（1.1.0）](https://bbs.deepin.org/zh/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [GitHub](https://github.com/gfdgd-xi/waydroid-runner)
-3. uengine 使用总结：[https://uos.osystem.club/102.html](https://uos.osystem.club/102.html)
-4. 在 deepin 23 beta3 运行 UEngine 以及 UEngine 运行器：[https://bbs.deepin.org.cn/post/267892](https://bbs.deepin.org.cn/post/267892)
-5. 成功Root Deepin的Android子系统（Uengine）：[https://bbs.deepin.org/zh/post/228520](https://bbs.deepin.org/zh/post/228520)
-6. uengine记住横屏竖屏：[https://bbs.deepin.org/post/232985](https://bbs.deepin.org/post/232985)
-7. 关于安装未知来源的apk，被禁止安装处理方法：[https://bbs.deepin.org/zh/post/237401](https://bbs.deepin.org/zh/post/237401)
-8. 关于uengine导致系统没声音的问题以及（临时）解决办法：[https://bbs.deepin.org/post/244795](https://bbs.deepin.org/post/244795)
-9. 在 deepin23 rc3 安装 UEngine（不推荐）：[https://bbs.deepin.org/post/272656](https://bbs.deepin.org/post/272656)
-10. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
-11. waydroid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
+1. **Waydroid 运行器**：[论坛页面（1.1.0）](https://bbs.deepin.org/zh/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [GitHub](https://github.com/gfdgd-xi/waydroid-runner)
+2. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
+3. waydroid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
 
 #### 4.2.2 Wine
 
@@ -1364,8 +1354,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 3. deb打包教程：[https://bbs.deepin.org/zh/post/194188](https://bbs.deepin.org/zh/post/194188)
 4. 超级简单打包软件分享：[https://bbs.deepin.org/zh/post/194219](https://bbs.deepin.org/zh/post/194219)
 5. 这个打包deb的操作特简单，uos/Deepin打包操作方式，供大家参考：[https://bbs.deepin.org/zh/post/225931](https://bbs.deepin.org/zh/post/225931)
-6. 【脚本】简单的deb一键打包脚本：[https://bbs.deepin.org/post/245399](https://bbs.deepin.org/post/245399)
-7. 一点点关于ShiroDEB的介绍：[https://bbs.deepin.org/post/264509](https://bbs.deepin.org/post/264509)
+6. 一点点关于ShiroDEB的介绍：[https://bbs.deepin.org/post/264509](https://bbs.deepin.org/post/264509)
 
 ## 五、社区与论坛
 
@@ -1386,22 +1375,21 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 2. 嫁接Deepin到一个兼容你设备的Linux系统：[https://bbs.deepin.org/zh/post/206117](https://bbs.deepin.org/zh/post/206117)
 3. 在ubuntu上完美使用deepin-wine5：[https://bbs.deepin.org/zh/post/204884](https://bbs.deepin.org/zh/post/204884)
 4. 关于 Deepin 桌面移植到 Gentoo Linux 发行版：[https://bbs.deepin.org/zh/post/221216](https://bbs.deepin.org/zh/post/221216)
-5. Deepin鼠标指针：[https://bbs.deepin.org/zh/post/199527](https://bbs.deepin.org/zh/post/199527)
-6. 从deepin迁移到其他Linux： [https://www.yuque.com/pzm9012/ct5ume/ohlxhr](https://www.yuque.com/pzm9012/ct5ume/ohlxhr)
-7. 移植deepin-contacts到其他Debian系发行版：[https://bbs.deepin.org/zh/post/229606](https://bbs.deepin.org/zh/post/229606)
-8. 用 Nix 制作自定义的 live 镜像：[https://bbs.deepin.org/zh/post/236303](https://bbs.deepin.org/zh/post/236303)
-9. dde-nixos 现在可以在虚拟机中预览了：[https://bbs.deepin.org/post/246672](https://bbs.deepin.org/post/246672)
-10. LingmoOS（基于Debian，使用Cutefish DE）：[https://www.lingmo.org/](https://www.lingmo.org/)
-11. 【GTK小技巧】GTK远程显示：[https://bbs.deepin.org/post/244218](https://bbs.deepin.org/post/244218)
-12. Arch Linux中用于包管理的图形化应用：[https://bbs.deepin.org/post/244569](https://bbs.deepin.org/post/244569)
-13. 可安装 DDE 的 NixOS Calamares 安装器：[https://bbs.deepin.org/post/256810](https://bbs.deepin.org/post/256810)
-14. MX-Deepin：[https://bbs.deepin.org/post/262845](https://bbs.deepin.org/post/262845)
-15. 基于archlinux-arm制作dde桌面镜像--livecd完成：[https://bbs.deepin.org/zh/post/254592](https://bbs.deepin.org/zh/post/254592)
-16. ubuntu22.04安装dde桌面：[https://blog.csdn.net/baidu_35280192/article/details/127121544](https://blog.csdn.net/baidu_35280192/article/details/127121544)
-17. CentOS 7 非 root 用户编译安装 Python 3.10：[https://bbs.deepin.org/post/260484](https://bbs.deepin.org/post/260484)
-18. Parallel Desktop中安装Deepin 鼠标到虚拟机中总提示数字键盘开启：[https://bbs.deepin.org/post/267436](https://bbs.deepin.org/post/267436)
-19. DragonOS（一个由rust从0开发的类Linux内核及用户态环境）：[https://dragonos.org.cn/](https://dragonos.org.cn/)
-20. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
+5. 从deepin迁移到其他Linux： [https://www.yuque.com/pzm9012/ct5ume/ohlxhr](https://www.yuque.com/pzm9012/ct5ume/ohlxhr)
+6. 移植deepin-contacts到其他Debian系发行版：[https://bbs.deepin.org/zh/post/229606](https://bbs.deepin.org/zh/post/229606)
+7. 用 Nix 制作自定义的 live 镜像：[https://bbs.deepin.org/zh/post/236303](https://bbs.deepin.org/zh/post/236303)
+8. dde-nixos 现在可以在虚拟机中预览了：[https://bbs.deepin.org/post/246672](https://bbs.deepin.org/post/246672)
+9. LingmoOS（基于Debian，使用Cutefish DE）：[https://www.lingmo.org/](https://www.lingmo.org/)
+10. 【GTK小技巧】GTK远程显示：[https://bbs.deepin.org/post/244218](https://bbs.deepin.org/post/244218)
+11. Arch Linux中用于包管理的图形化应用：[https://bbs.deepin.org/post/244569](https://bbs.deepin.org/post/244569)
+12. 可安装 DDE 的 NixOS Calamares 安装器：[https://bbs.deepin.org/post/256810](https://bbs.deepin.org/post/256810)
+13. MX-Deepin：[https://bbs.deepin.org/post/262845](https://bbs.deepin.org/post/262845)
+14. 基于archlinux-arm制作dde桌面镜像--livecd完成：[https://bbs.deepin.org/zh/post/254592](https://bbs.deepin.org/zh/post/254592)
+15. ubuntu22.04安装dde桌面：[https://blog.csdn.net/baidu_35280192/article/details/127121544](https://blog.csdn.net/baidu_35280192/article/details/127121544)
+16. CentOS 7 非 root 用户编译安装 Python 3.10：[https://bbs.deepin.org/post/260484](https://bbs.deepin.org/post/260484)
+17. Parallel Desktop中安装Deepin 鼠标到虚拟机中总提示数字键盘开启：[https://bbs.deepin.org/post/267436](https://bbs.deepin.org/post/267436)
+18. DragonOS（一个由rust从0开发的类Linux内核及用户态环境）：[https://dragonos.org.cn/](https://dragonos.org.cn/)
+19. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
 
