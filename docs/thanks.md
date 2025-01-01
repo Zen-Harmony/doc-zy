@@ -23,14 +23,15 @@ Linux 觅知园持续维护至今，离不开热心人士的建议和贡献。
 - [青稚](https://github.com/Linux-qitong)
 - [阿尼樱奈奈](https://github.com/Aninana)
 - [silvaire_qwq](https://github.com/silvaire-qwq)
+- [璀璨星空](https://bbs.deepin.org/user/273333)
 - [nanming](https://bbs.deepin.org/user/239615)
 - [liwl](https://bbs.deepin.org/user/160805)
 - [lv36](https://bbs.deepin.org/user/227371)
 - [Free_Aaron.Li](https://bbs.deepin.org/user/280809)
 - [宏彦](https://bbs.deepin.org/user/301917)
 - [风吹过的绿洲](https://bbs.deepin.org/user/41719)
-- [青菜芋子](https://loafing.cn/)
-- [gfdgd xi](http://www.gfdgdxi.top/)
+- [青菜芋子](https://loafing.cn)
+- [gfdgd xi](https://www.gfdgdxi.top)
 - cc
   
 感谢以下人员帮助推广，使此项目连带其中的资源被更多人看见：
