@@ -714,10 +714,9 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 12. desktop 图标文件生成器：[https://bbs.deepin.org/zh/post/231528](https://bbs.deepin.org/zh/post/231528)
 13. 开发了一款自定义触摸板手势的管理工具，有需要的朋友可以试试：[https://bbs.deepin.org/zh/post/232824](https://bbs.deepin.org/zh/post/232824)
 14. recoll 全文搜索最新中文版下载（V23下打包测试）：[https://bbs.deepin.org/post/264375](https://bbs.deepin.org/post/264375)
-15. 羽云工具箱 v1.0.0 正式发布：[https://bbs.deepin.org/post/244465](https://bbs.deepin.org/post/244465)
-16. 分享linux utools的搜索文件的插件：[https://bbs.deepin.org/zh/post/253544](https://bbs.deepin.org/zh/post/253544)
-17. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
-18. 用DTK写的定时器：[https://bbs.deepin.org/zh/post/223465](https://bbs.deepin.org/zh/post/223465)
+15. 分享linux utools的搜索文件的插件：[https://bbs.deepin.org/zh/post/253544](https://bbs.deepin.org/zh/post/253544)
+16. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
+17. 用DTK写的定时器：[https://bbs.deepin.org/zh/post/223465](https://bbs.deepin.org/zh/post/223465)
     
 ##### 4.1.1.3 跨端协同
 
@@ -868,16 +867,16 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.1.4.3 开发软件和工具
 
-1. 羽云十六进制编辑器 v1.5.2 发布：[https://bbs.deepin.org/post/245200](https://bbs.deepin.org/post/245200)
-2. Loginsight —— 程序员的日志分析利器：[https://bbs.deepin.org/post/243105](https://bbs.deepin.org/post/243105)
-3. VSCode 历史项目信息分析工具 - 查看在你电脑上的历史记录吧：[https://bbs.deepin.org/post/244174](https://bbs.deepin.org/post/244174)
-4. 请推荐一款Linux 批处理编写软件(有界面的那种)：[https://bbs.deepin.org/zh/post/248919](https://bbs.deepin.org/zh/post/248919)
-5. 高性能数据库软件 linwin DB server1.1 发布：[https://bbs.deepin.org/post/250672](https://bbs.deepin.org/post/250672)
-6. LinwinSoft DB server1.4 Cluste 高性能分布式集群数据库软件发布：[https://bbs.deepin.org/post/251546](https://bbs.deepin.org/post/251546)
-7. 思科模拟器（网工的同学看过来）：[https://bbs.deepin.org/post/250686](https://bbs.deepin.org/post/250686)
-8. 微信开发者工具 Linux 社区版：[deepin论坛](https://bbs.deepin.org/post/261258) [GitHub仓库](https://github.com/msojocs/wechat-web-devtools-linux)
-9. Qucs-S电路仿真软件 中文版：[https://bbs.deepin.org/post/267184](https://bbs.deepin.org/post/267184)
-10. Tiny RDM 一个更现代化的Redis桌面管理客户端：[https://bbs.deepin.org.cn/post/267810](https://bbs.deepin.org.cn/post/267810)
+1. Loginsight —— 程序员的日志分析利器：[https://bbs.deepin.org/post/243105](https://bbs.deepin.org/post/243105)
+2. VSCode 历史项目信息分析工具 - 查看在你电脑上的历史记录吧：[https://bbs.deepin.org/post/244174](https://bbs.deepin.org/post/244174)
+3. 请推荐一款Linux 批处理编写软件(有界面的那种)：[https://bbs.deepin.org/zh/post/248919](https://bbs.deepin.org/zh/post/248919)
+4. 高性能数据库软件 linwin DB server1.1 发布：[https://bbs.deepin.org/post/250672](https://bbs.deepin.org/post/250672)
+5. LinwinSoft DB server1.4 Cluste 高性能分布式集群数据库软件发布：[https://bbs.deepin.org/post/251546](https://bbs.deepin.org/post/251546)
+6. 思科模拟器（网工的同学看过来）：[https://bbs.deepin.org/post/250686](https://bbs.deepin.org/post/250686)
+7. 微信开发者工具 Linux 社区版：[deepin论坛](https://bbs.deepin.org/post/261258) [GitHub仓库](https://github.com/msojocs/wechat-web-devtools-linux)
+8. Qucs-S电路仿真软件 中文版：[https://bbs.deepin.org/post/267184](https://bbs.deepin.org/post/267184)
+9. Tiny RDM 一个更现代化的Redis桌面管理客户端：[https://bbs.deepin.org.cn/post/267810](https://bbs.deepin.org.cn/post/267810)
+10. WingHexExplorer2 v2.0.0 正式版发布：[https://bbs.deepin.org/post/282766](https://bbs.deepin.org/post/282766)
 
 ##### 4.1.4.4 开发教程
 
@@ -1056,13 +1055,13 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 4. Lama Cleaner 没有分辨率限制的图片修复工具：[https://bbs.deepin.org/zh/post/253760](https://bbs.deepin.org/zh/post/253760)
 5. 图片吸收器 - 快来吸取你想顺手保存的图片吧：[https://bbs.deepin.org/post/244175](https://bbs.deepin.org/post/244175)
 6. （开源）强大的图像处理软件，强烈推荐！！！：[https://bbs.deepin.org/post/243829](https://bbs.deepin.org/post/243829)
-7. 羽云 GIF 编辑器 正式上架应用商店：[https://bbs.deepin.org/post/245929](https://bbs.deepin.org/post/245929)
-8. 应用探索 | Shotwell：轻量级原生照片管理及编辑工具：[https://bbs.deepin.org/post/260626](https://bbs.deepin.org/post/260626)
-9. 图标编辑器：Greenfish Icon Editor Pro：[https://bbs.deepin.org/zh/post/261684](https://bbs.deepin.org/zh/post/261684)
-10. 超好用的AI图片一键超分辨率工具：Upscayl：[https://bbs.deepin.org/post/263751](https://bbs.deepin.org/post/263751)
-11. Upscayl 最新中文版下载：[https://bbs.deepin.org/post/263881](https://bbs.deepin.org/post/263881)
-12. XnViewMP 中文版下载：[https://bbs.deepin.org/post/264155](https://bbs.deepin.org/post/264155)
-13. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
+7. 应用探索 | Shotwell：轻量级原生照片管理及编辑工具：[https://bbs.deepin.org/post/260626](https://bbs.deepin.org/post/260626)
+8. 图标编辑器：Greenfish Icon Editor Pro：[https://bbs.deepin.org/zh/post/261684](https://bbs.deepin.org/zh/post/261684)
+9. 超好用的AI图片一键超分辨率工具：Upscayl：[https://bbs.deepin.org/post/263751](https://bbs.deepin.org/post/263751)
+10. Upscayl 最新中文版下载：[https://bbs.deepin.org/post/263881](https://bbs.deepin.org/post/263881)
+11. XnViewMP 中文版下载：[https://bbs.deepin.org/post/264155](https://bbs.deepin.org/post/264155)
+12. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
+13. 羽云 GIF 编辑器2正式版1.0.1发布：[https://bbs.deepin.org/post/280463]（https://bbs.deepin.org/post/280463）
 
 ##### 4.1.9.5 教程及问题解决
 
