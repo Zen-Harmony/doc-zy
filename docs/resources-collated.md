@@ -1372,7 +1372,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ### 6.1 其他系统的资源
 
-> Debian Linux 尽管其他的 Linux 发行版 有所不同，它们的 Wiki 仍有值得学习的知识。[Debian Wiki](https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5)  [ArchWiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)  [openSUSE Wiki](https://zh.opensuse.org/%E9%A6%96%E9%A1%B5)
+> [Debian Linux](https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5)尽管其他的 Linux 发行版 有所不同，它们的 Wiki 仍有值得学习的知识。 [ArchWiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)  [openSUSE Wiki](https://zh.opensuse.org/%E9%A6%96%E9%A1%B5)
 
 1. 在其他发行版使用Deepin-Wine的终级方案：[https://zhuanlan.zhihu.com/p/379196410](https://zhuanlan.zhihu.com/p/379196410)
 2. 嫁接Deepin到一个兼容你设备的Linux系统：[https://bbs.deepin.org/zh/post/206117](https://bbs.deepin.org/zh/post/206117)
