@@ -1065,7 +1065,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 10. Upscayl 最新中文版下载：[https://bbs.deepin.org/post/263881](https://bbs.deepin.org/post/263881)
 11. XnViewMP 中文版下载：[https://bbs.deepin.org/post/264155](https://bbs.deepin.org/post/264155)
 12. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
-13. 羽云 GIF 编辑器2正式版1.0.1发布：[https://bbs.deepin.org/post/280463]（https://bbs.deepin.org/post/280463）
+13. 羽云 GIF 编辑器2正式版1.0.1发布：[https://bbs.deepin.org/post/280463](https://bbs.deepin.org/post/280463)
 
 ##### 4.1.9.5 教程及问题解决
 
@@ -1075,6 +1075,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 ##### 4.1.9.6 图床
 
 1. 跨平台图床管理器-up2b：[https://bbs.deepin.org/post/266756](https://bbs.deepin.org/post/266756)
+2. CloudFlare 图床/文件床：[https://github.com/MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
 #### 4.1.10 解压刻录
 
