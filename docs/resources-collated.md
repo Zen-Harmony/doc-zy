@@ -93,8 +93,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 > Ubuntu WSL等 现可从 Microsoft Store 获取，以deepin WSL为例，Ubuntu WSL方法一致。
 
 1. deepin-rootfs：[https://github.com/deepin-community/deepin-rootfs](https://github.com/deepin-community/deepin-rootfs)
-2. wsl2安装deepinV23 preview：[https://bbs.deepin.org/zh/post/241212](https://bbs.deepin.org/zh/post/241212)
-3. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
+2. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
 
 #### 2.1.7 其他安装方式
 
