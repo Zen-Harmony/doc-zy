@@ -88,12 +88,13 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 7. 实现linux系统在VHD、Vdi虚拟磁盘中运行在实体机里：[https://bbs.deepin.org/zh/post/254673](https://bbs.deepin.org/zh/post/254673)
 8. 把Deepin塞进U盘，即插即用，小白都懂的Linux To Go教程：[https://www.bilibili.com/video/BV1AT411M79x/](https://www.bilibili.com/video/BV1AT411M79x/)
 
-#### 2.1.6 WSL 安装 Linux
+#### 2.1.6 WSL Linux
 
-> Ubuntu WSL等 现可从 Microsoft Store 获取，以deepin WSL为例，Ubuntu WSL方法一致。
+> Ubuntu WSL等 现可从 Microsoft Store 获取。
 
-1. deepin-rootfs：[https://github.com/deepin-community/deepin-rootfs](https://github.com/deepin-community/deepin-rootfs)
-2. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
+1. 安装WSL：[https://learn.microsoft.com/zh-cn/windows/wsl/install](https://learn.microsoft.com/zh-cn/windows/wsl/install)
+2. deepin-rootfs：[https://github.com/deepin-community/deepin-rootfs](https://github.com/deepin-community/deepin-rootfs)
+3. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
 
 #### 2.1.7 其他安装方式
 
