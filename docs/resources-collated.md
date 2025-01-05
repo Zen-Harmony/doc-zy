@@ -1274,90 +1274,106 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ### 4.3 软件开发
 
+#### 4.3.1 DTK 相关
+
 1. UOS/Deepin 中配置 DTK 开发环境：[https://bbs.deepin.org/zh/post/209405](https://bbs.deepin.org/zh/post/209405)
 2. DTK程序简单的开发教程（简易的浏览器）：[https://bbs.deepin.org/zh/post/207250](https://bbs.deepin.org/zh/post/207250)
 3. 一个Dtk程序开发的实例，自己做一个deepin风格的程序：[https://bbs.deepin.org/zh/post/198578](https://bbs.deepin.org/zh/post/198578)
-4. linux下如何讲qt程序打包为deb包的过程，从0到1，适合新手：[https://bbs.deepin.org/post/233814](https://bbs.deepin.org/post/233814)
-5. C++太繁琐？快来一起给QtQuick（QML）适配dtk风格的控件！：[https://bbs.deepin.org/zh/post/222435](https://bbs.deepin.org/zh/post/222435)
-6. 参考当年王勇做的DTK列表搞了个新的：[https://bbs.deepin.org/zh/post/229550](https://bbs.deepin.org/zh/post/229550)
-7. 使用 apt-build 从 deepin 仓库源码构建安装软件包：[https://bbs.deepin.org/zh/post/223853](https://bbs.deepin.org/zh/post/223853)
-8. Oracle %ROWTYPE 在MySQL中的移植：[https://bbs.deepin.org/zh/post/224122](https://bbs.deepin.org/zh/post/224122)
-9. Deepin Learning on Deepin —— 基础环境架设：[https://bbs.deepin.org/zh/post/225041](https://bbs.deepin.org/zh/post/225041)
-10. pyside6开发环境搭建——基于pycharm：[https://bbs.deepin.org/zh/post/226994](https://bbs.deepin.org/zh/post/226994)
-11. 从源码编译安装GnuCash-4.8：[https://bbs.deepin.org/zh/post/228255](https://bbs.deepin.org/zh/post/228255)
-12. 最近在跟QtQuick教程，想搞Qt的一起来耍呀：[https://bbs.deepin.org/zh/post/232135](https://bbs.deepin.org/zh/post/232135)
-13. deepin，做一个开发者友好的发行版：[https://bbs.deepin.org/zh/post/234593](https://bbs.deepin.org/zh/post/234593)
-14. 以root身份发送通知(如使用notify Send)到现在运行的用户上：[https://bbs.deepin.org/post/241249](https://bbs.deepin.org/post/241249)
-15. 使用go语言重新实现一款软件包管理器：[https://bbs.deepin.org/zh/post/233959](https://bbs.deepin.org/zh/post/233959)
-16. 关于preinst等维护者脚本被唤起时可能会获得的参数/状态提示总结：[https://bbs.deepin.org/zh/post/237895](https://bbs.deepin.org/zh/post/237895)
-17. 基于.net 跨平台开源框架 -Avalonia 分享：[https://bbs.deepin.org/post/243283](https://bbs.deepin.org/post/243283)
-18. QDeb822——用于解析和生成deb822格式数据的Qt库：[https://bbs.deepin.org/post/244190](https://bbs.deepin.org/post/244190)
-19. 国产服务器软件LinWinHttp重大更新 V1.3社区版发布，更新了什么？：[https://bbs.deepin.org/post/244987](https://bbs.deepin.org/post/244987)（[GitHub](https://github.com/LinWin-Cloud/linwin-http-server)）
-20. 造轮子之-http并发测试工具，deepin可用：[https://bbs.deepin.org/post/245514](https://bbs.deepin.org/post/245514)
-21. 【小知识】如何获取DBus的连接名、接口名：[https://bbs.deepin.org/post/245825](https://bbs.deepin.org/post/245825)
-22. 系统仓库中 Qt Creator 依赖关系不满足无法安装：[https://bbs.deepin.org/post/245634](https://bbs.deepin.org/post/245634)
-23. 安利一个编程专用文本编辑器 helix：[https://bbs.deepin.org/post/246371](https://bbs.deepin.org/post/246371)
-24. 【专题-Python教程】1.2编译型语言和解释型语言的区别：[https://bbs.deepin.org/post/245906](https://bbs.deepin.org/post/245906)   [语雀上阅读](https://www.yuque.com/allen-d/pycr)
-25. Qt-cmake项目：opencascade的源码库OCCT，其链接配置的实现过程：[https://bbs.deepin.org/post/246527](https://bbs.deepin.org/post/246527)
-26. QtQuick-DTK-Style部分重构，通过python轻松使用DTK味儿的控件！：[https://bbs.deepin.org/post/246727](https://bbs.deepin.org/post/246727)
-27. 有能力的都推荐试一试这个网页打包的程序：[https://bbs.deepin.org/post/247533](https://bbs.deepin.org/post/247533)
-28. 分享一个开发者工具箱——He3：[https://bbs.deepin.org/post/248937](https://bbs.deepin.org/post/248937)
-29. Nixery: 轻而易举地用 docker 部署 nixpkgs 中的软件：[https://bbs.deepin.org/post/253138](https://bbs.deepin.org/post/253138)
-30. deepin安装最新TensorFlow GPU版本的经验：[https://bbs.deepin.org/zh/post/254936](https://bbs.deepin.org/zh/post/254936)
-31. 邮箱中的Qt线程设计：[https://bbs.deepin.org/post/255631](https://bbs.deepin.org/post/255631)
-32. Qt 多线程的使用：[https://bbs.deepin.org/post/255659](https://bbs.deepin.org/post/255659)
-33. 【翻译】Wayland（主页）：[https://bbs.deepin.org/post/256834](https://bbs.deepin.org/post/256834)
-34. 用脚本快速配置开发环境：[https://bbs.deepin.org/post/256661](https://bbs.deepin.org/post/256661)  的回复
-35. 记录一次gcc/g++编译升级（13.1.0）：[https://bbs.deepin.org/post/260699](https://bbs.deepin.org/post/260699)
-36. AppImage打包流程：[https://bbs.deepin.org/zh/post/260891](https://bbs.deepin.org/zh/post/260891)
-37. 二进制文件制作封装成 deb 软件包：[https://bbs.deepin.org/post/261204](https://bbs.deepin.org/post/261204)
-38. 科普： make makefile cmake nmake 都是些什么：[https://bbs.deepin.org/post/260957](https://bbs.deepin.org/post/260957)
-39. Qt中的OpenGL技术分享：[https://bbs.deepin.org/post/263541](https://bbs.deepin.org/post/263541)
-40. gettext 翻译介绍和简单使用：[https://bbs.deepin.org/post/263709](https://bbs.deepin.org/post/263709)
-41. 本地利用docker镜像实现arm64、longarch64包构建环境搭建：[https://bbs.deepin.org/post/263728](https://bbs.deepin.org/post/263728)
-42. Shenzhen Build Team出道!v20也有KDE Framework v5.102咯~：[https://bbs.deepin.org/post/263705](https://bbs.deepin.org/post/263705)
-43. java 环境配置指南 - 图文：[https://bbs.deepin.org/post/264365](https://bbs.deepin.org/post/264365)
-44. SZBT的Python3.11：[https://bbs.deepin.org/post/264468](https://bbs.deepin.org/post/264468)
-45. 如何结合"deepin-shared-libs"和"ShiroDEB"进行编译(OBS-Studio)  ：[https://bbs.deepin.org/post/264980](https://bbs.deepin.org/post/264980)
-46. 记录一次mysql数据库迁移：[https://bbs.deepin.org/post/265125](https://bbs.deepin.org/post/265125)
-47. CMake基础学习：[https://bbs.deepin.org/post/265422](https://bbs.deepin.org/post/265422)
-48. 在这个时代，以Spark构建为名讲一点360天前与 CMake 的故事：[https://bbs.deepin.org/post/265627](https://bbs.deepin.org/post/265627)
-49. 基于deepin的shell编程： [上](https://bbs.deepin.org.cn/post/266587)    [cut列提取-shell逻辑控制](https://bbs.deepin.org.cn/post/266589)    [循环与处理用户输入](https://bbs.deepin.org.cn/post/266590)    [函数与图形化编程](https://bbs.deepin.org.cn/post/266591)
-50. 使用deepin-shared-libs的Qt515快速编译Qt应用--cmake篇：[https://bbs.deepin.org.cn/post/266707](https://bbs.deepin.org.cn/post/266707)
-51. 搭建EDK2开发环境：[https://bbs.deepin.org/post/266713](https://bbs.deepin.org/post/266713)
-52. 解决 sceneBuilder 安装或卸载时子进程返回错误状态3：[https://bbs.deepin.org.cn/post/266725](https://bbs.deepin.org.cn/post/266725)
-53. 使用pyenv管理和安装各种python版本：[https://bbs.deepin.org.cn/post/267350](https://bbs.deepin.org.cn/post/267350)
-54. 速通deepin系统cuda+pytorch安装！V20.9亲测有效，23应该也能用：[https://bbs.deepin.org.cn/post/267258](https://bbs.deepin.org.cn/post/267258)
-55. 分享V23Beta2安装Mariadb (mysql)11.2.2最新稳定版数据库操作心得：[https://bbs.deepin.org/post/267383](https://bbs.deepin.org/post/267383)
-56. 水谈基于 streamlit 可视化的软件源分析工具：[https://bbs.deepin.org/post/266944](https://bbs.deepin.org/post/266944)
-57. Linux下的Qt程序发布流程：[https://bbs.deepin.org.cn/post/268385](https://bbs.deepin.org.cn/post/268385)
-58. Spring Boot 应用开发：[https://bbs.deepin.org.cn/post/268483](https://bbs.deepin.org.cn/post/268483)
-59. Docker swarm 集群 - draw 图 - 随手记：[https://bbs.deepin.org/post/270709](https://bbs.deepin.org/post/270709)
-60. V23系统中Pytorch安装与环境配置：[https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502](https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502)
-61. 打包deb-自动导入docker镜像-自动创建容器：[https://bbs.deepin.org/post/272710](https://bbs.deepin.org/post/272710)
-62. 【技术分享】如何在 Unity URP 中实现遮挡半透明效果：[https://bbs.deepin.org/post/272178](https://bbs.deepin.org/post/272178)
+4. C++太繁琐？快来一起给QtQuick（QML）适配dtk风格的控件！：[https://bbs.deepin.org/zh/post/222435](https://bbs.deepin.org/zh/post/222435)
+5. 参考当年王勇做的DTK列表搞了个新的：[https://bbs.deepin.org/zh/post/229550](https://bbs.deepin.org/zh/post/229550)
+6. QtQuick-DTK-Style部分重构，通过python轻松使用DTK味儿的控件！：[https://bbs.deepin.org/post/246727](https://bbs.deepin.org/post/246727)
 
-#### 4.3.1 Unilang 自研编程语言
+#### 4.3.2 构建和打包
+
+1. linux下如何讲qt程序打包为deb包的过程，从0到1，适合新手：[https://bbs.deepin.org/post/233814](https://bbs.deepin.org/post/233814)
+2. 使用 apt-build 从 deepin 仓库源码构建安装软件包：[https://bbs.deepin.org/zh/post/223853](https://bbs.deepin.org/zh/post/223853)
+3. 从源码编译安装GnuCash-4.8：[https://bbs.deepin.org/zh/post/228255](https://bbs.deepin.org/zh/post/228255)
+4. 有能力的都推荐试一试这个网页打包的程序：[https://bbs.deepin.org/post/247533](https://bbs.deepin.org/post/247533)
+5. AppImage打包流程：[https://bbs.deepin.org/zh/post/260891](https://bbs.deepin.org/zh/post/260891)
+6. 二进制文件制作封装成 deb 软件包：[https://bbs.deepin.org/post/261204](https://bbs.deepin.org/post/261204)
+7. 本地利用docker镜像实现arm64、longarch64包构建环境搭建：[https://bbs.deepin.org/post/263728](https://bbs.deepin.org/post/263728)
+8. 在这个时代，以Spark构建为名讲一点360天前与 CMake 的故事：[https://bbs.deepin.org/post/265627](https://bbs.deepin.org/post/265627)
+9. 打包deb-自动导入docker镜像-自动创建容器：[https://bbs.deepin.org/post/272710](https://bbs.deepin.org/post/272710)
+10. 解包/打包deb教程 一周年重置版：[https://bbs.deepin.org/zh/post/227931](https://bbs.deepin.org/zh/post/227931)
+11. 简单的deb一键打包脚本：[https://bbs.deepin.org/post/245399](https://bbs.deepin.org/post/245399)
+12. deb打包教程：[https://bbs.deepin.org/zh/post/194188](https://bbs.deepin.org/zh/post/194188)
+13. 超级简单打包软件分享：[https://bbs.deepin.org/zh/post/194219](https://bbs.deepin.org/zh/post/194219)
+14. 这个打包deb的操作特简单，uos/Deepin打包操作方式，供大家参考：[https://bbs.deepin.org/zh/post/225931](https://bbs.deepin.org/zh/post/225931)
+15. 一点点关于ShiroDEB的介绍：[https://bbs.deepin.org/post/264509](https://bbs.deepin.org/post/264509)
+16. 如何结合"deepin-shared-libs"和"ShiroDEB"进行编译(OBS-Studio)：[https://bbs.deepin.org/post/264980](https://bbs.deepin.org/post/264980)
+
+#### 4.3.3 Qt
+
+1. 最近在跟QtQuick教程，想搞Qt的一起来耍呀：[https://bbs.deepin.org/zh/post/232135](https://bbs.deepin.org/zh/post/232135)
+2. QDeb822——用于解析和生成deb822格式数据的Qt库：[https://bbs.deepin.org/post/244190](https://bbs.deepin.org/post/244190)
+3. 系统仓库中 Qt Creator 依赖关系不满足无法安装：[https://bbs.deepin.org/post/245634](https://bbs.deepin.org/post/245634)
+4. Qt-cmake项目：opencascade的源码库OCCT，其链接配置的实现过程：[https://bbs.deepin.org/post/246527](https://bbs.deepin.org/post/246527)
+5. 邮箱中的Qt线程设计：[https://bbs.deepin.org/post/255631](https://bbs.deepin.org/post/255631)
+6. Qt 多线程的使用：[https://bbs.deepin.org/post/255659](https://bbs.deepin.org/post/255659)
+7. Qt中的OpenGL技术分享：[https://bbs.deepin.org/post/263541](https://bbs.deepin.org/post/263541)
+8. 使用deepin-shared-libs的Qt515快速编译Qt应用--cmake篇：[https://bbs.deepin.org.cn/post/266707](https://bbs.deepin.org.cn/post/266707)
+9. Linux下的Qt程序发布流程：[https://bbs.deepin.org.cn/post/268385](https://bbs.deepin.org.cn/post/268385)
+
+#### 4.3.4 开发工具
+
+1. 基于.net 跨平台开源框架 -Avalonia 分享：[https://bbs.deepin.org/post/243283](https://bbs.deepin.org/post/243283)
+2. 国产服务器软件LinWinHttp重大更新 V1.3社区版发布，更新了什么？：[https://bbs.deepin.org/post/244987](https://bbs.deepin.org/post/244987)（[GitHub](https://github.com/LinWin-Cloud/linwin-http-server)）
+3. 造轮子之-http并发测试工具，deepin可用：[https://bbs.deepin.org/post/245514](https://bbs.deepin.org/post/245514)
+4. 安利一个编程专用文本编辑器 helix：[https://bbs.deepin.org/post/246371](https://bbs.deepin.org/post/246371)
+5. 分享一个开发者工具箱——He3：[https://bbs.deepin.org/post/248937](https://bbs.deepin.org/post/248937)
+6. gettext 翻译介绍和简单使用：[https://bbs.deepin.org/post/263709](https://bbs.deepin.org/post/263709)
+7. Nixery: 轻而易举地用 docker 部署 nixpkgs 中的软件：[https://bbs.deepin.org/post/253138](https://bbs.deepin.org/post/253138)
+
+#### 4.3.5 环境搭建
+
+1. 用脚本快速配置开发环境：[https://bbs.deepin.org/post/256661](https://bbs.deepin.org/post/256661) 的回复
+2. java 环境配置指南 - 图文：[https://bbs.deepin.org/post/264365](https://bbs.deepin.org/post/264365)
+3. 搭建EDK2开发环境：[https://bbs.deepin.org/post/266713](https://bbs.deepin.org/post/266713)
+4. V23系统中Pytorch安装与环境配置：[https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502](https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502)
+5. Deepin Learning on Deepin —— 基础环境架设：[https://bbs.deepin.org/zh/post/225041](https://bbs.deepin.org/zh/post/225041)
+6. pyside6开发环境搭建——基于pycharm：[https://bbs.deepin.org/zh/post/226994](https://bbs.deepin.org/zh/post/226994)
+
+#### 4.3.6 教程分享
+
+1. 以root身份发送通知(如使用notify Send)到现在运行的用户上：[https://bbs.deepin.org/post/241249](https://bbs.deepin.org/post/241249)
+2. 使用go语言重新实现一款软件包管理器：[https://bbs.deepin.org/zh/post/233959](https://bbs.deepin.org/zh/post/233959)
+3. 【小知识】如何获取DBus的连接名、接口名：[https://bbs.deepin.org/post/245825](https://bbs.deepin.org/post/245825)
+4. 【专题-Python教程】1.2编译型语言和解释型语言的区别：[https://bbs.deepin.org/post/245906](https://bbs.deepin.org/post/245906)   [语雀上阅读](https://www.yuque.com/allen-d/pycr)
+5. deepin安装最新TensorFlow GPU版本的经验：[https://bbs.deepin.org/zh/post/254936](https://bbs.deepin.org/zh/post/254936)
+6. 记录一次gcc/g++编译升级（13.1.0）：[https://bbs.deepin.org/post/260699](https://bbs.deepin.org/post/260699)
+7. 记录一次mysql数据库迁移：[https://bbs.deepin.org/post/265125](https://bbs.deepin.org/post/265125)
+8. CMake基础学习：[https://bbs.deepin.org/post/265422](https://bbs.deepin.org/post/265422)
+9. 基于deepin的shell编程：[上](https://bbs.deepin.org.cn/post/266587)  [cut列提取-shell逻辑控制](https://bbs.deepin.org.cn/post/266589)  [循环与处理用户输入](https://bbs.deepin.org.cn/post/266590)  [函数与图形化编程](https://bbs.deepin.org.cn/post/266591)
+10. 解决 sceneBuilder 安装或卸载时子进程返回错误状态3：[https://bbs.deepin.org.cn/post/266725](https://bbs.deepin.org.cn/post/266725)
+11. 使用pyenv管理和安装各种python版本：[https://bbs.deepin.org.cn/post/267350](https://bbs.deepin.org.cn/post/267350)
+12. 速通deepin系统cuda+pytorch安装！V20.9亲测有效，23应该也能用：[https://bbs.deepin.org.cn/post/267258](https://bbs.deepin.org.cn/post/267258)
+13. 分享V23Beta2安装Mariadb (mysql)11.2.2最新稳定版数据库操作心得：[https://bbs.deepin.org/post/267383](https://bbs.deepin.org/post/267383)
+14. Spring Boot 应用开发：[https://bbs.deepin.org.cn/post/268483](https://bbs.deepin.org.cn/post/268483)
+15. 【技术分享】如何在 Unity URP 中实现遮挡半透明效果：[https://bbs.deepin.org/post/272178](https://bbs.deepin.org/post/272178)
+16. Oracle %ROWTYPE 在MySQL中的移植：[https://bbs.deepin.org/zh/post/224122](https://bbs.deepin.org/zh/post/224122)
+
+#### 4.3.7 Unilang 自研编程语言
 
 1. 生而为创新！我们自研的编程语言Unilang问世！：[https://bbs.deepin.org/post/243253](https://bbs.deepin.org/post/243253)
 2. 元编程语言的诞生丨带你深入浅出解读Unilang！：[https://bbs.deepin.org/post/243383](https://bbs.deepin.org/post/243383)
 3. Unilang 官方仓库：[https://github.com/linuxdeepin/unilang](https://github.com/linuxdeepin/unilang)
 
-#### 4.3.2 deepin Union Code（deepin IDE）
+#### 4.3.8 deepin Union Code（deepin IDE）
 
 1. deepin-unioncode 用户使用手册：[https://bbs.deepin.org/post/261338](https://bbs.deepin.org/post/261338)
 2. deepin-IDE 中的调试技术：[https://bbs.deepin.org/post/262603](https://bbs.deepin.org/post/262603)
 3. 初探deepin-ide的Ai助手功能：[https://bbs.deepin.org/post/266192](https://bbs.deepin.org/post/266192)
 4. 用deepin-unioncode编译运行deepin自己应用程序：[https://bbs.deepin.org/post/266211](https://bbs.deepin.org/post/266211)
 
-#### 4.3.3 deb 相关
+#### 4.3.9 其他
 
-1. 解包/打包deb教程 一周年重置版：[https://bbs.deepin.org/zh/post/227931](https://bbs.deepin.org/zh/post/227931)
-2. 简单的deb一键打包脚本：[https://bbs.deepin.org/post/245399](https://bbs.deepin.org/post/245399)
-3. deb打包教程：[https://bbs.deepin.org/zh/post/194188](https://bbs.deepin.org/zh/post/194188)
-4. 超级简单打包软件分享：[https://bbs.deepin.org/zh/post/194219](https://bbs.deepin.org/zh/post/194219)
-5. 这个打包deb的操作特简单，uos/Deepin打包操作方式，供大家参考：[https://bbs.deepin.org/zh/post/225931](https://bbs.deepin.org/zh/post/225931)
-6. 一点点关于ShiroDEB的介绍：[https://bbs.deepin.org/post/264509](https://bbs.deepin.org/post/264509)
+1. 关于preinst等维护者脚本被唤起时可能会获得的参数/状态提示总结：[https://bbs.deepin.org/zh/post/237895](https://bbs.deepin.org/zh/post/237895)
+2. 【翻译】Wayland（主页）：[https://bbs.deepin.org/post/256834](https://bbs.deepin.org/post/256834)
+3. 科普： make makefile cmake nmake 都是些什么：[https://bbs.deepin.org/post/260957](https://bbs.deepin.org/post/260957)
+4. Shenzhen Build Team出道!v20也有KDE Framework v5.102咯~：[https://bbs.deepin.org/post/263705](https://bbs.deepin.org/post/263705)
+5. SZBT的Python3.11：[https://bbs.deepin.org/post/264468](https://bbs.deepin.org/post/264468)
+6. Docker swarm 集群 - draw 图 - 随手记：[https://bbs.deepin.org/post/270709](https://bbs.deepin.org/post/270709)
+
 
 ## 五、社区与论坛
 
