@@ -373,6 +373,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 11. 单系统所有文件加锁：[https://bbs.deepin.org/post/266136](https://bbs.deepin.org/post/266136)
 12. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org.cn/post/267196](https://bbs.deepin.org.cn/post/267196)
 13. 关于btrfs子卷的用法：[https://bbs.deepin.org/post/277818](https://bbs.deepin.org/post/277818)
+14. Linux 入门教程（六）：文件权限、链接和输入输出重定向：[https://bbs.deepin.org/post/283109](https://bbs.deepin.org/post/283109)
 
 #### 2.4.7 网络和共享
 
