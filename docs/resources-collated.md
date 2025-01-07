@@ -1419,8 +1419,9 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 1. 搭建hexo博客和安装npm：[https://blog.linux-qitong.top/posts/1b32c63](https://blog.linux-qitong.top/posts/1b32c63)
 2. GitHub Actions自动部署hexo博客：[https://blog.linux-qitong.top/posts/fd2f879b](https://blog.linux-qitong.top/posts/fd2f879b)
 3. 开源静态文档网站生成工具 teedoc：[https://bbs.deepin.org/zh/post/255008](https://bbs.deepin.org/zh/post/255008)
-4. Docker下搭建轻量化私密导航站Flare：[https://bbs.deepin.org/post/270383](https://bbs.deepin.org/post/270383)
-5. gocron定时任务：[https://bbs.deepin.org/zh/post/239475](https://bbs.deepin.org/zh/post/239475)
+4. NotionNext：[https://github.com/tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+5. Docker下搭建轻量化私密导航站Flare：[https://bbs.deepin.org/post/270383](https://bbs.deepin.org/post/270383)
+6. gocron定时任务：[https://bbs.deepin.org/zh/post/239475](https://bbs.deepin.org/zh/post/239475)
 
 #### 6.2.2 移动设备
 
