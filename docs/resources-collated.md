@@ -1275,8 +1275,6 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.2.4.1 Docker
 
-> deepin 的 Docker 镜像（2023-05更新）：[V20](https://hub.docker.com/r/linuxdeepin/apricot)  [V23](https://hub.docker.com/r/linuxdeepin/beige)；使用`docker pull linuxdeepin/apricot`拉取 V20，`docer pull linuxdeepin/beige` 拉取 V23。
-
 1. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
 
 ##### 4.2.4.2 Distrobox
