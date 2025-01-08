@@ -1215,56 +1215,77 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 > [Wine](https://www.winehq.org/) 用于在 macOS，Linux，BSD 等系统上运行 Windows 应用。应用商店中的 Wine 应用使用了 deepin-wine（deepin 基于 Wine 进行了优化的版本）。
 
+##### 4.2.2.1 Wine 运行器
+
 1. **Wine 运行器**：[论坛页面（3.7.0）](https://bbs.deepin.org.cn/post/267872)   [Gitee](https://gitee.com/gfdgd-xi/deep-wine-runner)
-2. Deepin-Wine适配知识库：[https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0](https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0)
-3. deepin-wine5 应用打包器：[https://bbs.deepin.org/zh/post/214306](https://bbs.deepin.org/zh/post/214306)
-4. wine自动打包程序：[https://bbs.deepin.org/zh/post/221842](https://bbs.deepin.org/zh/post/221842)
-5. Deepin用wine安装的Windows软件目录在哪：[https://bbs.deepin.org/zh/post/227183](https://bbs.deepin.org/zh/post/227183)
-6. wine程序添加快捷键：[https://bbs.deepin.org/zh/post/219312](https://bbs.deepin.org/zh/post/219312)
-7. 安装wine-gecko 和wine-mono的步骤：[https://bbs.deepin.org/zh/post/208082](https://bbs.deepin.org/zh/post/208082)
-8. CrossOver 17 测试版，解除时间限制：[https://bbs.deepin.org/zh/post/231306](https://bbs.deepin.org/zh/post/231306)
-9. wine工具盘点——linux上运行windows软件必备神器：[https://bbs.deepin.org/zh/post/237398](https://bbs.deepin.org/zh/post/237398)
-10. Deepin Wine6的run_v4脚本探索——启动方式：[https://bbs.deepin.org/zh/post/237953](https://bbs.deepin.org/zh/post/237953)
-11. spark-dwine-helper文档：[https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/](https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/)
-12. 安装WineHQ：[https://bbs.deepin.org/zh/post/238337](https://bbs.deepin.org/zh/post/238337)
-13. WineHQ使用时出现中文乱码：[https://bbs.deepin.org/zh/post/238339](https://bbs.deepin.org/zh/post/238339)
-14. wine使用教程4-用wine运行便携式exe程序（绿色软件）的方法：[https://bbs.deepin.org/zh/post/239212](https://bbs.deepin.org/zh/post/239212)
-15. wine版应用双开/多开的方法：[https://bbs.deepin.org/post/243222](https://bbs.deepin.org/post/243222)
-16. Wine运行器和Wine打包器傻瓜式使用教程（小白专用）：[https://bbs.deepin.org/post/246837](https://bbs.deepin.org/post/246837)
-17. 使用wine运行器打包无安装包的软件：[https://bbs.deepin.org/post/247720](https://bbs.deepin.org/post/247720)
-18. wine axmath+office安装教程：[https://bbs.deepin.org/post/247888](https://bbs.deepin.org/post/247888)
-19. 解决wine安装软件缺少dll的问题---Winetricks：[https://blog.csdn.net/zzqhost/article/details/7231563](https://blog.csdn.net/zzqhost/article/details/7231563)
-20. 使用flatpak安装wine8并完美运行最新版钉钉：[https://bbs.deepin.org/post/253522](https://bbs.deepin.org/post/253522)
-21. i386运行库 For Deepin23（让Deepin23喝上Wine8.4）：[https://bbs.deepin.org/post/253902](https://bbs.deepin.org/post/253902)
-22. 使用Qemu User运行Wine（支持全架构）：[https://bbs.deepin.org/post/255873](https://bbs.deepin.org/post/255873)
-23. 修改系统商店内的wine微信字体样式：[https://bbs.deepin.org/post/261603](https://bbs.deepin.org/post/261603)
-24. 记录安装wine运行器以及虚拟机：[https://bbs.deepin.org/post/264976](https://bbs.deepin.org/post/264976)
+2. Wine运行器和Wine打包器傻瓜式使用教程（小白专用）：[https://bbs.deepin.org/post/246837](https://bbs.deepin.org/post/246837)
+3. 使用wine运行器打包无安装包的软件：[https://bbs.deepin.org/post/247720](https://bbs.deepin.org/post/247720)
+4. 记录安装wine运行器以及虚拟机：[https://bbs.deepin.org/post/264976](https://bbs.deepin.org/post/264976)
 
-#### 4.2.3 虚拟机和容器
+##### 4.2.2.2 其他 Wine 工具
 
-> deepin 的 Docker 镜像（2023-05更新）：[V20](https://hub.docker.com/r/linuxdeepin/apricot)  [V23](https://hub.docker.com/r/linuxdeepin/beige)；使用`docker pull linuxdeepin/apricot`拉取 V20，`docer pull linuxdeepin/beige` 拉取 V23。
+1. wine自动打包程序：[https://bbs.deepin.org/zh/post/221842](https://bbs.deepin.org/zh/post/221842)
+2. CrossOver 17 测试版，解除时间限制：[https://bbs.deepin.org/zh/post/231306](https://bbs.deepin.org/zh/post/231306)
+3. wine工具盘点——linux上运行windows软件必备神器：[https://bbs.deepin.org/zh/post/237398](https://bbs.deepin.org/zh/post/237398)
+4. i386运行库 For Deepin23（让Deepin23喝上Wine8.4）：[https://bbs.deepin.org/post/253902](https://bbs.deepin.org/post/253902)
+
+##### 4.2.2.3 Wine 教程
+
+1. Deepin-Wine适配知识库：[https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0](https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0)
+2. Deepin用wine安装的Windows软件目录在哪：[https://bbs.deepin.org/zh/post/227183](https://bbs.deepin.org/zh/post/227183)
+3. wine程序添加快捷键：[https://bbs.deepin.org/zh/post/219312](https://bbs.deepin.org/zh/post/219312)
+4. 安装wine-gecko 和wine-mono的步骤：[https://bbs.deepin.org/zh/post/208082](https://bbs.deepin.org/zh/post/208082)
+5. Deepin Wine6的run_v4脚本探索——启动方式：[https://bbs.deepin.org/zh/post/237953](https://bbs.deepin.org/zh/post/237953)
+6. spark-dwine-helper文档：[https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/](https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/)
+7. 安装WineHQ：[https://bbs.deepin.org/zh/post/238337](https://bbs.deepin.org/zh/post/238337)
+8. WineHQ使用时出现中文乱码：[https://bbs.deepin.org/zh/post/238339](https://bbs.deepin.org/zh/post/238339)
+9. wine使用教程4-用wine运行便携式exe程序（绿色软件）的方法：[https://bbs.deepin.org/zh/post/239212](https://bbs.deepin.org/zh/post/239212)
+10. wine版应用双开/多开的方法：[https://bbs.deepin.org/post/243222](https://bbs.deepin.org/post/243222)
+11. wine axmath+office安装教程：[https://bbs.deepin.org/post/247888](https://bbs.deepin.org/post/247888)
+12. 解决wine安装软件缺少dll的问题---Winetricks：[https://blog.csdn.net/zzqhost/article/details/7231563](https://blog.csdn.net/zzqhost/article/details/7231563)
+13. 使用flatpak安装wine8并完美运行最新版钉钉：[https://bbs.deepin.org/post/253522](https://bbs.deepin.org/post/253522)
+14. 使用Qemu User运行Wine（支持全架构）：[https://bbs.deepin.org/post/255873](https://bbs.deepin.org/post/255873)
+15. 修改系统商店内的wine微信字体样式：[https://bbs.deepin.org/post/261603](https://bbs.deepin.org/post/261603)
+
+#### 4.2.3 虚拟机
+
+##### 4.2.3.1 VMware Workstation
 
 1. VMware 虚拟机3种安装方法： [https://bbs.deepin.org/zh/post/221632](https://bbs.deepin.org/zh/post/221632)
 2. vmware workstation 需要编译内核解决方法：[https://bbs.deepin.org/zh/post/253538](https://bbs.deepin.org/zh/post/253538)
-3. 开箱即用的虚拟机软件——GNOME Boxes，应用商店可下载！：[https://bbs.deepin.org/zh/post/220484](https://bbs.deepin.org/zh/post/220484)
-4. 在kde或者gnome实现类 "linux subsystem for windows"体验：[https://bbs.deepin.org/zh/post/228448](https://bbs.deepin.org/zh/post/228448)  (可能不适用于deepin)
-5. 一种解决启停docker容器导致VMware虚拟机断网的办法：[https://bbs.deepin.org/zh/post/239576](https://bbs.deepin.org/zh/post/239576)
-6. vmware-workstation安装之后启动报错Before you can run VMware...：[https://bbs.deepin.org/zh/post/240759](https://bbs.deepin.org/zh/post/240759)
-7. 【小知识】虚拟机（Virtual Machine）到底是什么：[https://bbs.deepin.org/zh/post/256348](https://bbs.deepin.org/zh/post/256348)
-8. 【小知识】上次的参考答案（虚拟机/VM）：[https://bbs.deepin.org/zh/post/256413](https://bbs.deepin.org/zh/post/256413)
-9. 应用探索 | 虚拟化管理软件Oracle VM VirtualBox使用教程：[https://bbs.deepin.org/post/260033](https://bbs.deepin.org/post/260033)
-10. Linux通过run法安装和使用VirtualBox：[https://tutorial.zen-harmony.top/posts/linux-install-virtualbox](https://tutorial.zen-harmony.top/posts/linux-install-virtualbox)
-11. virt-manager 最新虚拟机管理工具 V23 修正版下载：[https://bbs.deepin.org/post/264356](https://bbs.deepin.org/post/264356)
-12. 使用容器扩展生态（支持图形软件甚至桌面环境）：[https://bbs.deepin.org/post/248123](https://bbs.deepin.org/post/248123)
-13. Distrobox 在终端里使用您最熟悉喜爱的 Linux 发行版：[https://bbs.deepin.org/post/246566](https://bbs.deepin.org/post/246566)
-14. 使用 Distrobox 在 v23 轻松安装你想要的软件包：[https://bbs.deepin.org/post/257787](https://bbs.deepin.org/post/257787)
-15. Podman 及容器技术介绍：[https://bbs.deepin.org/zh/post/257006](https://bbs.deepin.org/zh/post/257006)
-16. V23尝试使用distrobox运行软件：[https://bbs.deepin.org/zh/post/256901](https://bbs.deepin.org/zh/post/256901)
-17. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
-18. deepinV23系统下安装win10系统及移动硬盘/打印机连接：[https://bbs.deepin.org/post/261048](https://bbs.deepin.org/post/261048)
-19. QEMU 9.0及以上版本安装方法：[https://bbs.deepin.org/post/274211](https://bbs.deepin.org/post/274211)
+3. vmware-workstation安装之后启动报错Before you can run VMware...：[https://bbs.deepin.org/zh/post/240759](https://bbs.deepin.org/zh/post/240759)
+4. 一种解决启停docker容器导致VMware虚拟机断网的办法：[https://bbs.deepin.org/zh/post/239576](https://bbs.deepin.org/zh/post/239576)
 
-##### 4.2.3.1 ACE 琥珀兼容环境（原书虫兼容环境）
+##### 4.2.3.2 VirtualBox
+
+1. 应用探索 | 虚拟化管理软件Oracle VM VirtualBox使用教程：[https://bbs.deepin.org/post/260033](https://bbs.deepin.org/post/260033)
+2. Linux通过run法安装和使用VirtualBox：[https://tutorial.zen-harmony.top/posts/linux-install-virtualbox](https://tutorial.zen-harmony.top/posts/linux-install-virtualbox)
+
+##### 4.2.3.3 其他
+
+1. 开箱即用的虚拟机软件——GNOME Boxes，应用商店可下载！：[https://bbs.deepin.org/zh/post/220484](https://bbs.deepin.org/zh/post/220484)
+2. 在kde或者gnome实现类 "linux subsystem for windows"体验：[https://bbs.deepin.org/zh/post/228448](https://bbs.deepin.org/zh/post/228448)  (可能不适用于deepin)
+3. 【小知识】虚拟机（Virtual Machine）到底是什么：[https://bbs.deepin.org/zh/post/256348](https://bbs.deepin.org/zh/post/256348)
+4. 【小知识】上次的参考答案（虚拟机/VM）：[https://bbs.deepin.org/zh/post/256413](https://bbs.deepin.org/zh/post/256413)
+5. virt-manager 最新虚拟机管理工具 V23 修正版下载：[https://bbs.deepin.org/post/264356](https://bbs.deepin.org/post/264356)
+6. deepinV23系统下安装win10系统及移动硬盘/打印机连接：[https://bbs.deepin.org/post/261048](https://bbs.deepin.org/post/261048)
+7. QEMU 9.0及以上版本安装方法：[https://bbs.deepin.org/post/274211](https://bbs.deepin.org/post/274211)
+
+#### 4.2.4 容器
+
+##### 4.2.4.1 Docker
+
+> deepin 的 Docker 镜像（2023-05更新）：[V20](https://hub.docker.com/r/linuxdeepin/apricot)  [V23](https://hub.docker.com/r/linuxdeepin/beige)；使用`docker pull linuxdeepin/apricot`拉取 V20，`docer pull linuxdeepin/beige` 拉取 V23。
+
+1. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
+
+##### 4.2.4.2 Distrobox
+
+1. Distrobox 在终端里使用您最熟悉喜爱的 Linux 发行版：[https://bbs.deepin.org/post/246566](https://bbs.deepin.org/post/246566)
+2. 使用 Distrobox 在 v23 轻松安装你想要的软件包：[https://bbs.deepin.org/post/257787](https://bbs.deepin.org/post/257787)
+3. V23尝试使用distrobox运行软件：[https://bbs.deepin.org/zh/post/256901](https://bbs.deepin.org/zh/post/256901)
+
+##### 4.2.4.3 ACE 琥珀兼容环境（原书虫兼容环境）
 
 1. 使用ACE容器运行deepin不支持的新应用的教程:以VLC为例：[https://bbs.deepin.org/post/261794](https://bbs.deepin.org/post/261794)
 2. Chrome 116 ACE版本分享(解决闪退问题) ：[https://bbs.deepin.org/post/261317](https://bbs.deepin.org/post/261317)
@@ -1272,6 +1293,11 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 4. 如何一键打包ACE套娃应用并投递上架：[https://bbs.deepin.org/post/264907](https://bbs.deepin.org/post/264907)
 5. 两条命令在ACE容器中开启命令补全：[https://bbs.deepin.org/post/265775](https://bbs.deepin.org/post/265775)
 6. 使用ACE兼容环境在deepin20/23/UOS家庭版中解决依赖关系不满足：[https://bbs.deepin.org/post/272333](https://bbs.deepin.org/post/272333)
+
+##### 4.2.4.4 其他
+
+1. 使用容器扩展生态（支持图形软件甚至桌面环境）：[https://bbs.deepin.org/post/248123](https://bbs.deepin.org/post/248123)
+2. Podman 及容器技术介绍：[https://bbs.deepin.org/zh/post/257006](https://bbs.deepin.org/zh/post/257006)
 
 ### 4.3 软件开发
 
@@ -1411,8 +1437,6 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 18. Win使用PowerISO提取Linux分区中的文件：[https://bbs.deepin.org/post/281161](https://bbs.deepin.org/post/281161)
 
 ### 6.2 其他
-
-> 目前正在进行细分，争取更加规范。
 
 #### 6.2.1 网页
 
