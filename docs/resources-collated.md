@@ -492,7 +492,6 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 4. 第三方应用圆角适配，移植于cutefish：[https://bbs.deepin.org/zh/post/226223](https://bbs.deepin.org/zh/post/226223)
 5. 分享一种缩小应用标题栏（额头）高度的方法：[https://bbs.deepin.org/zh/post/234783](https://bbs.deepin.org/zh/post/234783)
 6. 一个方便修改GTK应用标题栏高度的脚本：[https://bbs.deepin.org/post/255272](https://bbs.deepin.org/post/255272)
-7. v23 gtk标题栏宽度修改位置：[https://bbs.deepin.org/zh/post/260549](https://bbs.deepin.org/zh/post/260549)
 
 #### 2.5.3 字体
 
@@ -537,13 +536,11 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 #### 2.5.7 其他美化
 
 1. 【Mac布局美化】美化无止境，只要肯折腾：[https://bbs.deepin.org/zh/post/196796](https://bbs.deepin.org/zh/post/196796)
-2. deepin美化系列教程（五）：[https://bbs.deepin.org/zh/post/227803](https://bbs.deepin.org/zh/post/227803)
-3. Win11开机logo(plymouth主题包)：[https://bbs.deepin.org/post/241268](https://bbs.deepin.org/post/241268)
-4. 一个好用又好看的UEFI启动管理器rEFInd：[https://bbs.deepin.org/zh/post/221068](https://bbs.deepin.org/zh/post/221068)
-5. 自用 rEFInd 美化主题 【强烈推荐】：[https://bbs.deepin.org/post/250648](https://bbs.deepin.org/post/250648)
-6. V23Alpha2支持自定义主题色了，分享一些个人觉得好看的颜色：[https://bbs.deepin.org/post/251239](https://bbs.deepin.org/post/251239)
-7. 如何换掉deepin的开机动画，改成静态流浪地球2moss图：[https://bbs.deepin.org/post/250646](https://bbs.deepin.org/post/250646)
-8. 登录锁屏古诗词，每次开机触发刷新：[https://bbs.deepin.org/post/263533](https://bbs.deepin.org/post/263533)
+2. Win11开机logo(plymouth主题包)：[https://bbs.deepin.org/post/241268](https://bbs.deepin.org/post/241268)
+3. 一个好用又好看的UEFI启动管理器rEFInd：[https://bbs.deepin.org/zh/post/221068](https://bbs.deepin.org/zh/post/221068)
+4. 自用 rEFInd 美化主题 【强烈推荐】：[https://bbs.deepin.org/post/250648](https://bbs.deepin.org/post/250648)
+5. 如何换掉deepin的开机动画，改成静态流浪地球2moss图：[https://bbs.deepin.org/post/250646](https://bbs.deepin.org/post/250646)
+6. 登录锁屏古诗词，每次开机触发刷新：[https://bbs.deepin.org/post/263533](https://bbs.deepin.org/post/263533)
 
 ### 2.6 Live 系统/环境
 
@@ -860,9 +857,10 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.1.4.1 Docker
 
-1. docker 的 Dockerfile 简单使用：[https://bbs.deepin.org/post/257767](https://bbs.deepin.org/post/257767)
-2. v23安装docker、nvidia-docker问题爬坑：[https://bbs.deepin.org/post/265043](https://bbs.deepin.org/post/265043)
-3. 【转载】深入浅出Docker原理及实战：[https://bbs.deepin.org/post/267465](https://bbs.deepin.org/post/267465)
+1. docker：[https://www.docker.com](https://www.docker.com)
+2. docker 的 Dockerfile 简单使用：[https://bbs.deepin.org/post/257767](https://bbs.deepin.org/post/257767)
+3. v23安装docker、nvidia-docker问题爬坑：[https://bbs.deepin.org/post/265043](https://bbs.deepin.org/post/265043)
+4. 【转载】深入浅出Docker原理及实战：[https://bbs.deepin.org/post/267465](https://bbs.deepin.org/post/267465)
 
 ##### 4.1.4.2 MySQL
 
