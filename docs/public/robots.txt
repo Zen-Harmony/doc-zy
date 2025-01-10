@@ -1,10 +1,15 @@
+# robots.txt Configuration File
+
 # Basic rules applicable to all web crawlers
 User-agent: *
-Disallow: /archives/    # Forbidden to access archive pages
-Disallow: /categories/  # Forbidden to access category pages
-Disallow: /tags/        # Forbidden to access tag pages
-Disallow: /img/         # Forbidden to access img directory
+# Allowed paths
+Allow: /  
+Allow: /en/  
 
-# General sitemap (applicable to all crawlers, but may be overridden by above rules)
-# Note: This line may be ignored by the general User-agent: * rules in practice
+# Disallowed paths
+Disallow: /assets/ 
+Disallow: /img/ 
+
+# General sitemap applicable to all crawlers (may be overridden by specific crawler rules)
+# Note: Some crawlers may prioritize rules set specifically for them over general rules
 Sitemap: https://doc.zen-harmony.top/sitemap.xml  # Provide general sitemap
