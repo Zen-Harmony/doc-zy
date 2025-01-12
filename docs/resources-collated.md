@@ -468,7 +468,9 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 22. 区分安装的软件应用版本的方法： [https://bbs.deepin.org/post/239807](https://bbs.deepin.org/post/239807)（见精选回复）
 23. 笔记本休眠后唤醒无声音的解决方法：[https://bbs.deepin.org/post/262669](https://bbs.deepin.org/post/262669)
 24. HDMI显示屏休眠唤醒后会有短暂花屏：[https://bbs.deepin.org/post/264510](https://bbs.deepin.org/post/264510)
-
+25. Linux 入门教程（十一）：进程管理全面解析：[https://bbs.deepin.org/post/283327
+](https://bbs.deepin.org/post/283327
+)
 ### 2.5 系统美化
 
 #### 2.5.1 壁纸
