@@ -1326,6 +1326,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 14. 这个打包deb的操作特简单，uos/Deepin打包操作方式，供大家参考：[https://bbs.deepin.org/zh/post/225931](https://bbs.deepin.org/zh/post/225931)
 15. 一点点关于ShiroDEB的介绍：[https://bbs.deepin.org/post/264509](https://bbs.deepin.org/post/264509)
 16. 如何结合"deepin-shared-libs"和"ShiroDEB"进行编译(OBS-Studio)：[https://bbs.deepin.org/post/264980](https://bbs.deepin.org/post/264980)
+17. Linux 进阶教程（二）：如何从源代码打包成 `.deb` 软件包：[https://bbs.deepin.org/post/283430](https://bbs.deepin.org/post/283430)
 
 #### 4.3.3 Qt
 
