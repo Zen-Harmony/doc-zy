@@ -50,7 +50,7 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/' },
           { text: '官网', link: 'https://www.zen-harmony.top' },
-          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
+          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noveri[...]
         ],
         sidebar: {
           '/': [
@@ -91,7 +91,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' },
-          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
+          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noveri[...]
         ],
         sidebar: [
           { text: 'Home', link: '/home' },
@@ -107,7 +107,11 @@ export default defineConfig({
           }
         ],
         sidebarMenuLabel: 'Contents',
-        lastUpdated: true
+        lastUpdated: true,
+        editLink: {
+          pattern: 'https://github.com/zen-harmony/doc-zy/edit/main/docs/:path',
+          text: 'Edit this page on GitHub'
+        },
       },
     }
   },
@@ -120,6 +124,10 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    lastUpdated: true
+    lastUpdated: true,
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2023-present LibraHeresy",
+    },
   }
 })
