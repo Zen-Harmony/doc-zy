@@ -16,7 +16,7 @@ Linux觅知园主要分为两大板块：资源整理和教程站。
 ### [Linux资源整理](/resources-collated)
 
 - 资源整理所引用的教程链接，其版权均归原作者所有。
-- 除非另有特别说明，否则资源整理上的文档均遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)许可协议。
+- 除非另有特别说明，否则资源整理上的文档均遵循 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)许可协议。
 
 ### [Linux教程站](https://tutorial.zen-harmony.top)
 
