@@ -126,7 +126,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     footer: {
-      message: "Released under the MIT License. <a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a>",
+      message: "Released under the CC-BY-4.0 License.<br/><a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a>",
       copyright: "Copyright © 2025-present Zen-Harmony",
     },
   }
