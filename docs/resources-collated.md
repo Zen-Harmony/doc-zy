@@ -104,8 +104,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 4. 11代Intel新硬件安装深度：[https://bbs.deepin.org/zh/post/220443](https://bbs.deepin.org/zh/post/220443)
 5. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
 6. 使用AES进行全盘加密的安装方法：[https://bbs.deepin.org/post/262223](https://bbs.deepin.org/post/262223)
-7. 芜湖~手机上安装deepin教程来啦！：[https://b23.tv/IMmMSR4](https://b23.tv/IMmMSR4)
-8. 在M2芯片的MacBook Pro 上原生安装 Ubuntu 24.04 ARM 版：[https://bbs.deepin.org.cn/post/274413](https://bbs.deepin.org.cn/post/274413)
+7. 在M2芯片的MacBook Pro 上原生安装 Ubuntu 24.04 ARM 版：[https://bbs.deepin.org.cn/post/274413](https://bbs.deepin.org.cn/post/274413)
 
 #### 2.1.8 解决方案
 
@@ -1012,6 +1011,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 1. v23系统下blender打不开解决方法：[https://bbs.deepin.org/post/258784](https://bbs.deepin.org/post/258784)
 2. blender字幕插件：[https://bbs.deepin.org/post/260410](https://bbs.deepin.org/post/260410)
 3. 推荐给用blender的网友，视频剪辑字幕插件的使用方法：[https://bbs.deepin.org/post/260440](https://bbs.deepin.org/post/260440)
+4. 直接中文输入版blender4.4和blender4.3.2：[https://bbs.deepin.org/post/283800](https://bbs.deepin.org/post/283800)
 
 ##### 4.1.8.5 wine版剪映
 
