@@ -175,7 +175,6 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 1. 常用快捷键整理：[https://bbs.deepin.org/zh/post/243512](https://bbs.deepin.org/zh/post/243512)
 2. 怎么取消Alt+空格的快捷键：[https://bbs.deepin.org/post/248391](https://bbs.deepin.org/post/248391)
 3. dde-control-center的快捷键设置无法拉起deepin-screen-recorder：[https://bbs.deepin.org/zh/post/227910](https://bbs.deepin.org/zh/post/227910)
-4. 系统截图快捷键无法使用：[https://bbs.deepin.org/post/264805](https://bbs.deepin.org/post/264805)
 
 ##### 2.4.1.3 文件管理器
 
