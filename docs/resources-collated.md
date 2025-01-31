@@ -88,7 +88,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 7. 实现linux系统在VHD、Vdi虚拟磁盘中运行在实体机里：[https://bbs.deepin.org/zh/post/254673](https://bbs.deepin.org/zh/post/254673)
 8. 把Deepin塞进U盘，即插即用，小白都懂的Linux To Go教程：[https://www.bilibili.com/video/BV1AT411M79x/](https://www.bilibili.com/video/BV1AT411M79x/)
 
-#### 2.1.6 WSL Linux
+#### 2.1.6 WSL
 
 > Ubuntu WSL等 现可从 Microsoft Store 获取。
 
@@ -880,6 +880,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 9. Tiny RDM 一个更现代化的Redis桌面管理客户端：[https://bbs.deepin.org.cn/post/267810](https://bbs.deepin.org.cn/post/267810)
 10. WingHexExplorer2 v2.0.0 正式版发布：[https://bbs.deepin.org/post/282766](https://bbs.deepin.org/post/282766)
 11. COMTool 优雅 好用带图形界面的跨平台网络调试助手：[https://bbs.deepin.org/zh/post/255006](https://bbs.deepin.org/zh/post/255006)
+12. jetbrains 系列软件 String Manipulation 插件中文版：[https://bbs.deepin.org.cn/post/283878](https://bbs.deepin.org.cn/post/283878)
 
 ##### 4.1.4.4 开发教程
 
