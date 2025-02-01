@@ -50,7 +50,7 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/' },
           { text: '官网', link: 'https://www.zen-harmony.top' },
-          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565'
+          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' },
         ],
         sidebar: {
           '/': [
@@ -80,7 +80,7 @@ export default defineConfig({
         returnToTopLabel: '返回顶部',
         lastUpdated: true,
         footer: {
-          message: "<a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a><br/>Released under the <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\">CC BY 4.0</a> license.",
+          message: "<a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a><br/>发布在 <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\">CC BY 4.0</a> 许可证下。",
           copyright: "版权所有 © 2025-present <a href=\"https://github.com/Zen-Harmony\" target=\"_blank\">志海融新</a>"
         }
       }
@@ -95,7 +95,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' },
-          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565'
+          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' },
         ],
         sidebar: [
           { text: 'Home', link: '/home' },
