@@ -50,7 +50,7 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/' },
           { text: '官网', link: 'https://www.zen-harmony.top' },
-          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
+          { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0[...]
         ],
         sidebar: {
           '/': [
@@ -78,7 +78,11 @@ export default defineConfig({
         outlineTitle: '在此页上',
         sidebarMenuLabel: '目录',
         returnToTopLabel: '返回顶部',
-        lastUpdated: true
+        lastUpdated: true,
+        footer: {
+          message: "<a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a><br/>Released under the <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\">CC BY 4.0</a> license.",
+          copyright: "Copyright © 2025-present <a href=\"https://github.com/Zen-Harmony\" target=\"_blank\">志海融新</a>"
+        }
       }
     },
     en: {
@@ -91,7 +95,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' },
-          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' }
+          { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0[...]
         ],
         sidebar: [
           { text: 'Home', link: '/home' },
@@ -112,7 +116,11 @@ export default defineConfig({
           pattern: 'https://github.com/zen-harmony/doc-zy/edit/main/docs/:path',
           text: 'Edit this page on GitHub'
         },
-      },
+        footer: {
+          message: "Released under the <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\">CC BY 4.0</a> license.",
+          copyright: "Copyright © 2025-present <a href=\"https://github.com/Zen-Harmony\" target=\"_blank\">Zen-Harmony</a>"
+        }
+      }
     }
   },
   themeConfig: {
@@ -125,9 +133,5 @@ export default defineConfig({
       provider: 'local'
     },
     lastUpdated: true,
-    footer: {
-      message: "<a href=\"https://icp.gov.moe/?keyword=20250668\" target=\"_blank\">萌ICP备20250668号</a><br/>Released under the <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\"> CC BY 4.0 </a> License.",
-      copyright: "Copyright © 2025-present <a href=\"https://github.com/Zen-Harmony\" target=\"_blank\">Zen-Harmony</a>",
-    },
   }
 })
