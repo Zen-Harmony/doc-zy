@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@catppuccin/vitepress": "^0.1.0",
-    "vitepress-plugin-rss": "^0.3.0"
+    "vitepress-plugin-rss": "^0.3.1"
   }
 }
