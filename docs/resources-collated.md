@@ -296,6 +296,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 11. 高分屏输入法候选框字体过小解决方法（V23Beta2版）：[https://bbs.deepin.org/post/266120](https://bbs.deepin.org/post/266120)
 12. 分享fcitx-rime一些简单的配置经验：[https://bbs.deepin.org/post/270593](https://bbs.deepin.org/post/270593)
 13. 解决fcitx5输入法输入特殊符号问题：[https://zhuanlan.zhihu.com/p/456412590](https://zhuanlan.zhihu.com/p/456412590)
+14. [Fcitx5-RIME] 全新RIME薄荷+万象输入法自动配置脚本：[https://bbs.deepin.org/post/284609](https://bbs.deepin.org/post/284609)
 
 ##### 2.4.4.2 Fcitx
 
@@ -734,6 +735,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 12. 跨平台的文件分享软件-速享【flutter开发】：[https://bbs.deepin.org/post/241839](https://bbs.deepin.org/post/241839)
 13. 局域网传输软件推荐：[https://bbs.deepin.org/zh/post/249194](https://bbs.deepin.org/zh/post/249194)
 14. LanDrop：局域网跨平台传输神器：[https://bbs.deepin.org/post/253758](https://bbs.deepin.org/post/253758)
+15. ADB 桌面开源应用程序——AYA 调试手机的好助手：[https://bbs.deepin.org/post/285080](https://bbs.deepin.org/post/285080)
 
 ##### 4.1.1.4 远程控制
 
@@ -934,6 +936,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 1. 局域网传输软件推荐：[https://bbs.deepin.org/post/249194](https://bbs.deepin.org/post/249194)
 2. 开源跨平台局域网文件传送工具-alley/小路速传：[https://bbs.deepin.org.cn/post/267170](https://bbs.deepin.org.cn/post/267170)
+3. 局域网共享文件 WebDav + Http 服务器 工具分享：[https://bbs.deepin.org/post/284604](https://bbs.deepin.org/post/284604)
 
 ##### 4.1.5.8 问题解决方案
 
@@ -956,6 +959,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 1. bilimini——跨平台的好用的 B 站“桌面端”：[https://bbs.deepin.org/zh/post/225784](https://bbs.deepin.org/zh/post/225784)
 2. b站辅助插件bilibili-evolved现已支持b站视频导出至mpv播放：[https://bbs.deepin.org/zh/post/232228](https://bbs.deepin.org/zh/post/232228)
 3. 一个新的原生c++编写的bilibili客户端，wiliwili：[https://bbs.deepin.org/post/246886](https://bbs.deepin.org/post/246886)
+4. Bilibili缓存视频合并的工具——HLB站缓存合并工具：[https://bbs.deepin.org/post/285022](https://bbs.deepin.org/post/285022)
 
 ##### 4.1.6.2 其他
 
@@ -1027,6 +1031,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 4. 终端部署openAI whisper用于提取音视频字幕：[https://bbs.deepin.org/post/258121](https://bbs.deepin.org/post/258121)
 5. 静态安装ffmpeg高版本：[https://bbs.deepin.org/post/259626](https://bbs.deepin.org/post/259626)
 6. QuickCut：[https://bbs.deepin.org/post/264681](https://bbs.deepin.org/post/264681)
+7. 开源的TS、M2TS视频编辑软件——tsMuxeR：[https://bbs.deepin.org/post/285021](https://bbs.deepin.org/post/285021)
 
 #### 4.1.9 图形图像
 
@@ -1458,6 +1463,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 2. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254) [「走进大模型」篇](https://bbs.deepin.org/post/261256)
 3. 4行命令部署清华大学GLM，自然语言方面效果媲美GPT4（CPU）：[https://bbs.deepin.org/post/267143](https://bbs.deepin.org/post/267143)
 4. 分享一下使用OpenAI api的方法（不是免费的）：[https://bbs.deepin.org/post/267797](https://bbs.deepin.org/post/267797)
+5. 命令行版本的ai客户端：[https://bbs.deepin.org/post/284467](https://bbs.deepin.org/post/284467)
 
 #### 6.2.4 教程分享
 
