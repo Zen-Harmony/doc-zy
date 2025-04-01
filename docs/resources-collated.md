@@ -1148,6 +1148,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 2. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
 3. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org/post/267196](https://bbs.deepin.org/post/267196)
 4. Steam启动星穹列车的教程：[https://bbs.deepin.org/post/270616](https://bbs.deepin.org/post/270616)
+5. steam和epic都使用同一个兼容层的方法：[https://bbs.deepin.org/post/283055](https://bbs.deepin.org/post/283055)
 
 ##### 4.1.15.3 街机模拟器
 
@@ -1173,6 +1174,8 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 13. Counter-Strike 2（反恐精英 2）推出Linux版了：[https://bbs.deepin.org/post/262828](https://bbs.deepin.org/post/262828)
 14. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
 16. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
+17. 卡丁车 SuperTuxKart v1.4 Linux 64位 解锁版：[https://bbs.deepin.org/post/283926](https://bbs.deepin.org/post/283926)
+18. 两个arm64的游戏，魔法门英雄无敌3和主题医院：[https://bbs.deepin.org/post/284025](https://bbs.deepin.org/post/284025)
 
 ##### 4.1.15.5 Wine游戏
 
@@ -1459,7 +1462,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 #### 6.2.3 AI大模型
 
-1. 分享三种使用ChatGPT的办法：[https://bbs.deepin.org/post/259359](https://bbs.deepin.org/post/259359
+1. 分享三种使用ChatGPT的办法：[https://bbs.deepin.org/post/259359](https://bbs.deepin.org/post/259359)
 2. 大模型AIGC分享[「深度学习」篇](https://bbs.deepin.org/post/261254) [「走进大模型」篇](https://bbs.deepin.org/post/261256)
 3. 4行命令部署清华大学GLM，自然语言方面效果媲美GPT4（CPU）：[https://bbs.deepin.org/post/267143](https://bbs.deepin.org/post/267143)
 4. 分享一下使用OpenAI api的方法（不是免费的）：[https://bbs.deepin.org/post/267797](https://bbs.deepin.org/post/267797)
