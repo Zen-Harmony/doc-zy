@@ -105,6 +105,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 5. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
 6. 使用AES进行全盘加密的安装方法：[https://bbs.deepin.org/post/262223](https://bbs.deepin.org/post/262223)
 7. 在M2芯片的MacBook Pro 上原生安装 Ubuntu 24.04 ARM 版：[https://bbs.deepin.org.cn/post/274413](https://bbs.deepin.org.cn/post/274413)
+8. 在安全启动开启的情况下启动deepin 23.1/25 Alpha：[https://bbs.deepin.org/post/286586](https://bbs.deepin.org/post/286586)
 
 #### 2.1.8 解决方案
 
@@ -130,6 +131,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 15. 记录下重装DEEPIN大致经过（有修复引导，要有网络噢）：[https://bbs.deepin.org/post/250687](https://bbs.deepin.org/post/250687)
 16. 用GRUB引导加载V23的ISO：[https://bbs.deepin.org/zh/post/255887](https://bbs.deepin.org/zh/post/255887)
 17. 调整启动菜单界面的分辨率：[https://bbs.deepin.org/post/267059](https://bbs.deepin.org/post/267059)
+18. 【小白教程】一文看懂-如何定位linux无法启动：[https://bbs.deepin.org/post/286371](https://bbs.deepin.org/post/286371)
 
 ### 2.3 系统内核
 
@@ -578,6 +580,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 11. i+n卡如何驱动N卡（启用独显，屏蔽集显）：[https://bbs.deepin.org/post/265380](https://bbs.deepin.org/post/265380)
 12. Ubuntu 安装 Nvidia 显卡驱动及常见问题解决：[https://bbs.deepin.org/post/267544](https://bbs.deepin.org/post/267544)
 13. 老显卡730驱动安装：[https://bbs.deepin.org/post/268273](https://bbs.deepin.org/post/268273)
+14. 天选5pro吃上了4060：[https://bbs.deepin.org/post/286613](https://bbs.deepin.org/post/286613)
 
 ##### 3.1.1.2 AMD显卡
 
