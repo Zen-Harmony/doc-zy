@@ -24,8 +24,8 @@
 
 > 也可以看看其他用户使用 Linux 的[测评感受](https://cloud.baidu.com/article/3249805)。
 
-1. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755) **其他debian系可参考原理差不多**
-2. 再次安装deepin：[https://bbs.deepin.org/zh/post/239388](https://bbs.deepin.org/zh/post/239388)**其他debian系可参考，软件商店用星火应用商店代替**
+1. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755) **(()其他debian系可参考，原理差不多)**
+2. 再次安装deepin：[https://bbs.deepin.org/zh/post/239388](https://bbs.deepin.org/zh/post/239388)**(其他debian系可参考，软件商店可用星火应用商店代替)**
 
 ### 1.2 知识汇总
 
@@ -236,7 +236,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 2.4.2.3 “玲珑”包管理工具集
 
-1. 如意玲珑官网：[https://linglong.dev/](https://linglong.dev/)
+1. 如意玲珑官网：[https://linyaps.org.cn](https://linyaps.org.cn)
 2. 揭秘deepin 23，从这里开始！：[https://bbs.deepin.org/post/241059](https://bbs.deepin.org/post/241059)
 3. 深入探索玲珑 01——玲珑方案的创造！：[https://bbs.deepin.org/post/241762](https://bbs.deepin.org/post/241762)
 4. 深入探究玲珑 02——玲珑组件&权限管理机制！：[https://bbs.deepin.org/post/242144](https://bbs.deepin.org/post/242144)
@@ -248,6 +248,9 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 10. 简单构建一个玲珑应用实例-Demo-htop：[https://bbs.deepin.org/post/273004](https://bbs.deepin.org/post/273004)
 11. 玲珑入门教程：使用迁移脚本将商店在架应用转制为玲珑格式应用：[https://bbs.deepin.org/post/272882](https://bbs.deepin.org/post/272882)
 12. 玲珑打包报 start.sh:行2: ./xxx: No such file or directory 解决方案：[https://bbs.deepin.org/post/273117](https://bbs.deepin.org/post/273117)
+13. 玲珑杀手Go：全新玲珑应用本地构建系统，附Ubuntu源GIMP迁移示例：[https://bbs.deepin.org/post/284779](https://bbs.deepin.org/post/284779)
+14. 玲珑杀手Go - layer子命令：高效构建玲珑应用，大幅降低磁盘压力：[https://bbs.deepin.org/post/285002](https://bbs.deepin.org/post/285002)
+15. 如何手动打包玲珑应用：[https://bbs.deepin.org/post/284550](https://bbs.deepin.org/post/284550)
 
 #### 2.4.3 性能和电源管理
 
@@ -555,7 +558,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 6. 一句命令行安装live系统 解决手动分区无备份还原系统等问题：[https://bbs.deepin.org/zh/post/215165](https://bbs.deepin.org/zh/post/215165)
 7. deepin忘记密码怎么办？--Live系统一步修改用户密码：[https://bbs.deepin.org/zh/post/238135](https://bbs.deepin.org/zh/post/238135)  （注意：任何能使用你电脑的人都可以这样重设密码，因此请采取合适措施来保护数据安全）
 8. liveos下ventoy启动盘无法使用移动硬盘空间的解决办法：[https://bbs.deepin.org/post/266542](https://bbs.deepin.org/post/266542)
-9. deepin v23进入Live CD方式：[https://bbs.deepin.org.cn/post/268321](https://bbs.deepin.org.cn/post/268321)    （23 RC 已支持直接进入 Live）
+9. deepin v23进入Live CD方式：[https://bbs.deepin.org.cn/post/268321](https://bbs.deepin.org.cn/post/268321) （23 RC 已支持直接进入 Live）
 
 ## 三、硬件和设备
 
