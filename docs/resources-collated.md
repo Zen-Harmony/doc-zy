@@ -151,18 +151,17 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 ### 2.4 桌面环境
 
 1. 在Linux中创建应用图标：[https://bbs.deepin.org/zh/post/225323](https://bbs.deepin.org/zh/post/225323)
-2. 想问下应用商店是怎么只获取用户安装的应用的：[https://bbs.deepin.org/zh/post/227355](https://bbs.deepin.org/zh/post/227355)
-3. 隐藏启动器中的图标：[https://bbs.deepin.org/post/267512](https://bbs.deepin.org/post/267512)
-4. 解决 Linux 桌面问题思路分享：[https://bbs.deepin.org/post/253963](https://bbs.deepin.org/post/253963)
-5. Ubuntu、Debian、Deepin 怎样删除多安装的桌面环境？- Linux 小妙招：[https://bbs.deepin.org/zh/post/254209](https://bbs.deepin.org/zh/post/254209)
-6. 在 deepin23 (NVIDIA) 上启用 Wayland：[https://bbs.deepin.org/post/266024](https://bbs.deepin.org/post/266024)
-7. 禁止kwin的自动关闭3D窗管的方法：[https://bbs.deepin.org/zh/post/232810](https://bbs.deepin.org/zh/post/232810)
-8. 最小化，最大化，关闭的按钮不见了：[https://bbs.deepin.org/post/236787](https://bbs.deepin.org/post/236787)
-9. 开机以后任务栏正下方的图标会以一定概率全部消失：[https://bbs.deepin.org/zh/post/244330](https://bbs.deepin.org/zh/post/244330)
-10. 解决QQ等应用的托盘图标的bug：[https://bbs.deepin.org/post/253891](https://bbs.deepin.org/post/253891)
-11. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
-12. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
-13. 系统安装后进入桌面只显示壁纸：[https://bbs.deepin.org/post/266993](https://bbs.deepin.org/post/266993)
+2. 隐藏启动器中的图标：[https://bbs.deepin.org/post/267512](https://bbs.deepin.org/post/267512)
+3. 解决 Linux 桌面问题思路分享：[https://bbs.deepin.org/post/253963](https://bbs.deepin.org/post/253963)
+4. Ubuntu、Debian、Deepin 怎样删除多安装的桌面环境？- Linux 小妙招：[https://bbs.deepin.org/zh/post/254209](https://bbs.deepin.org/zh/post/254209)
+5. 在 deepin23 (NVIDIA) 上启用 Wayland：[https://bbs.deepin.org/post/266024](https://bbs.deepin.org/post/266024)
+6. 禁止kwin的自动关闭3D窗管的方法：[https://bbs.deepin.org/zh/post/232810](https://bbs.deepin.org/zh/post/232810)
+7. 最小化，最大化，关闭的按钮不见了：[https://bbs.deepin.org/post/236787](https://bbs.deepin.org/post/236787)
+8. 开机以后任务栏正下方的图标会以一定概率全部消失：[https://bbs.deepin.org/zh/post/244330](https://bbs.deepin.org/zh/post/244330)
+9. 解决QQ等应用的托盘图标的bug：[https://bbs.deepin.org/post/253891](https://bbs.deepin.org/post/253891)
+10. 设置/校准系统时间的2种方法：[https://bbs.deepin.org/post/260998](https://bbs.deepin.org/post/260998)
+11. 开关飞行模式：[https://bbs.deepin.org/post/265703](https://bbs.deepin.org/post/265703)
+12. 系统安装后进入桌面只显示壁纸：[https://bbs.deepin.org/post/266993](https://bbs.deepin.org/post/266993)
 
 #### 2.4.1 系统配置
 
@@ -410,8 +409,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 25. Deepin20访问WINDOWS10共享盘并获取读写权限心路历程：[https://bbs.deepin.org/post/245662](https://bbs.deepin.org/post/245662)
 26. 安装chfs软件内网共享文件：[https://bbs.deepin.org/zh/post/256574](https://bbs.deepin.org/zh/post/256574)
 27. deepin与win互访局域网共享文件夹，与手机互传文件：[https://bbs.deepin.org/post/260710](https://bbs.deepin.org/post/260710)
-28. Beta3恢复旧版Beta2电脑协同：[https://bbs.deepin.org.cn/post/267886](https://bbs.deepin.org.cn/post/267886)
-29. 双系统蓝牙无缝连接：[https://bbs.deepin.org.cn/post/274422](https://bbs.deepin.org.cn/post/274422)
+28. 双系统蓝牙无缝连接：[https://bbs.deepin.org.cn/post/274422](https://bbs.deepin.org.cn/post/274422)
 
 #### 2.4.8 备份还原
 
