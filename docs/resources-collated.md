@@ -6,7 +6,7 @@
 
 ![banner.jpg](/img/col-banner.webp)
 在这里我们整理了一些有帮助的资源，帮助大家更快捷地找到需要的内容。
-感谢所有提供了资源的网友。若你知道更多对他人有用的资源，或觉得本文需要改进，欢迎在评论中补充或是参与协作。
+感谢所有提供资源的网友。若你知道更多对他人有用的资源，或觉得本文需要改进，欢迎在评论中补充或是参与协作。
 
 部分资料来源于互联网，仅供学习交流使用，版权归原作者所有，[若涉及侵权请联系团队进行删除](/about#联系方式)；
 解决方案仅供参考，**有效性详询发布者或可自行验证，请以实际操作为准**。
@@ -16,7 +16,7 @@
 1. 如遇论坛访问速度慢的问题，可将网址从`.org`替换为`.org.cn`提升体验，图片加载异常可能需要自行解决。
 2. 点击左侧目录中的标题可跳转到对应的位置。（移动版页面在左上角打开目录）
 3. 若要从 GitHub/Gitee 下载软件等的成品，请访问项目地址，在网页的右侧找到“Releases”或“发行版”版块，点击下载最新版本，或跳转到 Releases 页面查看所有版本。
-4. 该页面的资源分类可能会有些不合理，**可以借助浏览器的“在页面上查找”功能（按下 Ctrl+F）寻找你想要的资源，输入的关键词尽量简单精确**。
+4. 该页面的资源分类可能会有些不合理，**可借助浏览器的“在页面上查找”功能（按下 Ctrl+F）寻找你想要的资源，输入的关键词尽量简单精确**。
 
 ## 一、综合
 
@@ -38,6 +38,7 @@
 7. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
 8. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
 9. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
+10. LINUX-TUTORIAL：linux教程在线版：[https://bbs.deepin.org.cn/post/288087](https://bbs.deepin.org.cn/post/288087)
 
 ## 二、系统
 
@@ -132,6 +133,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 16. 用GRUB引导加载V23的ISO：[https://bbs.deepin.org/zh/post/255887](https://bbs.deepin.org/zh/post/255887)
 17. 调整启动菜单界面的分辨率：[https://bbs.deepin.org/post/267059](https://bbs.deepin.org/post/267059)
 18. 【小白教程】一文看懂-如何定位linux无法启动：[https://bbs.deepin.org/post/286371](https://bbs.deepin.org/post/286371)
+19. 关于双系统安装和EFI分区的一些瞎琢磨：[https://bbs.deepin.org.cn/post/288623](https://bbs.deepin.org.cn/post/288623)
 
 ### 2.3 系统内核
 
@@ -600,6 +602,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 1. 屏幕闪烁问题的解决办法：[https://bbs.deepin.org/zh/post/224687](https://bbs.deepin.org/zh/post/224687)
 2. 解决780m核显休眠后唤醒屏幕白屏闪烁：[https://bbs.deepin.org/post/272618](https://bbs.deepin.org/post/272618)
+3. N卡配置Xorg调用显卡（评论区5楼）：[https://bbs.deepin.org.cn/post/288522?postId=1726485](https://bbs.deepin.org.cn/post/288522?postId=1726485)
 
 ### 3.2 网卡
 
@@ -625,6 +628,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 7. matebook14 2021 i5-1135G7 声音问题解决：[https://bbs.deepin.org/post/265354](https://bbs.deepin.org/post/265354)
 8. 一体机，耳机有声音，扬声器没有声音：[https://bbs.deepin.org/post/265491](https://bbs.deepin.org/post/265491)
 9. 解决HUAWEI (C233) Notebook无音频输出：[https://bbs.deepin.org/post/270279](https://bbs.deepin.org/post/270279)
+10. 荣耀笔记本magicbook v14，2022版，声卡问题的部分摸索经验：[https://bbs.deepin.org.cn/post/288213](https://bbs.deepin.org.cn/post/288213)
 
 ### 3.4 打印机和扫描机
 
@@ -643,6 +647,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 13. 求助怎么跨网段连接打印机呢：[https://bbs.deepin.org/zh/post/256129](https://bbs.deepin.org/zh/post/256129)
 14. 打印出来页面只占纸张的四分之一：[https://bbs.deepin.org/post/267484](https://bbs.deepin.org/post/267484)
 15. Windows和Linux互相共享打印机【转贴】：[https://bbs.deepin.org/post/272575](https://bbs.deepin.org/post/272575)
+16. sharp AR-B2201p打印机，请选择通用Generic的IPP Everywhere 驱动（评论区1~3楼）：[https://bbs.deepin.org.cn/post/288621](https://bbs.deepin.org.cn/post/288621)
 
 ### 3.5 指纹
 
@@ -858,6 +863,7 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 3. wine安装e听说中学版：[https://bbs.deepin.org/post/260019](https://bbs.deepin.org/post/260019)
 4. 【Python】中小学电子课本解析下载工具：[https://bbs.deepin.org/post/261226](https://bbs.deepin.org/post/261226)
 5. Wine游戏助手安装及配置粉笔直播课：[https://bbs.deepin.org/post/266887](https://bbs.deepin.org/post/266887)
+6. 欧路词典可用 mdd格式离线英语语音库 1.2GB 下载：[https://bbs.deepin.org.cn/post/287994](https://bbs.deepin.org.cn/post/287994)
 
 #### 4.1.4 编程开发
 
@@ -919,11 +925,9 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.1.5.4 网盘相关
 
-1. 天翼云网盘（wine）下载及打包教程：[https://bbs.deepin.org/zh/post/221558](https://bbs.deepin.org/zh/post/221558)
-2. 关于阿里云盘小白羊的后续：[https://bbs.deepin.org/post/252972](https://bbs.deepin.org/post/252972)
-3. 阿里云盘的几种用法：[https://bbs.deepin.org/post/256790](https://bbs.deepin.org/post/256790)
-4. 阿里云盘的命令行应用，速度不错20m+：[https://bbs.deepin.org/post/258577](https://bbs.deepin.org/post/258577)
-5. 大家心心念的云盘备份软件-备份助手：[https://bbs.deepin.org/post/241930](https://bbs.deepin.org/post/241930)
+1. 阿里云盘的几种用法：[https://bbs.deepin.org/post/256790](https://bbs.deepin.org/post/256790)
+2. 阿里云盘的命令行应用，速度不错20m+：[https://bbs.deepin.org/post/258577](https://bbs.deepin.org/post/258577)
+3. 大家心心念的云盘备份软件-备份助手：[https://bbs.deepin.org/post/241930](https://bbs.deepin.org/post/241930)
 
 ##### 4.1.5.5 下载工具
 
@@ -1163,23 +1167,22 @@ deepin安装教程：[https://www.deepin.org/zh/installation/](https://www.deepi
 
 ##### 4.1.15.4 Linux原生游戏
 
-1. linux下玩24点(题目生成+计算)：[https://bbs.deepin.org/zh/post/217418](https://bbs.deepin.org/zh/post/217418)
-2. 分享一下对于游戏“反恐精英”启动不了和切换中文问题的解决：[https://bbs.deepin.org/zh/post/239420](https://bbs.deepin.org/zh/post/239420)
-3. 星火饥荒解包可加 mod 版：[https://bbs.deepin.org/post/243277](https://bbs.deepin.org/post/243277)
-4. Unciv 开源文明五：[https://bbs.deepin.org/post/246370](https://bbs.deepin.org/post/246370)
-5. 传送门马里奥 mario：[https://bbs.deepin.org/post/246634](https://bbs.deepin.org/post/246634)
-6. Order of Twilight 黎明的秩序：[https://bbs.deepin.org/post/246720](https://bbs.deepin.org/post/246720)
-7. 经典终端贪食蛇游戏 csnaketerm：[https://bbs.deepin.org/post/246804](https://bbs.deepin.org/post/246804)
-8. 战争地带2100 v4.3.3 豪华版发布 更新于2023-01-21：[https://bbs.deepin.org/zh/post/248895](https://bbs.deepin.org/zh/post/248895)
-9. 下一代跨平台 Minecraft 启动器 | WonderLab：[https://bbs.deepin.org/post/250184](https://bbs.deepin.org/post/250184)
-10. 红警2Linux版本，搬运工：[https://bbs.deepin.org/zh/post/254084](https://bbs.deepin.org/zh/post/254084)
-11. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
-12. 用“抖音美好体”画了2套 XBoard/WinBoard 的中国象棋棋子图片主题：[https://bbs.deepin.org/post/264902](https://bbs.deepin.org/post/264902)
-13. Counter-Strike 2（反恐精英 2）推出Linux版了：[https://bbs.deepin.org/post/262828](https://bbs.deepin.org/post/262828)
-14. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
-16. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
-17. 卡丁车 SuperTuxKart v1.4 Linux 64位 解锁版：[https://bbs.deepin.org/post/283926](https://bbs.deepin.org/post/283926)
-18. 两个arm64的游戏，魔法门英雄无敌3和主题医院：[https://bbs.deepin.org/post/284025](https://bbs.deepin.org/post/284025)
+1. 分享一下对于游戏“反恐精英”启动不了和切换中文问题的解决：[https://bbs.deepin.org/zh/post/239420](https://bbs.deepin.org/zh/post/239420)
+2. 星火饥荒解包可加 mod 版：[https://bbs.deepin.org/post/243277](https://bbs.deepin.org/post/243277)
+3. Unciv 开源文明五：[https://bbs.deepin.org/post/246370](https://bbs.deepin.org/post/246370)
+4. 传送门马里奥 mario：[https://bbs.deepin.org/post/246634](https://bbs.deepin.org/post/246634)
+5. Order of Twilight 黎明的秩序：[https://bbs.deepin.org/post/246720](https://bbs.deepin.org/post/246720)
+6. 经典终端贪食蛇游戏 csnaketerm：[https://bbs.deepin.org/post/246804](https://bbs.deepin.org/post/246804)
+7. 战争地带2100 v4.3.3 豪华版发布 更新于2023-01-21：[https://bbs.deepin.org/zh/post/248895](https://bbs.deepin.org/zh/post/248895)
+8. 下一代跨平台 Minecraft 启动器 | WonderLab：[https://bbs.deepin.org/post/250184](https://bbs.deepin.org/post/250184)
+9. 红警2Linux版本，搬运工：[https://bbs.deepin.org/zh/post/254084](https://bbs.deepin.org/zh/post/254084)
+10. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
+11. 用“抖音美好体”画了2套 XBoard/WinBoard 的中国象棋棋子图片主题：[https://bbs.deepin.org/post/264902](https://bbs.deepin.org/post/264902)
+12. Counter-Strike 2（反恐精英 2）推出Linux版了：[https://bbs.deepin.org/post/262828](https://bbs.deepin.org/post/262828)
+13. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
+14. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
+15. 卡丁车 SuperTuxKart v1.4 Linux 64位 解锁版：[https://bbs.deepin.org/post/283926](https://bbs.deepin.org/post/283926)
+16. 两个arm64的游戏，魔法门英雄无敌3和主题医院：[https://bbs.deepin.org/post/284025](https://bbs.deepin.org/post/284025)
 
 ##### 4.1.15.5 Wine游戏
 
