@@ -4,12 +4,12 @@ import type { RSSOptions } from 'vitepress-plugin-rss';
 
 // Define baseURL
 const baseUrl = 'https://zen-harmony.github.io';
-base: '/doc-zy/'
+const siteBase = '/doc-zy/';
 
 // RSS feed configuration
 const RSS: RSSOptions = {
   title: 'Linux Knowledge Base',
-  baseUrl: baseUrl,
+  baseUrl: `${baseUrl}${siteBase}`,
   icon: false,
   copyright: 'Copyright (c) 2025-present, Linux Knowledge Base',
   renderExpect: (fileContent, frontmatter) => {
@@ -23,6 +23,7 @@ const RSS: RSSOptions = {
 
 // VitePress site configuration
 export default defineConfig({
+  base: siteBase,
   vite: {
     plugins: [RssPlugin(RSS)]
   },
@@ -34,7 +35,6 @@ export default defineConfig({
     hostname: baseUrl,
     lastmodDateOnly: false
   },
-  base: "/",
   markdown: {
     theme: {
       light: 'catppuccin-latte',
@@ -128,7 +128,7 @@ export default defineConfig({
     outline: [2, 6],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Zen-Harmony' },
-      { icon: 'rss', link: `${baseUrl}/feed.rss` }
+      { icon: 'rss', link: `${baseUrl}${siteBase}feed.rss` }
     ],
     search: {
       provider: 'local'
