@@ -3,7 +3,7 @@ import { RssPlugin } from 'vitepress-plugin-rss';
 import type { RSSOptions } from 'vitepress-plugin-rss';
 
 // Define baseURL
-const baseUrl = 'https://zen-harmony.github.io/doc-zy/';
+const baseUrl = 'https://zen-harmony.github.io/doc-zy';
 
 // RSS feed configuration
 const RSS: RSSOptions = {
@@ -49,7 +49,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '主页', link: '/' },
-          { text: '官网', link: 'https://www.zen-harmony.top' },
+          { text: '官网', link: 'https://zen-harmony.github.io' },
           { text: 'QQ群组', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' },
         ],
         sidebar: {
@@ -94,7 +94,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Zen Harmony', link: 'https://www.zen-harmony.top/en' },
+          { text: 'Zen Harmony', link: 'https://zen-harmony.github.io/en' },
           { text: 'QQ Group', link: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MSUXualaov6ATpPWtUBay_CPRmSw9lcV&authKey=q3nqdThXrsPMfOZowqT20RKnKoGVW%2FY29Bn%2BwEJGd5Tb8Akzu6zz1gmeyQr4DMX8&noverify=0&group_code=985191565' },
         ],
         sidebar: [
