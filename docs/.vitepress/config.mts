@@ -3,7 +3,7 @@ import { RssPlugin } from 'vitepress-plugin-rss';
 import type { RSSOptions } from 'vitepress-plugin-rss';
 
 // Define baseURL
-const baseUrl = 'https://zen-harmony.github.io/doc-zy';
+const baseUrl = '/doc-zy/';
 
 // RSS feed configuration
 const RSS: RSSOptions = {
