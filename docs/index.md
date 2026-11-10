@@ -17,5 +17,5 @@ hero:
       link: /resources-collated
     - theme: alt
       text: 转到 Linux 教程站
-      link: https://tutorial.zen-harmony.top
+      link: https://zen-harmony.github.io/tutorial/
 ---
